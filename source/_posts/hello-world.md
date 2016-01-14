@@ -10,6 +10,8 @@ title: Hello World
 
 最近读了一本书《Technical Blogging》，读完之后萌生了新想法：重新建立个人网站。
 
+<!--more-->
+
 总结起来，建立个人网站的目的是：
 
 - 练习写作
