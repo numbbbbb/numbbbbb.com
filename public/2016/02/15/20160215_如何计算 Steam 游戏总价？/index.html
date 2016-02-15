@@ -1,11 +1,4 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> 买下 Steam 所有游戏要花多少钱？ · 我的桃源</title><meta name="description" content="先来看效果展示：买下 Steam 所有游戏要花多少钱？。
-背景最近 Steam 玩得比较多，早晨突然想到一个有趣的问题：买下 Steam 所有游戏要花多少钱？
-去 Google 了一下，发现国外有个网站做了计算，但是 2014 年底就停止更新了。研究了一下代码和 Steam API，自己做了一个网站来玩。
-虽然没什么技术含量，但是很好的展示了如何把一个点子变成现实，所以记录下来。
-
-技能和工具这个网站非常简单，涉及到的技术只要初步掌握即可实现。
-
-以下是我用到的技能和工具，你可以根据"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="short icon" href="/favicon.png"><link rel="stylesheet" href="/css/apollo.css"><link rel="stylesheet" href="http://fonts.useso.com/css?family=Source+Sans+Pro:400,600" type="text/css"></head><body><header><a href="/" class="logo-link"><img src="/bloglogo.png"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/" target="_self" class="nav-list-link">博客</a></li><li class="nav-list-item"><a href="http://weibo.com/numbbbbb" target="_blank" class="nav-list-link">微博</a></li><li class="nav-list-item"><a href="/atom.xml" target="_self" class="nav-list-link">RSS</a></li><li class="nav-list-item"><a href="https://github.com/numbbbbb" target="_blank" class="nav-list-link">GITHUB</a></li></ul></header><section class="container"><div class="post"><article class="post-block"><h1 class="post-title">买下 Steam 所有游戏要花多少钱？</h1><div class="post-meta"><div class="post-time">Feb 15, 2016</div></div><div class="post-content"><p>先来看效果展示：<a href="http://steamtuhao.com" target="_blank" rel="external">买下 Steam 所有游戏要花多少钱？</a>。</p>
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> 买下 Steam 所有游戏要花多少钱？ · 我的桃源</title><meta name="description" content="买下 Steam 所有游戏要花多少钱？ - 梁杰"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="short icon" href="/bloglogo.png"><link rel="stylesheet" href="/css/apollo.css"><link rel="stylesheet" href="http://fonts.useso.com/css?family=Source+Sans+Pro:400,600" type="text/css"></head><body><header><a href="/" class="logo-link"><img src="/bloglogo.png"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/" target="_self" class="nav-list-link">博客</a></li><li class="nav-list-item"><a href="http://weibo.com/numbbbbb" target="_blank" class="nav-list-link">微博</a></li><li class="nav-list-item"><a href="/atom.xml" target="_self" class="nav-list-link">RSS</a></li><li class="nav-list-item"><a href="https://github.com/numbbbbb" target="_blank" class="nav-list-link">GITHUB</a></li></ul></header><section class="container"><div class="post"><article class="post-block"><h1 class="post-title">买下 Steam 所有游戏要花多少钱？</h1><div class="post-time">Feb 15, 2016</div><div class="post-content"><p>先来看效果展示：<a href="http://steamtuhao.com" target="_blank" rel="external">买下 Steam 所有游戏要花多少钱？</a>。</p>
 <h2 id="u80CC_u666F"><a href="#u80CC_u666F" class="headerlink" title="背景"></a>背景</h2><p>最近 Steam 玩得比较多，早晨突然想到一个有趣的问题：买下 Steam 所有游戏要花多少钱？</p>
 <p>去 Google 了一下，发现国外有个网站做了计算，但是 2014 年底就停止更新了。研究了一下代码和 Steam API，自己做了一个网站来玩。</p>
 <p>虽然没什么技术含量，但是很好的展示了<strong>如何把一个点子变成现实</strong>，所以记录下来。</p>
@@ -88,9 +81,11 @@
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ python calTotalPrices.py</span><br></pre></td></tr></table></figure>
 <p>报错了。</p>
 <p>具体的错误信息我忘了保存，大概就是说 JSON 不能解析<code>None</code>。打开出错的<code>SteamGames.py</code>定位过去看下，发现调用了一个<code>_open_url</code>函数，搜索一下这个函数看看…………</p>
-<p>没找到。</p>
-<p><img src="http://static.zybuluo.com/numbbbbb/cqpgoa5p52xl6togf4t0bpnz/4.jpeg" alt="掀桌"></p>
-<p>这哥们绝对是恋爱了，否则不可能犯这么弱智的错误。</p>
+<p><del>没找到。</del></p>
+<p><del>这哥们绝对是恋爱了，否则不可能犯这么弱智的错误。</del></p>
+<blockquote>
+<p>经过@Ralph-Wang 提醒，发现<code>_open_url</code>是继承自<code>SteamBase.py</code>中的<code>SteamAPI</code>类。那应该和下面提到的问题一样，因为 URL 里面编码了参数，导致请求返回 null。</p>
+</blockquote>
 <p>好吧，看上下文，这里应该是请求一个 URL 并解析返回的 JSON 内容。</p>
 <p>那我们直接用<code>requests</code>这个库就行。</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ pip install requests</span><br></pre></td></tr></table></figure>
@@ -267,7 +262,7 @@
 </ul>
 <h2 id="u5F00_u6E90_uFF1F"><a href="#u5F00_u6E90_uFF1F" class="headerlink" title="开源？"></a>开源？</h2><p>当然会开源啦！</p>
 <p>不过这个项目的代码太丑，开源出去只会误导新手，所以暂时不开。如果我还有精力和兴趣，会重构甚至重写这个项目，不过现在嘛……我要去休息了。</p>
-</div></article></div></section><footer><div class="paginator"><a class="prev"> </a><a href="/2016/01/14/hello-world/" class="next">下一篇</a></div><div id="disqus_thread"></div><script>var disqus_shortname = 'numbbbbb';
+</div></article></div></section><footer><div class="paginator"><a href="/2016/01/14/hello-world/" class="next">下一篇</a></div><div id="disqus_thread"></div><script>var disqus_shortname = 'numbbbbb';
 var disqus_identifier = '2016/02/15/20160215_如何计算 Steam 游戏总价？/';
 var disqus_title = '买下 Steam 所有游戏要花多少钱？';
 var disqus_url = 'http://yoursite.com/2016/02/15/20160215_如何计算 Steam 游戏总价？/';
@@ -275,4 +270,4 @@ var disqus_url = 'http://yoursite.com/2016/02/15/20160215_如何计算 Steam 游
     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
     dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();</script><script id="dsq-count-scr" src="//numbbbbb.disqus.com/count.js" async></script></footer><script>(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;e=o.createElement(i);r=o.getElementsByTagName(i)[0];e.src='//www.google-analytics.com/analytics.js';r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));ga('create',"UA-72406781-1",'auto');ga('send','pageview');</script><script src="https://cdn.bootcss.com/mathjax/2.5.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script></body></html>
+})();</script><script id="dsq-count-scr" src="//numbbbbb.disqus.com/count.js" async></script><div class="copyright"><p>© undefined - 2016 <a href="http://yoursite.com">梁杰</a>, unless otherwise noted.</p></div></footer><script>(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;e=o.createElement(i);r=o.getElementsByTagName(i)[0];e.src='//www.google-analytics.com/analytics.js';r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));ga('create',"UA-72406781-1",'auto');ga('send','pageview');</script><script src="https://cdn.bootcss.com/mathjax/2.5.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script></body></html>
