@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-14T06:55:53.046Z</updated>
+  <updated>2016-01-14T10:22:05.221Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,20 +18,34 @@
     <title><![CDATA[Hello World]]></title>
     <link href="http://yoursite.com/2016/01/14/hello-world/"/>
     <id>http://yoursite.com/2016/01/14/hello-world/</id>
-    <published>2016-01-14T06:55:53.046Z</published>
-    <updated>2016-01-14T06:55:53.046Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start"><a href="#Quick_Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create_a_new_post"><a href="#Create_a_new_post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server"><a href="#Run_server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files"><a href="#Generate_static_files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites"><a href="#Deploy_to_remote_sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <published>2016-01-14T10:22:05.221Z</published>
+    <updated>2016-01-14T10:22:05.221Z</updated>
+    <content type="html"><![CDATA[<p>等了一个多月，域名备案终于搞定，新个人网站启用。</p>
+<h1 id="u4E3A_u4EC0_u4E48_u8981_u5F00_u4E2A_u4EBA_u7F51_u7AD9_uFF1F"><a href="#u4E3A_u4EC0_u4E48_u8981_u5F00_u4E2A_u4EBA_u7F51_u7AD9_uFF1F" class="headerlink" title="为什么要开个人网站？"></a>为什么要开个人网站？</h1><p>之前有一个 WordPress 搭建的网站，只写了几篇文章，自从开始 <a href="https://github.com/numbbbbb/the-swift-programming-language-in-chinese" target="_blank" rel="external">Swift 文档翻译</a>之后就没有再更新过。</p>
+<p>最近读了一本书《Technical Blogging》，读完之后萌生了新想法：重新建立个人网站。</p>
+<a id="more"></a>
+<p>总结起来，建立个人网站的目的是：</p>
+<ul>
+<li>练习写作</li>
+<li>记录思想</li>
+<li>提高声望</li>
+</ul>
+<h1 id="u51C6_u5907_u600E_u4E48_u505A_uFF1F"><a href="#u51C6_u5907_u600E_u4E48_u505A_uFF1F" class="headerlink" title="准备怎么做？"></a>准备怎么做？</h1><p><a href="https://pragprog.com/book/actb/technical-blogging" target="_blank" rel="external">《Technical Blogging》</a>是一本非常棒的书，从起名到定位到运营到赚钱，详细讲解了技术博客的方方面面。我在阅读的过程中做了大量笔记，我自己也会按照书中内容进行实践。具体的笔记内容会整理之后发布上来。</p>
+<p><a href="http://www.amazon.com/Book-Writing-Ultimate-Guide-Well/dp/0989236706/" target="_blank" rel="external">《The Book on Writing》</a>是一本教你写作的书，介绍了非常多有用的小技巧。我正在阅读这本书，并在实践中掌握这些技巧。</p>
+<h1 id="u8FD9_u4E2A_u535A_u5BA2_u7528_u5230_u7684_u6280_u672F"><a href="#u8FD9_u4E2A_u535A_u5BA2_u7528_u5230_u7684_u6280_u672F" class="headerlink" title="这个博客用到的技术"></a>这个博客用到的技术</h1><ol>
+<li><a href="http://www.aliyun.com" target="_blank" rel="external">阿里云 VPS，Ubuntu 系统</a>：个人感觉并没有大家说的那么烂，国内的个人网站，够用</li>
+<li><a href="http://wanwang.aliyun.com" target="_blank" rel="external">万网域名</a></li>
+<li><a href="https://hexo.io" target="_blank" rel="external">Hexo</a>：静态网站生成器</li>
+<li><a href="https://github.com/pinggod/hexo-theme-apollo" target="_blank" rel="external">apollo 模板</a>：Hexo 的模板，风格来自 Vue.js 的文档，我很喜欢</li>
+<li><a href="http://nginx.org/en/" target="_blank" rel="external">Nginx</a>：反向代理服务器</li>
+<li><a href="http://macdown.uranusjr.com/" target="_blank" rel="external">MacDown</a>：Markdown 编辑器</li>
+</ol>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    <![CDATA[<p>等了一个多月，域名备案终于搞定，新个人网站启用。</p>
+<h1 id="u4E3A_u4EC0_u4E48_u8981_u5F00_u4E2A_u4EBA_u7F51_u7AD9_uFF1F"><a href="#u4E3A_u4EC0_u4E48_u8981_u5F00_u4E2A_u4EBA_u7F51_u7AD9_uFF1F" class="headerlink" title="为什么要开个人网站？"></a>为什么要开个人网站？</h1><p>之前有一个 WordPress 搭建的网站，只写了几篇文章，自从开始 <a href="https://github.com/numbbbbb/the-swift-programming-language-in-chinese">Swift 文档翻译</a>之后就没有再更新过。</p>
+<p>最近读了一本书《Technical Blogging》，读完之后萌生了新想法：重新建立个人网站。</p>]]>
+    
     </summary>
     
   </entry>
