@@ -4,7 +4,7 @@
   <subtitle><![CDATA[梁杰的个人博客]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-15T08:15:53.778Z</updated>
+  <updated>2016-02-15T08:50:08.139Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,8 +18,8 @@
     <title><![CDATA[买下 Steam 所有游戏要花多少钱？]]></title>
     <link href="http://yoursite.com/2016/02/15/20160215_%E5%A6%82%E4%BD%95%E8%AE%A1%E7%AE%97%20Steam%20%E6%B8%B8%E6%88%8F%E6%80%BB%E4%BB%B7%EF%BC%9F/"/>
     <id>http://yoursite.com/2016/02/15/20160215_如何计算 Steam 游戏总价？/</id>
-    <published>2016-02-15T08:15:53.778Z</published>
-    <updated>2016-02-15T08:15:53.778Z</updated>
+    <published>2016-02-15T08:50:08.139Z</published>
+    <updated>2016-02-15T08:50:08.139Z</updated>
     <content type="html"><![CDATA[<p>先来看效果展示：<a href="http://steamtuhao.com" target="_blank" rel="external">买下 Steam 所有游戏要花多少钱？</a>。</p>
 <h2 id="u80CC_u666F"><a href="#u80CC_u666F" class="headerlink" title="背景"></a>背景</h2><p>最近 Steam 玩得比较多，早晨突然想到一个有趣的问题：买下 Steam 所有游戏要花多少钱？</p>
 <p>去 Google 了一下，发现国外有个网站做了计算，但是 2014 年底就停止更新了。研究了一下代码和 Steam API，自己做了一个网站来玩。</p>
@@ -262,7 +262,7 @@
 <p>我承认上面的代码很蠢，或许下一个版本我会重构，现在嘛，Just For Fun!</p>
 <p>分别计算美元和人民币的价格，然后输出。注意输出顺序要和前面的 Node.js 程序对应。</p>
 <p>最后写一个 Linux 的 crontab 命令，每天半夜 12 点自动执行一遍这个程序：</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ crontab <span class="operator">-e</span></span><br><span class="line"><span class="comment"># 执行之后会打开一个文件，在文件倒数第二行写入以下内容</span></span><br><span class="line"><span class="number">24</span> * * * * <span class="built_in">cd</span> /steamtuhao &amp;&amp; nohup python calTotalPrices.py &gt; finalResult &amp;</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ crontab <span class="operator">-e</span></span><br><span class="line"><span class="comment"># 执行之后会打开一个文件，在文件倒数第二行写入以下内容</span></span><br><span class="line"><span class="number">0</span> <span class="number">23</span> * * * <span class="built_in">cd</span> /steamtuhao &amp;&amp; python calTotalPrices.py &gt; result &amp;&amp; mv finalResult finalResult.bak &amp;&amp; mv result finalResult</span><br></pre></td></tr></table></figure>
 <p>这里有个坑，注意，是写到<strong>倒数第二行</strong>，这个文件结尾必须有一个空行！如果写到最后一行无法执行。</p>
 <p>是不是很奇怪？我个人认为这是 Linux 的一个脑残之处。执行<code>man crontab</code>，手册中有一行：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cron requires that each entry in a crontab end in a newline character. &#10;If the last entry in a crontab is missing the newline,&#10;cron  will  consider the crontab (at least partially) broken and refuse to install it.</span><br></pre></td></tr></table></figure>
