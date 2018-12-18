@@ -1,0 +1,218 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> 用 Docker 快速配置前端开发环境 · 梁杰的个人博客</title><meta name="description" content="用 Docker 快速配置前端开发环境 - 梁杰"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="short icon" href="/bloglogo.png"><link rel="stylesheet" href="/css/apollo.css"></head><body><header><a href="/" class="logo-link"><img src="/bloglogo.png"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/" target="_self" class="nav-list-link">博客</a></li><li class="nav-list-item"><a href="http://weibo.com/numbbbbb" target="_blank" class="nav-list-link">微博</a></li><li class="nav-list-item"><a href="/atom.xml" target="_self" class="nav-list-link">RSS</a></li><li class="nav-list-item"><a href="https://github.com/numbbbbb" target="_blank" class="nav-list-link">GITHUB</a></li></ul></header><section class="container"><div class="post"><article class="post-block"><h1 class="post-title">用 Docker 快速配置前端开发环境</h1><div class="post-time">Sep 26, 2016</div><div class="post-content"><p><img src="http://static.zybuluo.com/numbbbbb/ctkmhtvpsy66vz4cbdi6l7f8/logo%20%281%29.jpg" alt="Docker"></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/*&#10;&#25105;&#19981;&#26159; Docker &#19987;&#23478;&#10;&#25991;&#31456;&#26377;&#38169;&#35823;&#20043;&#22788;&#27426;&#36814;&#25351;&#20986;&#65292;&#27426;&#36814;&#21508;&#31181;&#20132;&#27969;&#35752;&#35770;&#10;*/</span><br></pre></td></tr></table></figure>
+<p>今天是你入职第一天。</p>
+<p>你起了个大早，洗漱干净带着材料去入职。</p>
+<p>签了合同，领了机器，坐到工位，泡一杯袋装红茶，按下开机键，输入密码，</p>
+<p>然后，下载 Chrome、Postman、Sublime、盗版 PS、NodeJS、配置 NODE_PATH、安装 cnpm、安装 gulp、安装 webpack、安装 browserify、安装 LessSassStylus、安装 JadeCoffeePostCSS、安装 BabelExpressKoa、安装 gitpm2forever……</p>
+<p>此处省略一万个插件。</p>
+<p>如果顺利的话这个时候你应该已经准备下班了，当然，通常来说都不顺利。</p>
+<p>在这个过程中，你可能会遇到网络问题环境问题兼容问题权限问题配置问题配置问题配置问题配置问题配置问题配置问题配置问题。</p>
+<p>新人第一周周报：</p>
+<ul>
+<li>本周工作：配置环境，熟悉项目</li>
+</ul>
+<h2 id="u5927_u516C_u53F8_u7684_u89E3_u51B3_u65B9_u6CD5"><a href="#u5927_u516C_u53F8_u7684_u89E3_u51B3_u65B9_u6CD5" class="headerlink" title="大公司的解决方法"></a>大公司的解决方法</h2><p><strong>“开发机”</strong>。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/lasklbgd7u8096r2lsybxxjm/%E5%BC%80%E5%8F%91%E6%9C%BA%E6%A8%A1%E5%BC%8F.png" alt="开发机模式"></p>
+<p>大公司的思路很简单：既然你自己搞这么麻烦，那我帮你搞好，给你个账号，直接登录上去开发。</p>
+<p>确实没毛病，不过这个方案必须解决三个问题：</p>
+<ol>
+<li>怎么在本机预览网页</li>
+<li>怎么在本机编辑文件</li>
+<li>怎么在外网访问开发机</li>
+</ol>
+<p>解决方法有很多，这里只说一种：Nginx + Samba + VPN。</p>
+<p>Nginx 可以解决第一个问题。每个工程师分配一个账号，每个账号对应一个域名，Nginx 会把域名解析到对应用户的目录下，这样开发就可以在自己电脑上用域名预览网页（需要配置好 host）。举个例子，我的账号是 liangjie，项目的域名是 www.wisdomtmt.com，那我访问 liangjie.wisdomtmt.com 就可以预览开发机中 liangjie 账号下的项目。</p>
+<p>Samba 可以解决第二个问题。你可以把它理解成 Windows 中的“共享文件夹”。在开发机上配置好 Samba，然后在自己机器上连接开发机，把共享文件夹拖到编辑器中就可以写代码了。</p>
+<p>VPN 可以解决第三个问题。大公司除了专用的软件，还会配套使用硬件来提高安全系数。VPN 硬件类似 U 盾，上面显示一串动态数字密码，定时刷新，每次外网登录 VPN 都需要附加动态密码。</p>
+<p>这样就解决了问题，开发人员可以在自己机器上写代码，然后在浏览器中直接预览，遇到意外情况也可以外网登录开发机修复。</p>
+<p>粗略来看，这套方案没什么技术问题。但是对于中小型公司来说，搭建整套开发机环境、规范开发流程、规范 VPN 使用流程、全公司切到开发机，这一套走下来需要的时间和人力成本都不低。通常来说也只有大公司才玩得起。</p>
+<p>那小公司呢？难道每个新员工都必须浪费时间来配置环境？</p>
+<p>当然不是。</p>
+<h2 id="u51FA_u6765_u5427_uFF0CDocker_uFF01"><a href="#u51FA_u6765_u5427_uFF0CDocker_uFF01" class="headerlink" title="出来吧，Docker！"></a>出来吧，Docker！</h2><p><img src="http://static.zybuluo.com/numbbbbb/19ry2hxlvac0v3cp19igmu7s/Docker%E6%A8%A1%E5%BC%8F.png" alt="Docker 模式"></p>
+<p>主角登场。</p>
+<p>什么是 Docker？我不是 Docker 专家，所以这里不对 Docker 做专业介绍。如果你还不知道 Docker 是什么，把它看成虚拟机就可以了。</p>
+<p>在引入 Docker 之前，我对它做了一些调研，主要想搞清楚以下几个问题：</p>
+<ol>
+<li>Docker 能否跨平台？（毕竟你不能要求公司给所有人配 Mac）</li>
+<li>如何预览 Docker 里的网页？</li>
+<li>如何编辑 Docker 里的文件？</li>
+<li>Docker 能否实现一次配置多处使用？</li>
+</ol>
+<p>由于 Docker 运行在每个人的机器上，因此不存在外网访问问题。</p>
+<p>经过调研，上述问题理论上都可以解决，下面是初步确定的解决方案：</p>
+<ol>
+<li>用 Kitematic 客户端实现跨平台运行 Docker</li>
+<li>用端口映射预览 Docker 里的网页</li>
+<li>用 Samba + 端口映射编辑 Docker 里的文件</li>
+<li>配置一个通用的 Image（镜像）</li>
+</ol>
+<p>这里面有几个概念需要解释。</p>
+<p>首先，Kitematic 是一个 Docker GUI，有了它你就不用和命令行打交道，会方便不少。</p>
+<p>其次，Docker 中最重要的三个概念是 Container（容器）、Image（镜像）和 Volume（卷）。</p>
+<p>Image 是静态内容，如果你要把某个 Image 跑起来，那就需要一个 Container。这里面有一点很重要：<strong>Container 中所做的改动不会保存到 Image</strong>。举个例子，你跑起来一个 Ubuntu Image，然后 <code>touch wisdomtmt</code> 创建一个新文件，这时候如果直接重启 Container，文件就没了。那怎么保存改动？很简单，执行 <code>docker commit ContainerID TAG</code> 即可。这里的 commit 和 git commit 类似，执行之后会把当前状态保存为一个新 Image。</p>
+<p>有同学就要问了，如果每次做改动都要 commit，我写起代码来岂不是很不方便？万一写到一半不小心重启 Docker 怎么办？</p>
+<p>这确实是个问题，Docker 也有对应的解决方法：使用 Volume。</p>
+<p>简单来说，Volume 就是专门存放数据的文件夹，启动 Image 时可以挂载一个或多个 Volume，Volume 中的数据独立于 Image，重启不会丢失。我们创建一个 Volume，挂载到系统的一个目录下，然后把代码都放进去就可以了。</p>
+<p>最后说端口映射。前面说过，Docker 可以看做一个虚拟机，你的所有文件都在里面。如果你在 Container 中运行一个服务器，监听 <code>127.0.0.1:8000</code>，从你自己的机器上直接访问 <code>http://127.0.0.1:8000</code> 是不行的，因为 Container 和你的机器是两个不同的环境。</p>
+<p>那怎么办呢？我们先来看一个大家都熟悉的问题。</p>
+<p>日常开发中我们经常需要让同事预览网页效果，常用的方法是监听 <code>0.0.0.0:8000</code>，然后让同事连接同一个局域网，访问 <code>http://你的机器IP:8000</code> 即可。</p>
+<p>Container 的问题非常相似，只不过我们自己变成了“同事”，需要访问 Docker 内部的网页。看起来只要拿到 Container 的 IP 问题就解决了。</p>
+<p>幸运的是，Container 确实有 IP。</p>
+<p>通常情况下这个 IP 是 192.168.99.100，只能从 Container 的宿主机（也就是运行 Docker 的机器）访问。不过 Container 的情况有些特别，它只关联了 IP，没有关联端口。因此如果想要访问 Container 内部的端口（比如 8000），你需要手动配置端口映射，把 Container 内部的端口映射到 IP 上。</p>
+<p>好了，枯燥的概念讲完了，理解不了也不用着急，跟着下一章走一遍流程就懂了。</p>
+<h2 id="u52A8_u624B"><a href="#u52A8_u624B" class="headerlink" title="动手"></a>动手</h2><p>正式开工之前，先看看我们都要做什么。</p>
+<p>目标：配置一个通用 Image，支持预览网页，支持 Samba 共享文件，预装开发过程中可能用到的包。</p>
+<p>过程：</p>
+<ol>
+<li>下载并安装 Docker Toolbox</li>
+<li>下载并运行 Ubuntu 镜像 </li>
+<li>做常规的初始化工作（换源、安装常用工具）</li>
+<li>安装前端开发工具</li>
+<li>安装和配置 Samba</li>
+<li>配置端口映射</li>
+<li>导出镜像</li>
+</ol>
+<p>Let’s rock!</p>
+<h3 id="1-__u4E0B_u8F7D_u5E76_u5B89_u88C5_Docker_Toolbox"><a href="#1-__u4E0B_u8F7D_u5E76_u5B89_u88C5_Docker_Toolbox" class="headerlink" title="1. 下载并安装 Docker Toolbox"></a>1. 下载并安装 Docker Toolbox</h3><p>Docker Toolbox 是 Docker 官方开发的 Docker 套装，里面有全套 Docker 环境，也有图形化工具 Kitematic，直接下载安装即可。</p>
+<p>Docker Toolbox 支持 Windows 和 Mac OS，可以到<a href="https://www.docker.com/products/docker-toolbox" target="_blank" rel="external">官网</a>下载安装（这一步如果没有 VPN 会比较耗时，最好把两个平台的安装包都下载好，之后直接复制给同事安装）。</p>
+<p>Linux 环境配置可以参考这篇：<a href="https://docs.docker.com/engine/installation/linux/ubuntulinux/" target="_blank" rel="external">Installation on Ubuntu</a>。</p>
+<blockquote>
+<p>下文以 Mac OS 为例，Windows 操作方法类似。</p>
+</blockquote>
+<p>安装完毕之后打开 Kitematic，注册一个 Docker Hub 账号，方便之后的操作。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/1idszdcvo5ipdrqv92iyinlo/DockerHub%E6%B3%A8%E5%86%8C.jpg" alt="注册 Docker Hub 账号"></p>
+<h3 id="2-__u4E0B_u8F7D_u5E76_u8FD0_u884C_Ubuntu__u955C_u50CF"><a href="#2-__u4E0B_u8F7D_u5E76_u8FD0_u884C_Ubuntu__u955C_u50CF" class="headerlink" title="2. 下载并运行 Ubuntu 镜像"></a>2. 下载并运行 Ubuntu 镜像</h3><p>Docker Hub 上有现成的 Ubuntu 镜像，在 Kitematic 中点击左上角的“NEW”，搜索 Ubuntu，选择第二排第一个即可。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/1kc7jx3jog0idj5jagimvtx8/Ubuntu%E9%95%9C%E5%83%8F.jpg" alt="Ubuntu 镜像"></p>
+<p>这个 Ubuntu 镜像是超级精简版，只有一百多兆，不过国内网络下载起来还是很痛苦。没办法，等着吧，反正只需要下载一次。</p>
+<p>下载完成后，在 Kitematic 左侧的 Container 列表中选择 ubuntu，然后点击上方的“START”按钮执行。点击“EXEC”可以进入系统命令行，输入 <code>su</code> 开启 root 权限。这个过程下文不再赘述，统称“打开 Ubuntu 命令行”。</p>
+<p>打开 Ubuntu 命令行后，试着执行几个命令看看效果，比如 <code>ls</code>，<code>cd /</code>。玩完之后，点击 Kitematic 右上角的“Settings”，点击“Ports”，你会看到一个 IP 地址，通常情况下是 <code>192.168.99.100</code>。打开宿主机（你自己的电脑）命令行，输入 <code>ping 192.168.99.100</code>，应该是通的。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/r6499v1mllcz953ymjjqhnde/ping.jpg" alt="ping"></p>
+<p>这样我们就准备好了 Ubuntu 镜像，可以开始配置了。</p>
+<h3 id="3-__u5E38_u89C4_u521D_u59CB_u5316_u5DE5_u4F5C"><a href="#3-__u5E38_u89C4_u521D_u59CB_u5316_u5DE5_u4F5C" class="headerlink" title="3. 常规初始化工作"></a>3. 常规初始化工作</h3><p>Ubuntu 装完系统第一件事是什么？没错，换源。</p>
+<p>“源”其实就是网址，你在 Ubuntu 中用 <code>apt-get install</code> 安装软件的时候就是从“源”下载。Ubuntu 默认的源在国外，安装起来非常慢，所以要先换成国内的源。</p>
+<p>国内有很多 Ubuntu 源，我用的是中科大源。</p>
+<p>你可以直接看<a href="https://lug.ustc.edu.cn/wiki/mirrors/help/ubuntu" target="_blank" rel="external">官方换源教程</a>，也可以直接打开 Ubuntu 命令行（如果你忘了怎么做，看上一节），执行下面的命令：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sed -i &#39;s/archive.ubuntu.com/mirrors.ustc.edu.cn/g&#39; /etc/apt/sources.list&#10;apt-get update</span><br></pre></td></tr></table></figure>
+<p>换源完毕，之后 apt-get 都会从中科大源下载软件。</p>
+<p>前面说过，这个 Ubuntu Image 是超级精简版，很多不重要的工具都被删掉了，包括常用的 vim、curl、ipconfig、ping。除此之外，Linux 最常用的 TAB 补全路径也没有，所以下面先安装必要的编辑器和路径补全：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">apt-get install vim bash-completion</span><br></pre></td></tr></table></figure>
+<p>这样就完成了基础配置，Ubuntu 可以正常用了。</p>
+<h3 id="4-__u5B89_u88C5_u524D_u7AEF_u5F00_u53D1_u5DE5_u5177"><a href="#4-__u5B89_u88C5_u524D_u7AEF_u5F00_u53D1_u5DE5_u5177" class="headerlink" title="4. 安装前端开发工具"></a>4. 安装前端开发工具</h3><p>首先安装 npm：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">apt-get install npm</span><br></pre></td></tr></table></figure>
+<p>然后安装 cnpm，之后所有 npm 操作都改成 cnpm，从淘宝源下载，速度会快很多。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g cnpm --registry=https://registry.npm.taobao.org</span><br></pre></td></tr></table></figure>
+<p>接着安装 n，TJ 大神的 NodeJS 版本管理工具，可以安装多个版本，一键切换。n 需要用到 curl，所以先安装 curl：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">apt-get install curl</span><br></pre></td></tr></table></figure>
+<p>然后安装 n：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cnpm install -g n</span><br></pre></td></tr></table></figure>
+<p>最后使用 n 安装目前的稳定版 NodeJS：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">n stable</span><br></pre></td></tr></table></figure>
+<p>这样就准备好了前端开发需要的基本工具。</p>
+<p>我们的项目目前在使用 Vue，所以我还安装了 vue-cli、browserify、gulp、babel 以及相关的库，你可以根据你的项目需求安装对应的库。</p>
+<h3 id="5-__u5B89_u88C5_u548C_u914D_u7F6E_Samba"><a href="#5-__u5B89_u88C5_u548C_u914D_u7F6E_Samba" class="headerlink" title="5. 安装和配置 Samba"></a>5. 安装和配置 Samba</h3><p>Samba 是文件共享工具，用于在宿主机中编辑 Docker 内部的文件。</p>
+<p>这里有<a href="http://t.cn/RcmyfjN" target="_blank" rel="external">完整配置教程</a>，下面是我整理的超简洁版。</p>
+<p>首先安装 Samba：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">apt-get install samba</span><br></pre></td></tr></table></figure>
+<p>Samba 的用户系统比较特别，简单来说，Samba 的用户确实是系统的用户，但是 Samba 的密码和系统的密码不一样。也就是说，同一个用户在系统和 Samba 中密码需要单独设置，并没有打通。</p>
+<p>Docker 的 Ubuntu Image 用户是 root，我们给 root 设置 Samba 密码：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">smbpasswd -a root</span><br></pre></td></tr></table></figure>
+<p>设置好密码之后，需要创建 Samba 的配置文件，设置共享文件夹和权限：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /etc/samba/smb.conf</span><br></pre></td></tr></table></figure>
+<p>下面是我的配置示例：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[web]&#10;path = /web&#10;available = yes&#10;valid users = root&#10;read only = no&#10;browsable = yes&#10;public = yes&#10;writable = yes</span><br></pre></td></tr></table></figure>
+<p>这里面的重点是 <code>path</code>，指定需要共享的文件夹，这里我共享了 <code>/web</code> 目录，你可以选择一个不同的目录。我的 <code>/web</code> 目录是一个 Volume，用来存放代码，重启 Docker 也不会丢失数据。Volume 的配置方法在后文介绍。</p>
+<p>写好配置之后重启 Samba 服务：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">service smbd restart&#10;service nmbd restart</span><br></pre></td></tr></table></figure>
+<p>这样就完成了 Samba 的配置。</p>
+<p>不过现在你还不能从宿主机连接共享文件夹，因为我们还没有配置端口映射。</p>
+<h3 id="6-__u914D_u7F6E_u7AEF_u53E3_u6620_u5C04"><a href="#6-__u914D_u7F6E_u7AEF_u53E3_u6620_u5C04" class="headerlink" title="6. 配置端口映射"></a>6. 配置端口映射</h3><p>首先明确需要映射的端口。</p>
+<p>Samba 需要用到的端口：137、138、139、445。</p>
+<p>日常开发可能用到的端口：3000、3123（hot-reload 用）、8000、8080。</p>
+<p>接着配置端口映射。</p>
+<blockquote>
+<p>注意：Windows 的 Kitematic 有严重 bug，改动 Settings 下的任何选项都会导致所有配置项丢失，解决方法看下一节</p>
+</blockquote>
+<p>如果你是 Mac 系统，可以直接在 Kitematic 中进行配置。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/c41yrgjnx0dusgv78qouibm7/%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84.jpg" alt="配置端口映射"></p>
+<p>如图所示，直接在 Settings -&gt; Ports 中添加映射即可。</p>
+<p>到这里就已经完成了 Docker Image 的配置，你可以做一些测试，看看共享文件夹和端口映射工作是否正常。</p>
+<p>测试一：</p>
+<ol>
+<li>打开 Ubuntu 命令行，随便 cd 到一个目录（比如 <code>cd /web</code>）</li>
+<li>执行 <code>python -m SimpleHTTPServer</code>，启动一个静态服务器</li>
+<li>在宿主机中访问 <a href="http://192.168.99.100:8000，应该能看到" target="_blank" rel="external">http://192.168.99.100:8000，应该能看到</a> <code>/web</code> 目录下的所有文件</li>
+</ol>
+<p>测试二：</p>
+<ol>
+<li>如果是 Mac 系统，打开 Finder，按下 ⌘+K，输入 <code>smb://192.168.99.100</code>，回车，输入 root 和 Samba 密码，应该能看到共享文件夹（我设置的是 <code>/web</code>）<pre><code>![连接服务器](http://static.zybuluo.com/numbbbbb/xif6i8s3gwwg0rd6si1wb79b/%E8%BF%9E%E6%8E%A5%E6%9C%8D%E5%8A%A1%E5%99%A8.png)
+![选择共享文件夹](http://static.zybuluo.com/numbbbbb/m7nc3vbmxgycxtxrkj67prti/%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6%E5%A4%B9.png)
+</code></pre></li>
+<li>双击共享文件夹，应该能在 Finder 中看到 <code>/web</code> 下的所有文件</li>
+</ol>
+<p>这样就完成了 Docker Image 的所有配置，下面完成最后一件事：导出镜像，供其他人使用。</p>
+<h3 id="7-__u5BFC_u51FA_u955C_u50CF"><a href="#7-__u5BFC_u51FA_u955C_u50CF" class="headerlink" title="7. 导出镜像"></a>7. 导出镜像</h3><p>别忘了前面的提醒：如果不 commit，重启之后所有改动都会丢失！</p>
+<p>所以先 commit。点击 Kitematic 左下角 “DOCKER CLI”，执行：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker ps</span><br></pre></td></tr></table></figure>
+<p>会看到下面这样的输出：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#10140;  ~ docker ps&#10;CONTAINER ID        IMAGE                  COMMAND             CREATED             STATUS              PORTS                                                                                                                                                  NAMES&#10;c5c131f108b1        numbbbbb/ubuntu-test   &#34;/bin/bash&#34;         15 hours ago        Up 50 seconds       0.0.0.0:137-139-&#62;137-139/tcp, 0.0.0.0:445-&#62;445/tcp, 0.0.0.0:3123-&#62;3123/tcp, 0.0.0.0:8000-&#62;8000/tcp, 0.0.0.0:8080-&#62;8080/tcp, 0.0.0.0:32773-&#62;49201/tcp   dev</span><br></pre></td></tr></table></figure>
+<p>复制 Container ID，我这里是 <code>c5c131f108b1</code>，然后执行：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker commit c5c131f108b1 username/imagename</span><br></pre></td></tr></table></figure>
+<p>username 换成你的 Docker Hub 用户名，imagename 换成你的镜像名称。我这里就是 numbbbbb/ubuntu-test。</p>
+<p>commit 之后就可以把当前 Container 导出 Image 了：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker export c5c131f108b1 -o ubuntu</span><br></pre></td></tr></table></figure>
+<p>执行完后，在你的个人目录下（Mac 上是 /Users/你的用户名）可以找到 ubuntu 文件，这就是我们的最终目标：一个完成所有配置的 Image。</p>
+<p>稍微松口气，下面看看新同事入职时如何使用这个 Image。</p>
+<h2 id="u65B0_u4EBA_u4F7F_u7528_u6D41_u7A0B"><a href="#u65B0_u4EBA_u4F7F_u7528_u6D41_u7A0B" class="headerlink" title="新人使用流程"></a>新人使用流程</h2><p>我整理的新人入职配置流程：</p>
+<ol>
+<li>准备好 Docker Toolbox 安装包和 Ubuntu Image</li>
+<li>安装 Docker Toolbox</li>
+<li>打开 Kitematic，注册一个 Docker Hub 账号并登陆</li>
+<li>在 Kitematic 中点击左下角“DOCKER CLI”打开 Docker 命令行</li>
+<li>输入命令<code>docker import</code>，从文件夹中直接把 ubuntu 文件拖拽到命令行中（注意 ubuntu 文件路径中不能有中文，如果有，先把文件移动到另一个纯英文路径的文件夹中）</li>
+<li>输入命令<code>docker images</code>，复制出镜像的 IMAGE ID（类似<code>54184b993d46</code>）</li>
+<li><p>输入命令</p>
+<pre><code>docker run -t -i --privileged -p 137-139:137-139/tcp \
+    -p 445:445/tcp -p 3000:3000/tcp -p 3123:3123/tcp \
+    -p 8000:8000/tcp -p 8080:8080/tcp -d --name dev -v /web IMAGEID \
+    /bin/bash
+</code></pre><p> 把其中的 IMAGEID 替换为上一步复制的内容</p>
+</li>
+<li>回到 Kitematic，应该可以看到左侧多了一个容器，此时环境已经搭建完毕</li>
+</ol>
+<blockquote>
+<p>2016.08.04 Windows 的 Kitematic 有 bug，如果在界面中修改设置会导致 volume 丢失，所以不要在 Kitematic 中修改任何设置，如果要改就从命令行执行</p>
+</blockquote>
+<p>上一节提到过，Windows 的 Kitematic 有 bug，手动添加端口映射会丢失所有配置，所以我们直接用命令添加，只要不从 Kitematic 里修改配置就没问题。</p>
+<p>第 7 步的命令还有一个重要内容，就是 <code>-v /web</code>。这会创建并挂载一个 Volume，挂载目录是 <code>/web</code>，把代码放到这个目录下，就不会因为重启 Docker 丢失数据。</p>
+<h2 id="u6CA1_u6709_u94F6_u5F39"><a href="#u6CA1_u6709_u94F6_u5F39" class="headerlink" title="没有银弹"></a>没有银弹</h2><p>说了很多优点，下面来聊聊用 Docker 做开发环境的缺点。</p>
+<p>首先，Docker 本身还不够成熟。</p>
+<p>Docker 确实很强大，能支持三大操作系统，性能方面也远超传统虚拟机，但是仍然不够成熟。举一个小例子：Kitematic 在 Windows 上丢失配置的 bug 去年年底就有人报过，到现在都没解决。</p>
+<p>其次，Docker 这套体系使用成本并不低。</p>
+<p>试想一下，作为一个开发人员，在写代码之前必须运行 Kitematic、启动 Ubuntu 镜像、连接共享文件夹、进入镜像启动静态服务器。这个流程太重，理想的开发环境应该是透明的，打开电脑就能写代码。或许下一步可以考虑在这方面做一些自动化脚本来辅助开发。</p>
+<h2 id="u5C0F_u7ED3"><a href="#u5C0F_u7ED3" class="headerlink" title="小结"></a>小结</h2><p>用 Docker 做前端开发环境确实可行 — 我们团队已经投入使用 — 但是这套方案还远远谈不上完美，需要继续优化。</p>
+<p>如果你还是不知道怎么选：</p>
+<ul>
+<li>有人有钱有时间，上标准开发机，各大公司都这么搞，肯定没问题</li>
+<li>否则，可以试试 Docker，目前没有发现致命问题。</li>
+</ul>
+<h2 id="One_more_thing"><a href="#One_more_thing" class="headerlink" title="One more thing"></a>One more thing</h2><p>插播一则招聘信息。</p>
+<p>智美运动科技有限公司，坐标深圳，初创但是不差钱。</p>
+<p>没猫没狗没下午茶没饮料没高大上办公室<del>没弹性工作制</del>（老板说有弹性工作制），有什么呢？有靠谱老板，有靠谱同事，有钱。相信我，猫狗零食弹性工作不能帮你融资，也不能帮你买房。</p>
+<p>我们还在招前端，你不需要是大牛，只要脑子灵活有潜力能带起来就行。技术不会可以学，经验不足可以练，主要看潜力。</p>
+<p>如果你相信我的选择，可以来和我聊聊。我的邮箱：ljie@wisdomtmt.com。</p>
+<h2 id="u5173_u4E8E_u6211"><a href="#u5173_u4E8E_u6211" class="headerlink" title="关于我"></a>关于我</h2><p>这一部分是最不重要的，因此放在最后。</p>
+<p>如果你真的读到了这里，想必对这个喋喋不休的家伙有些兴趣。</p>
+<p>我是梁杰，90 后，职业前端，业余 iOS，业余 Python，翻译过多本书。如果你想了解更多信息，可以访问以下链接：</p>
+<ul>
+<li><a href="http://numbbbbb.com" target="_blank" rel="external">我的博客</a>，最近才开始重建，内容不多，不过绝对有趣</li>
+<li><a href="https://github.com/numbbbbb" target="_blank" rel="external">GitHub</a>，或许你点开就会发现“哦原来是你！”</li>
+</ul>
+</div></article></div></section><footer><div class="paginator"><a href="/2016/10/15/20161015_如何从美亚购买 Kindle 电子书/" class="prev">上一篇</a><a href="/2016/08/02/20160802_关于产品，你知道的都是错的/" class="next">下一篇</a></div><div id="disqus_thread"></div><script>var disqus_shortname = 'numbbbbb';
+var disqus_identifier = '2016/09/26/20160926_用 Docker 快速配置前端开发环境/';
+var disqus_title = '用 Docker 快速配置前端开发环境';
+var disqus_url = 'http://yoursite.com/2016/09/26/20160926_用 Docker 快速配置前端开发环境/';
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();</script><script id="dsq-count-scr" src="//numbbbbb.disqus.com/count.js" async></script><div class="copyright"><p>© undefined - 2018 <a href="http://yoursite.com">梁杰</a>, unless otherwise noted.</p></div></footer><script>(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;e=o.createElement(i);r=o.getElementsByTagName(i)[0];e.src='//www.google-analytics.com/analytics.js';r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));ga('create',"UA-72406781-1",'auto');ga('send','pageview');</script><script src="https://cdn.bootcss.com/mathjax/2.5.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script></body></html>

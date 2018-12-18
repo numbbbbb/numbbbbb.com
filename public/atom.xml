@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[梁杰的个人博客]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2017-12-31T22:03:00.502Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[梁杰]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[对《WIRED》一篇文章的分析]]></title>
+    <link href="http://yoursite.com/2018/01/01/20171231/"/>
+    <id>http://yoursite.com/2018/01/01/20171231/</id>
+    <published>2017-12-31T22:03:00.502Z</published>
+    <updated>2017-12-31T22:03:00.502Z</updated>
+    <content type="html"><![CDATA[<p>去年在 Zinio 订阅了《WIRED》的电子版，最近空闲时间比较多，就开始一本一本读。</p>
+<p>《WIRED》中文名是“连线”，这本杂志的主编和作者里出过一大堆名人，比如著名的凯文凯利。如果你还没看过的话，强烈推荐。Zinio <a href="https://ca.zinio.com/www/browse/product.jsp?productId=500671272#/" target="_blank" rel="external">订阅地址</a>，一年 12 期，按年订也就一百多人民币，简直白菜价。</p>
+<p>WIRED 主要关注新兴科技对文化、经济和政治的影响。我个人觉得，WIRED 的目标读者是美国中年白领，就是那种每天衬衫西服，开车上班，空闲时间边喝咖啡边看杂志的人。在这种背景下，WIRED 的作者就需要非常强的写作功底，把晦涩难懂的科技内容用容易理解的方式讲述出来。</p>
+<p>在最新一期的 WIRED 中我读到了一篇非常棒的文章。为了学习作者的文章结构和写作手法，我准备在这篇文章中对它进行分析。</p>
+<p>要分析的这篇文章叫 <a href="https://www.wired.com/story/overwatch-videogame-league-aims-to-become-new-nfl/?mbid=social_fb" target="_blank" rel="external">THE OVERWATCH VIDEOGAME LEAGUE AIMS TO BECOME THE NEW NFL</a>。这篇文章很长，建议你先读完再往下看。</p>
+<p>好的，假设你已经读完了文章。想必你已经产生了一些和我一样的感想。作者用这么长的篇幅从各个角度对守望先锋做了介绍，最难得的是内容一点都不枯燥，读起来就像小说，实在是太厉害了。堆字数不难，讲故事不难，下定义不难，但是把三者结合起来确实不容易。</p>
+<p>我从两个方面对文章进行分析，一个是文章结构，一个是写作手法。</p>
+<h2 id="u6587_u7AE0_u7ED3_u6784"><a href="#u6587_u7AE0_u7ED3_u6784" class="headerlink" title="文章结构"></a>文章结构</h2><p>文章一共有 113 个自然段，下面是每段的主体内容：</p>
+<table>
+<thead>
+<tr>
+<th>自然段编号</th>
+<th>内容</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>主角是职业运动员</td>
+<td>引出主角，让人想往下阅读</td>
+</tr>
+<tr>
+<td>2</td>
+<td>主角每天的日程</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>你可能从没听过他。介绍电子竞技的特点</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>欢迎来到未来的体育</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>电子竞技是一个新东西</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>但是对于主角这类职业玩家来说，不算新；同时说明主角对其他东西都不感兴趣</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>但是主角对一个东西很感兴趣</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>为什么选择守望先锋</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>并不是因为喜欢游戏才玩</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>他为了成为职业玩家投入的时间和牺牲</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>他并不像你想的那样自闭</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>他在游戏上的发展，有公司想签</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>妈妈担心未来发展</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>游戏开发负责人视角，已经有了多款游戏，下一款选什么背景？</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>地球</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>团队开始开发这个游戏</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>这类游戏目前的现状，有点黑暗</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>开发团队确定游戏基调：乐观</td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>游戏背景介绍</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>游戏人物介绍</td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td>游戏模式介绍</td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td>游戏受欢迎，快速发展</td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>游戏官方人员介绍为什么受欢迎</td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td>官方人员发现守望先锋的竞技潜力，顺便介绍电子竞技的现状</td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td>游戏初期就开始有很多人组织比赛，官方认为可以考虑举办官方比赛</td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td>守望先锋联赛就这样诞生了</td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td>暴雪宣布官方联赛，以及粉丝的参与方法</td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td>联赛负责人说这会是新sport，如果你怀疑，联赛举办权售价两亿美元</td>
+<td></td>
+</tr>
+<tr>
+<td>29</td>
+<td>负责人说的两句话，小孩会很自豪看守望先锋比赛</td>
+<td></td>
+</tr>
+<tr>
+<td>30</td>
+<td>联赛团队有人来自传统体育行业，介绍他的看法</td>
+<td></td>
+</tr>
+<tr>
+<td>31</td>
+<td>继续补充他的看法</td>
+<td></td>
+</tr>
+<tr>
+<td>32</td>
+<td>和传统sport对比，新sport一般免费观看</td>
+<td></td>
+</tr>
+<tr>
+<td>33</td>
+<td>观众群体年龄对比</td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
+<td>介绍联赛场地</td>
+<td></td>
+</tr>
+<tr>
+<td>35</td>
+<td>详细介绍场地配置</td>
+<td></td>
+</tr>
+<tr>
+<td>36</td>
+<td>继续介绍场地</td>
+<td></td>
+</tr>
+<tr>
+<td>37</td>
+<td>继续介绍场地，同时介绍解说</td>
+<td></td>
+</tr>
+<tr>
+<td>38</td>
+<td>介绍OB</td>
+<td></td>
+</tr>
+<tr>
+<td>39</td>
+<td>总介绍团队人数，同时回顾sport刚出现时候的批评</td>
+<td></td>
+</tr>
+<tr>
+<td>40</td>
+<td>作者第一次玩守望先锋的感受，有两点震惊，第一点是同时需要处理的信息非常多</td>
+<td></td>
+</tr>
+<tr>
+<td>41</td>
+<td>第二点是死的次数很多</td>
+<td></td>
+</tr>
+<tr>
+<td>42</td>
+<td>描述了一个场景，在玩的时候死掉了，不知道为什么，然后引出死亡回放</td>
+<td></td>
+</tr>
+<tr>
+<td>43</td>
+<td>强调死亡回放</td>
+<td></td>
+</tr>
+<tr>
+<td>44</td>
+<td>介绍死亡回放的作用</td>
+<td></td>
+</tr>
+<tr>
+<td>45</td>
+<td>需要思考队伍配置，敌我对比，信息量很大</td>
+<td></td>
+</tr>
+<tr>
+<td>46</td>
+<td>继续介绍，提出问题，这么难要怎么成为职业玩家？带着问题去主角居住的地方寻找答案</td>
+<td></td>
+</tr>
+<tr>
+<td>47</td>
+<td>到达的时候 看到的景象</td>
+<td></td>
+</tr>
+<tr>
+<td>48</td>
+<td>介绍居住的房子</td>
+<td></td>
+</tr>
+<tr>
+<td>49</td>
+<td>团队每天要锻炼身体。我到的时候他们在准备第一个scrim</td>
+<td></td>
+</tr>
+<tr>
+<td>50</td>
+<td>介绍什么是scrim，一种训练模式</td>
+<td></td>
+</tr>
+<tr>
+<td>51</td>
+<td>队伍训练时候的喊话</td>
+<td></td>
+</tr>
+<tr>
+<td>52</td>
+<td>队伍训练时候的喊话</td>
+<td></td>
+</tr>
+<tr>
+<td>53</td>
+<td>队伍训练时候的喊话</td>
+<td></td>
+</tr>
+<tr>
+<td>54</td>
+<td>队伍训练时候的喊话</td>
+<td></td>
+</tr>
+<tr>
+<td>55</td>
+<td>队伍训练时候的喊话</td>
+<td></td>
+</tr>
+<tr>
+<td>56</td>
+<td>厨师同时在做饭</td>
+<td></td>
+</tr>
+<tr>
+<td>57</td>
+<td>大家不叫真名，叫ID</td>
+<td></td>
+</tr>
+<tr>
+<td>58</td>
+<td>队伍来自各个国家</td>
+<td></td>
+</tr>
+<tr>
+<td>59</td>
+<td>队伍负责人在观察成员</td>
+<td></td>
+</tr>
+<tr>
+<td>60</td>
+<td>队伍都是年轻人，房间很乱</td>
+<td></td>
+</tr>
+<tr>
+<td>61</td>
+<td>强调卫生间更乱</td>
+<td></td>
+</tr>
+<tr>
+<td>62</td>
+<td>介绍负责人对此的看法</td>
+<td></td>
+</tr>
+<tr>
+<td>63</td>
+<td>在休息时间问出问题</td>
+<td></td>
+</tr>
+<tr>
+<td>64</td>
+<td>队员解答</td>
+<td></td>
+</tr>
+<tr>
+<td>65</td>
+<td>介绍这位队员</td>
+<td></td>
+</tr>
+<tr>
+<td>66</td>
+<td>问什么是flick</td>
+<td></td>
+</tr>
+<tr>
+<td>67</td>
+<td>介绍flick</td>
+<td></td>
+</tr>
+<tr>
+<td>68</td>
+<td>成功不只是天分</td>
+<td></td>
+</tr>
+<tr>
+<td>69</td>
+<td>午饭之后继续训练</td>
+<td></td>
+</tr>
+<tr>
+<td>70</td>
+<td>队伍训练时候的喊话</td>
+<td></td>
+</tr>
+<tr>
+<td>71</td>
+<td>队伍训练时候的喊话</td>
+<td></td>
+</tr>
+<tr>
+<td>72</td>
+<td>队伍训练时候的喊话</td>
+<td></td>
+</tr>
+<tr>
+<td>73</td>
+<td>队伍训练时候的喊话</td>
+<td></td>
+</tr>
+<tr>
+<td>74</td>
+<td>队伍训练时候的喊话</td>
+<td></td>
+</tr>
+<tr>
+<td>75</td>
+<td>介绍什么是monkey</td>
+<td></td>
+</tr>
+<tr>
+<td>76</td>
+<td>主角对比赛的期待</td>
+<td></td>
+</tr>
+<tr>
+<td>77</td>
+<td>介绍主角所在的战队</td>
+<td></td>
+</tr>
+<tr>
+<td>78</td>
+<td>介绍工资待遇和合同</td>
+<td></td>
+</tr>
+<tr>
+<td>79</td>
+<td>现在的合同正式多了 不会随便解雇</td>
+<td></td>
+</tr>
+<tr>
+<td>80</td>
+<td>战队待遇 还有比赛奖金</td>
+<td></td>
+</tr>
+<tr>
+<td>81</td>
+<td>队员对合同变化的看法</td>
+<td></td>
+</tr>
+<tr>
+<td>82</td>
+<td>没有女性队员</td>
+<td></td>
+</tr>
+<tr>
+<td>83</td>
+<td>介绍一个知名女性玩家</td>
+<td></td>
+</tr>
+<tr>
+<td>84</td>
+<td>她对游戏环境的看法</td>
+<td></td>
+</tr>
+<tr>
+<td>85</td>
+<td>女玩家处境恶劣</td>
+<td></td>
+</tr>
+<tr>
+<td>86</td>
+<td>骂女玩家的话</td>
+<td></td>
+</tr>
+<tr>
+<td>87</td>
+<td>骂女玩家的话</td>
+<td></td>
+</tr>
+<tr>
+<td>88</td>
+<td>骂女玩家的话</td>
+<td></td>
+</tr>
+<tr>
+<td>89</td>
+<td>骂女玩家的话</td>
+<td></td>
+</tr>
+<tr>
+<td>90</td>
+<td>省略了很多</td>
+<td></td>
+</tr>
+<tr>
+<td>91</td>
+<td>她的评价和感受</td>
+<td></td>
+</tr>
+<tr>
+<td>92</td>
+<td>很多女玩家都是这样的感受，列举女玩家保护自己的方式，包括采访对象假名防止之后求职被发现她的这些言论</td>
+<td></td>
+</tr>
+<tr>
+<td>93</td>
+<td>她的感受</td>
+<td></td>
+</tr>
+<tr>
+<td>94</td>
+<td>官方对此的解决方案，但是问题还是存在</td>
+<td></td>
+</tr>
+<tr>
+<td>95</td>
+<td>另一个女玩家的体验，队友不敢批评她</td>
+<td></td>
+</tr>
+<tr>
+<td>96</td>
+<td>她没有成为职业玩家，但是开始举办比赛，想进官方工作</td>
+<td></td>
+</tr>
+<tr>
+<td>97</td>
+<td>她对这类事件的评价</td>
+<td></td>
+</tr>
+<tr>
+<td>98</td>
+<td>官方的措施</td>
+<td></td>
+</tr>
+<tr>
+<td>99</td>
+<td>强调官方支持的作用</td>
+<td></td>
+</tr>
+<tr>
+<td>100</td>
+<td>官方的发言</td>
+<td></td>
+</tr>
+<tr>
+<td>101</td>
+<td>官方的考虑，其实官方也很难办</td>
+<td></td>
+</tr>
+<tr>
+<td>102</td>
+<td>回到训练地点，已经晚上了，最后一个scrim</td>
+<td></td>
+</tr>
+<tr>
+<td>103</td>
+<td>介绍两队的队员对比</td>
+<td></td>
+</tr>
+<tr>
+<td>104</td>
+<td>对方战队的训练策略</td>
+<td></td>
+</tr>
+<tr>
+<td>105</td>
+<td>电子竞技对年龄要求很高</td>
+<td></td>
+</tr>
+<tr>
+<td>106</td>
+<td>主角也说过类似的话</td>
+<td></td>
+</tr>
+<tr>
+<td>107</td>
+<td>主角成为职业玩家时候有很多不确定因素，前途并不明朗</td>
+<td></td>
+</tr>
+<tr>
+<td>108</td>
+<td>那为什么他还要做职业玩家？主角说是想证明自己</td>
+<td></td>
+</tr>
+<tr>
+<td>109</td>
+<td>作者同意，这和音乐人、演员和作家一样</td>
+<td></td>
+</tr>
+<tr>
+<td>110</td>
+<td>同时，队员找到了应对方法</td>
+<td></td>
+</tr>
+<tr>
+<td>111</td>
+<td>赢了</td>
+<td></td>
+</tr>
+<tr>
+<td>112</td>
+<td>负责人赞赏</td>
+<td></td>
+</tr>
+<tr>
+<td>113</td>
+<td>天黑了</td>
+</tr>
+</tbody>
+</table>
+<p>继续整理，全文按照大主题可以划分成如下几块：</p>
+<table>
+<thead>
+<tr>
+<th>主题</th>
+<th>自然段</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>开头</td>
+<td>1-4</td>
+</tr>
+<tr>
+<td>介绍主角和电子竞技</td>
+<td>5-13</td>
+</tr>
+<tr>
+<td>介绍游戏开发过程</td>
+<td>14-18</td>
+</tr>
+<tr>
+<td>介绍游戏</td>
+<td>19-21</td>
+</tr>
+<tr>
+<td>游戏受欢迎，介绍联赛和执行团队</td>
+<td>22-33</td>
+</tr>
+<tr>
+<td>介绍联赛场地</td>
+<td>34-39</td>
+</tr>
+<tr>
+<td>作者游戏感受</td>
+<td>40-46</td>
+</tr>
+<tr>
+<td>描述训练场地和训练过程</td>
+<td>47-75</td>
+</tr>
+<tr>
+<td>介绍职业选手现状，和过去对比</td>
+<td>76-81</td>
+</tr>
+<tr>
+<td>女性玩家少，相关讨论，官方措施和观点</td>
+<td>82-101</td>
+</tr>
+<tr>
+<td>结尾</td>
+<td>102-113</td>
+</tr>
+</tbody>
+</table>
+<p>从结构上可以看到，作者从很多个角度进行了描写。全文穿插了<strong>职业选手</strong>、<strong>游戏官方</strong>、<strong>作者自己</strong>三个角色，每个角色里又从不同人的角度进行描写，让读者能从多个角度了解守望先锋。</p>
+<p>这里面，作者自己代表的就是读者，一个从来没有接触过电子竞技的人。他自己的采访和描写，就是读者了解电子竞技和守望先锋的过程。</p>
+<p>从结构上也可以学习描述方法。对一个事物进行描述有多个角度，但是文章本身是线性的，所以描述顺序就很重要。</p>
+<p>本文的顺序是由点到线，由线到面。先从主角讲起，引出电子竞技，然后引出开发公司，到这里算是完成了背景介绍。接着介绍游戏发售后很受欢迎，官方产生做联赛的想法，然后引出联赛场地，这时读者已经对电子竞技有了一个比较直观的感受，能和传统体育进行对比。到这里算是完成了整体介绍，下面作者从自己游戏体验开始，介绍了很多游戏细节，让读者对游戏有更深入的理解。同时引出新问题，继续采访。在采访过程中，也描写了战队的生活情况和训练方式，又加深了读者对职业选手的理解。最后提到性别问题，描述完成后回到训练场地，简洁有力的收尾。</p>
+<p>总体来说，要介绍一个东西需要<strong>找好切入点</strong>，一般是一个人。由这个人引出一系列背景介绍，让读者建立整体印象。然后继续引出要讨论的大主题，从多个角度讨论，最好有详细的数据。接着讲自己的体验，把视角拉回到人，补充更多细节内容。最后补充讨论几个独立的问题，然后收尾。</p>
+<p>这样就完成了一篇有意思、有深度、多角度的介绍性文章。</p>
+<p>时刻谨记，你的读者没有任何相关背景知识。</p>
+<h2 id="u5199_u4F5C_u624B_u6CD5"><a href="#u5199_u4F5C_u624B_u6CD5" class="headerlink" title="写作手法"></a>写作手法</h2><p>写作手法是一个比较玄的东西，每个人看都能总结出来不同的手法，我只说我看到的。</p>
+<h3 id="u4EBA_u7269_u8BF4_u7684_u8BDD_u5F88_u91CD_u8981"><a href="#u4EBA_u7269_u8BF4_u7684_u8BDD_u5F88_u91CD_u8981" class="headerlink" title="人物说的话很重要"></a>人物说的话很重要</h3><p>文章多次引用被采访对象的发言，有三个好处。</p>
+<p>第一个好处是直观，人对于其他人说的话有本能的重视，读者看到双引号就仿佛听到对方在说话，比起平铺直叙更能让读者仔细阅读。</p>
+<p>第二个好处是客观，把你想表达的东西放到对话背后，让读者自己去品位，这样不仅更能获得读者认同，读起来也更有意思。</p>
+<p>第三个好处是对话能承上启下。文章中多次用对话承上启下，引出新的内容。</p>
+<h3 id="u591A_u5199_u4E3B_u89C2_uFF0C_u5C11_u4E0B_u7ED3_u8BBA"><a href="#u591A_u5199_u4E3B_u89C2_uFF0C_u5C11_u4E0B_u7ED3_u8BBA" class="headerlink" title="多写主观，少下结论"></a>多写主观，少下结论</h3><p>写作的时候，要把自己看做是“导游”。你的目的是带读者看一遍他想了解的东西，不是灌输你的结论。太多结论和说教会让读者厌烦，你要做的就是让他一直跟着你，把你看到的东西转述给他，让他自己得出结论。</p>
+<h3 id="u5584_u4E8E_u7F16_u201C_u6263_u201D"><a href="#u5584_u4E8E_u7F16_u201C_u6263_u201D" class="headerlink" title="善于编“扣”"></a>善于编“扣”</h3><p>文字之间的“扣”非常重要。比如介绍人，不要上来就说“他是暴雪总裁”。用他说的一句话引出介绍就更自然。也不要上来就说“守望先锋有两个特点”，而是描述自己玩的感受，然后再说特点，让读者感同身受。总之，尽量用扣去推动内容发展，不要“硬叙述”，读起来非常枯燥。最简单的扣就是人物对话。</p>
+<h3 id="u957F_u77ED_u81EA_u7136_u6BB5_u7ED3_u5408_uFF0C_u4EE5_u77ED_u4E3A_u4E3B"><a href="#u957F_u77ED_u81EA_u7136_u6BB5_u7ED3_u5408_uFF0C_u4EE5_u77ED_u4E3A_u4E3B" class="headerlink" title="长短自然段结合，以短为主"></a>长短自然段结合，以短为主</h3><p>纵观全文，长自然段的数量非常少，而且主要出现在开头部分。读者的注意力是在持续下降的，一开始的背景介绍可以适当放长，但是后面的描写部分尽量拆成短自然段，方便阅读。另外，很多对话都可以单独成段，一方面让读者喘口气，另一方面让对话更有力。非对话的单句自然段大多用来强调，或者强行总结（比如“这就诞生了守望先锋联赛”）。</p>
+<h3 id="u5F00_u5934_u548C_u7ED3_u5C3E_u8981_u7528_u5FC3"><a href="#u5F00_u5934_u548C_u7ED3_u5C3E_u8981_u7528_u5FC3" class="headerlink" title="开头和结尾要用心"></a>开头和结尾要用心</h3><p>开头相对简单，从人物描写开始就行。</p>
+<p>结尾要简短有力，有足够留白。通常也以描述结尾，但是要适当契合主题。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>去年在 Zinio 订阅了《WIRED》的电子版，最近空闲时间比较多，就开始一本一本读。</p>
+<p>《WIRED》中文名是“连线”，这本杂志的主编和作者里出过一大堆名人，比如著名的凯文凯利。如果你还没看过的话，强烈推荐。Zinio <a href="https://ca]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[如何从美亚购买 kindle 电子书]]></title>
+    <link href="http://yoursite.com/2016/10/15/20161015_%E5%A6%82%E4%BD%95%E4%BB%8E%E7%BE%8E%E4%BA%9A%E8%B4%AD%E4%B9%B0%20Kindle%20%E7%94%B5%E5%AD%90%E4%B9%A6/"/>
+    <id>http://yoursite.com/2016/10/15/20161015_如何从美亚购买 Kindle 电子书/</id>
+    <published>2016-10-15T10:04:08.119Z</published>
+    <updated>2016-10-15T10:04:08.119Z</updated>
+    <content type="html"><![CDATA[<p>一直想找个手机上最合适的看书工具。前段时间买了 Safari Books Online 的包年服务，但是 SFO 大部分都是技术书，手机又不能边看边写代码，所以一直在找替代品。</p>
+<p>之前就经常看 Tinyfool 老师推荐 kindle 的英文电子书，看了一下确实有不少好书，于是决定折腾一下，搞个美亚账号买书。</p>
+<p>过程不算复杂，不过也算是一波三折，记录下来供大家参考。</p>
+<h2 id="u51C6_u5907_u5DE5_u4F5C"><a href="#u51C6_u5907_u5DE5_u4F5C" class="headerlink" title="准备工作"></a>准备工作</h2><p>要在美亚买书，你需要：</p>
+<ul>
+<li>一张带 Visa/MasterCard/JCB/银联 标志的信用卡</li>
+<li>一台可以上网的电脑</li>
+<li>能看懂英文</li>
+</ul>
+<h2 id="Go_uFF01"><a href="#Go_uFF01" class="headerlink" title="Go！"></a>Go！</h2><p>首先去<a href="https://www.amazon.com" target="_blank" rel="external">美国亚马逊</a>注册一个账号。注意这个账号最好不要和你的中国亚马逊相同，如果使用同一个邮箱注册，要设置不同的密码。最好是用两个不同的邮箱。</p>
+<p>注册完毕之后会自动登录，鼠标移动到菜单栏右侧的“Your Account”，点击下拉列表中的“Your Account”，如下图所示。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/ckpnqayulvhsnnz36nbdk8c8/1.png" alt="Your Account"></p>
+<p>找到下图所示的模块，点击“Manage Payment Options”。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/31hvyvstaisi83t0r63ymhyw/2.png" alt="Manage Payment Options"></p>
+<p>然后点击“Manage 1-Click settings”，如下图所示。这个是一键付款，设置好之后看到想买的电子书点一下就可以直接下单付款。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/by53as9yly6dlrym4dxykuur/3.png" alt="Manage 1-Click settings"></p>
+<p>点击“Enter a new address”，如下图所示。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/bi5orju9vrzhq3xunqasguqo/4.png" alt="Enter a new address"></p>
+<p>这里就是美亚买东西最重要的一步——填写地址。美亚会验证地址是否可用，所以瞎写是不行的。虽然我们买电子书不需要邮寄，但是如果不设置地址就没有办法下单付款。</p>
+<p>怎么办呢？很简单，我找到了一个随机生成可用美国地址的网站：<a href="https://fakena.me/random-real-address/" target="_blank" rel="external">Random Valid US Address</a>，打开之后就会看到一个随机地址，如下所示：</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/iffxzd0nxdx1x7ad5jvoqu9d/5.png" alt="随机地址"></p>
+<p>我已经标注了对应的字段，把地址填写到亚马逊的页面中：</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/j50mbsw7bn4r00j080iulmte/6.png" alt="填写地址"></p>
+<p>“Full name” 写你的名字，“Phone number” 随便写写就行，我这里是写了我的手机号，前面的 86 是国家编码。</p>
+<p>填完之后点下面的“Save &amp; Continue”，就可以看到提交成功：</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/xr7kf4itsj9pjesq74ojg0vd/7.png" alt="提交成功"></p>
+<p>地址添加完了，下一步是添加付款方式。在同一个页面下方，点击“Edit”，如下图所示。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/a74iwvljpyljnqmiru6b260q/8.png" alt="Edit"></p>
+<p>这里正常填你的信用卡信息即可，填完点左下方的“Use this address”，这样就设置完毕了。</p>
+<p>接下来需要设置一下国家。</p>
+<p>首先还是点击右上角的“Your Account”，然后一直往下翻，找到“Manage Your Content and Devices”，点击，如下所示。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/ov9r35cll3pc9jee8yg855lo/9.png" alt="Manage Your Content and Devices"></p>
+<p>会进入新页面。中间有三个大按钮，点击最右边的“Settings”，会看到一个“Country Settings”，点“Change”，会弹出一个地址选择框，点第一个下拉列表，选择你刚才添加的那个地址，然后点“Update”。这样你的“Current country”就会变成“United States”。之后如果想换到其他区也是同样的方法，先创建地址，然后到这里切换国家。</p>
+<p>现在你已经可以买书了，但是书不会自动发到你的设备，因为这个新账号还没有绑定 kindle 设备。</p>
+<p>在你的手机上下载一个 kindle 应用，中国区的就可以，然后用新注册的账号登录。登陆之后在设置里可以看到一个“【发送至KINDLE】电子邮箱”，在网页中把这个邮箱设置成自动发送即可（如果不知道怎么设置可以搜一下，中文版和英文版设置方法一样）。</p>
+<p>现在你就可以买书了！去搜一本 kindle 电子书，直接点“Buy now with 1-Click”就会自动下单付款，等几分钟就会自动同步到手机了。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>一直想找个手机上最合适的看书工具。前段时间买了 Safari Books Online 的包年服务，但是 SFO 大部分都是技术书，手机又不能边看边写代码，所以一直在找替代品。</p>
+<p>之前就经常看 Tinyfool 老师推荐 kindle 的英文电子书，看了一下确实]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[用 Docker 快速配置前端开发环境]]></title>
+    <link href="http://yoursite.com/2016/09/26/20160926_%E7%94%A8%20Docker%20%E5%BF%AB%E9%80%9F%E9%85%8D%E7%BD%AE%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    <id>http://yoursite.com/2016/09/26/20160926_用 Docker 快速配置前端开发环境/</id>
+    <published>2016-09-26T13:40:46.011Z</published>
+    <updated>2016-09-26T13:40:46.011Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://static.zybuluo.com/numbbbbb/ctkmhtvpsy66vz4cbdi6l7f8/logo%20%281%29.jpg" alt="Docker"></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/*&#10;&#25105;&#19981;&#26159; Docker &#19987;&#23478;&#10;&#25991;&#31456;&#26377;&#38169;&#35823;&#20043;&#22788;&#27426;&#36814;&#25351;&#20986;&#65292;&#27426;&#36814;&#21508;&#31181;&#20132;&#27969;&#35752;&#35770;&#10;*/</span><br></pre></td></tr></table></figure>
+<p>今天是你入职第一天。</p>
+<p>你起了个大早，洗漱干净带着材料去入职。</p>
+<p>签了合同，领了机器，坐到工位，泡一杯袋装红茶，按下开机键，输入密码，</p>
+<p>然后，下载 Chrome、Postman、Sublime、盗版 PS、NodeJS、配置 NODE_PATH、安装 cnpm、安装 gulp、安装 webpack、安装 browserify、安装 LessSassStylus、安装 JadeCoffeePostCSS、安装 BabelExpressKoa、安装 gitpm2forever……</p>
+<p>此处省略一万个插件。</p>
+<p>如果顺利的话这个时候你应该已经准备下班了，当然，通常来说都不顺利。</p>
+<p>在这个过程中，你可能会遇到网络问题环境问题兼容问题权限问题配置问题配置问题配置问题配置问题配置问题配置问题配置问题。</p>
+<p>新人第一周周报：</p>
+<ul>
+<li>本周工作：配置环境，熟悉项目</li>
+</ul>
+<h2 id="u5927_u516C_u53F8_u7684_u89E3_u51B3_u65B9_u6CD5"><a href="#u5927_u516C_u53F8_u7684_u89E3_u51B3_u65B9_u6CD5" class="headerlink" title="大公司的解决方法"></a>大公司的解决方法</h2><p><strong>“开发机”</strong>。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/lasklbgd7u8096r2lsybxxjm/%E5%BC%80%E5%8F%91%E6%9C%BA%E6%A8%A1%E5%BC%8F.png" alt="开发机模式"></p>
+<p>大公司的思路很简单：既然你自己搞这么麻烦，那我帮你搞好，给你个账号，直接登录上去开发。</p>
+<p>确实没毛病，不过这个方案必须解决三个问题：</p>
+<ol>
+<li>怎么在本机预览网页</li>
+<li>怎么在本机编辑文件</li>
+<li>怎么在外网访问开发机</li>
+</ol>
+<p>解决方法有很多，这里只说一种：Nginx + Samba + VPN。</p>
+<p>Nginx 可以解决第一个问题。每个工程师分配一个账号，每个账号对应一个域名，Nginx 会把域名解析到对应用户的目录下，这样开发就可以在自己电脑上用域名预览网页（需要配置好 host）。举个例子，我的账号是 liangjie，项目的域名是 www.wisdomtmt.com，那我访问 liangjie.wisdomtmt.com 就可以预览开发机中 liangjie 账号下的项目。</p>
+<p>Samba 可以解决第二个问题。你可以把它理解成 Windows 中的“共享文件夹”。在开发机上配置好 Samba，然后在自己机器上连接开发机，把共享文件夹拖到编辑器中就可以写代码了。</p>
+<p>VPN 可以解决第三个问题。大公司除了专用的软件，还会配套使用硬件来提高安全系数。VPN 硬件类似 U 盾，上面显示一串动态数字密码，定时刷新，每次外网登录 VPN 都需要附加动态密码。</p>
+<p>这样就解决了问题，开发人员可以在自己机器上写代码，然后在浏览器中直接预览，遇到意外情况也可以外网登录开发机修复。</p>
+<p>粗略来看，这套方案没什么技术问题。但是对于中小型公司来说，搭建整套开发机环境、规范开发流程、规范 VPN 使用流程、全公司切到开发机，这一套走下来需要的时间和人力成本都不低。通常来说也只有大公司才玩得起。</p>
+<p>那小公司呢？难道每个新员工都必须浪费时间来配置环境？</p>
+<p>当然不是。</p>
+<h2 id="u51FA_u6765_u5427_uFF0CDocker_uFF01"><a href="#u51FA_u6765_u5427_uFF0CDocker_uFF01" class="headerlink" title="出来吧，Docker！"></a>出来吧，Docker！</h2><p><img src="http://static.zybuluo.com/numbbbbb/19ry2hxlvac0v3cp19igmu7s/Docker%E6%A8%A1%E5%BC%8F.png" alt="Docker 模式"></p>
+<p>主角登场。</p>
+<p>什么是 Docker？我不是 Docker 专家，所以这里不对 Docker 做专业介绍。如果你还不知道 Docker 是什么，把它看成虚拟机就可以了。</p>
+<p>在引入 Docker 之前，我对它做了一些调研，主要想搞清楚以下几个问题：</p>
+<ol>
+<li>Docker 能否跨平台？（毕竟你不能要求公司给所有人配 Mac）</li>
+<li>如何预览 Docker 里的网页？</li>
+<li>如何编辑 Docker 里的文件？</li>
+<li>Docker 能否实现一次配置多处使用？</li>
+</ol>
+<p>由于 Docker 运行在每个人的机器上，因此不存在外网访问问题。</p>
+<p>经过调研，上述问题理论上都可以解决，下面是初步确定的解决方案：</p>
+<ol>
+<li>用 Kitematic 客户端实现跨平台运行 Docker</li>
+<li>用端口映射预览 Docker 里的网页</li>
+<li>用 Samba + 端口映射编辑 Docker 里的文件</li>
+<li>配置一个通用的 Image（镜像）</li>
+</ol>
+<p>这里面有几个概念需要解释。</p>
+<p>首先，Kitematic 是一个 Docker GUI，有了它你就不用和命令行打交道，会方便不少。</p>
+<p>其次，Docker 中最重要的三个概念是 Container（容器）、Image（镜像）和 Volume（卷）。</p>
+<p>Image 是静态内容，如果你要把某个 Image 跑起来，那就需要一个 Container。这里面有一点很重要：<strong>Container 中所做的改动不会保存到 Image</strong>。举个例子，你跑起来一个 Ubuntu Image，然后 <code>touch wisdomtmt</code> 创建一个新文件，这时候如果直接重启 Container，文件就没了。那怎么保存改动？很简单，执行 <code>docker commit ContainerID TAG</code> 即可。这里的 commit 和 git commit 类似，执行之后会把当前状态保存为一个新 Image。</p>
+<p>有同学就要问了，如果每次做改动都要 commit，我写起代码来岂不是很不方便？万一写到一半不小心重启 Docker 怎么办？</p>
+<p>这确实是个问题，Docker 也有对应的解决方法：使用 Volume。</p>
+<p>简单来说，Volume 就是专门存放数据的文件夹，启动 Image 时可以挂载一个或多个 Volume，Volume 中的数据独立于 Image，重启不会丢失。我们创建一个 Volume，挂载到系统的一个目录下，然后把代码都放进去就可以了。</p>
+<p>最后说端口映射。前面说过，Docker 可以看做一个虚拟机，你的所有文件都在里面。如果你在 Container 中运行一个服务器，监听 <code>127.0.0.1:8000</code>，从你自己的机器上直接访问 <code>http://127.0.0.1:8000</code> 是不行的，因为 Container 和你的机器是两个不同的环境。</p>
+<p>那怎么办呢？我们先来看一个大家都熟悉的问题。</p>
+<p>日常开发中我们经常需要让同事预览网页效果，常用的方法是监听 <code>0.0.0.0:8000</code>，然后让同事连接同一个局域网，访问 <code>http://你的机器IP:8000</code> 即可。</p>
+<p>Container 的问题非常相似，只不过我们自己变成了“同事”，需要访问 Docker 内部的网页。看起来只要拿到 Container 的 IP 问题就解决了。</p>
+<p>幸运的是，Container 确实有 IP。</p>
+<p>通常情况下这个 IP 是 192.168.99.100，只能从 Container 的宿主机（也就是运行 Docker 的机器）访问。不过 Container 的情况有些特别，它只关联了 IP，没有关联端口。因此如果想要访问 Container 内部的端口（比如 8000），你需要手动配置端口映射，把 Container 内部的端口映射到 IP 上。</p>
+<p>好了，枯燥的概念讲完了，理解不了也不用着急，跟着下一章走一遍流程就懂了。</p>
+<h2 id="u52A8_u624B"><a href="#u52A8_u624B" class="headerlink" title="动手"></a>动手</h2><p>正式开工之前，先看看我们都要做什么。</p>
+<p>目标：配置一个通用 Image，支持预览网页，支持 Samba 共享文件，预装开发过程中可能用到的包。</p>
+<p>过程：</p>
+<ol>
+<li>下载并安装 Docker Toolbox</li>
+<li>下载并运行 Ubuntu 镜像 </li>
+<li>做常规的初始化工作（换源、安装常用工具）</li>
+<li>安装前端开发工具</li>
+<li>安装和配置 Samba</li>
+<li>配置端口映射</li>
+<li>导出镜像</li>
+</ol>
+<p>Let’s rock!</p>
+<h3 id="1-__u4E0B_u8F7D_u5E76_u5B89_u88C5_Docker_Toolbox"><a href="#1-__u4E0B_u8F7D_u5E76_u5B89_u88C5_Docker_Toolbox" class="headerlink" title="1. 下载并安装 Docker Toolbox"></a>1. 下载并安装 Docker Toolbox</h3><p>Docker Toolbox 是 Docker 官方开发的 Docker 套装，里面有全套 Docker 环境，也有图形化工具 Kitematic，直接下载安装即可。</p>
+<p>Docker Toolbox 支持 Windows 和 Mac OS，可以到<a href="https://www.docker.com/products/docker-toolbox" target="_blank" rel="external">官网</a>下载安装（这一步如果没有 VPN 会比较耗时，最好把两个平台的安装包都下载好，之后直接复制给同事安装）。</p>
+<p>Linux 环境配置可以参考这篇：<a href="https://docs.docker.com/engine/installation/linux/ubuntulinux/" target="_blank" rel="external">Installation on Ubuntu</a>。</p>
+<blockquote>
+<p>下文以 Mac OS 为例，Windows 操作方法类似。</p>
+</blockquote>
+<p>安装完毕之后打开 Kitematic，注册一个 Docker Hub 账号，方便之后的操作。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/1idszdcvo5ipdrqv92iyinlo/DockerHub%E6%B3%A8%E5%86%8C.jpg" alt="注册 Docker Hub 账号"></p>
+<h3 id="2-__u4E0B_u8F7D_u5E76_u8FD0_u884C_Ubuntu__u955C_u50CF"><a href="#2-__u4E0B_u8F7D_u5E76_u8FD0_u884C_Ubuntu__u955C_u50CF" class="headerlink" title="2. 下载并运行 Ubuntu 镜像"></a>2. 下载并运行 Ubuntu 镜像</h3><p>Docker Hub 上有现成的 Ubuntu 镜像，在 Kitematic 中点击左上角的“NEW”，搜索 Ubuntu，选择第二排第一个即可。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/1kc7jx3jog0idj5jagimvtx8/Ubuntu%E9%95%9C%E5%83%8F.jpg" alt="Ubuntu 镜像"></p>
+<p>这个 Ubuntu 镜像是超级精简版，只有一百多兆，不过国内网络下载起来还是很痛苦。没办法，等着吧，反正只需要下载一次。</p>
+<p>下载完成后，在 Kitematic 左侧的 Container 列表中选择 ubuntu，然后点击上方的“START”按钮执行。点击“EXEC”可以进入系统命令行，输入 <code>su</code> 开启 root 权限。这个过程下文不再赘述，统称“打开 Ubuntu 命令行”。</p>
+<p>打开 Ubuntu 命令行后，试着执行几个命令看看效果，比如 <code>ls</code>，<code>cd /</code>。玩完之后，点击 Kitematic 右上角的“Settings”，点击“Ports”，你会看到一个 IP 地址，通常情况下是 <code>192.168.99.100</code>。打开宿主机（你自己的电脑）命令行，输入 <code>ping 192.168.99.100</code>，应该是通的。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/r6499v1mllcz953ymjjqhnde/ping.jpg" alt="ping"></p>
+<p>这样我们就准备好了 Ubuntu 镜像，可以开始配置了。</p>
+<h3 id="3-__u5E38_u89C4_u521D_u59CB_u5316_u5DE5_u4F5C"><a href="#3-__u5E38_u89C4_u521D_u59CB_u5316_u5DE5_u4F5C" class="headerlink" title="3. 常规初始化工作"></a>3. 常规初始化工作</h3><p>Ubuntu 装完系统第一件事是什么？没错，换源。</p>
+<p>“源”其实就是网址，你在 Ubuntu 中用 <code>apt-get install</code> 安装软件的时候就是从“源”下载。Ubuntu 默认的源在国外，安装起来非常慢，所以要先换成国内的源。</p>
+<p>国内有很多 Ubuntu 源，我用的是中科大源。</p>
+<p>你可以直接看<a href="https://lug.ustc.edu.cn/wiki/mirrors/help/ubuntu" target="_blank" rel="external">官方换源教程</a>，也可以直接打开 Ubuntu 命令行（如果你忘了怎么做，看上一节），执行下面的命令：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sed -i &#39;s/archive.ubuntu.com/mirrors.ustc.edu.cn/g&#39; /etc/apt/sources.list&#10;apt-get update</span><br></pre></td></tr></table></figure>
+<p>换源完毕，之后 apt-get 都会从中科大源下载软件。</p>
+<p>前面说过，这个 Ubuntu Image 是超级精简版，很多不重要的工具都被删掉了，包括常用的 vim、curl、ipconfig、ping。除此之外，Linux 最常用的 TAB 补全路径也没有，所以下面先安装必要的编辑器和路径补全：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">apt-get install vim bash-completion</span><br></pre></td></tr></table></figure>
+<p>这样就完成了基础配置，Ubuntu 可以正常用了。</p>
+<h3 id="4-__u5B89_u88C5_u524D_u7AEF_u5F00_u53D1_u5DE5_u5177"><a href="#4-__u5B89_u88C5_u524D_u7AEF_u5F00_u53D1_u5DE5_u5177" class="headerlink" title="4. 安装前端开发工具"></a>4. 安装前端开发工具</h3><p>首先安装 npm：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">apt-get install npm</span><br></pre></td></tr></table></figure>
+<p>然后安装 cnpm，之后所有 npm 操作都改成 cnpm，从淘宝源下载，速度会快很多。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g cnpm --registry=https://registry.npm.taobao.org</span><br></pre></td></tr></table></figure>
+<p>接着安装 n，TJ 大神的 NodeJS 版本管理工具，可以安装多个版本，一键切换。n 需要用到 curl，所以先安装 curl：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">apt-get install curl</span><br></pre></td></tr></table></figure>
+<p>然后安装 n：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cnpm install -g n</span><br></pre></td></tr></table></figure>
+<p>最后使用 n 安装目前的稳定版 NodeJS：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">n stable</span><br></pre></td></tr></table></figure>
+<p>这样就准备好了前端开发需要的基本工具。</p>
+<p>我们的项目目前在使用 Vue，所以我还安装了 vue-cli、browserify、gulp、babel 以及相关的库，你可以根据你的项目需求安装对应的库。</p>
+<h3 id="5-__u5B89_u88C5_u548C_u914D_u7F6E_Samba"><a href="#5-__u5B89_u88C5_u548C_u914D_u7F6E_Samba" class="headerlink" title="5. 安装和配置 Samba"></a>5. 安装和配置 Samba</h3><p>Samba 是文件共享工具，用于在宿主机中编辑 Docker 内部的文件。</p>
+<p>这里有<a href="http://t.cn/RcmyfjN" target="_blank" rel="external">完整配置教程</a>，下面是我整理的超简洁版。</p>
+<p>首先安装 Samba：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">apt-get install samba</span><br></pre></td></tr></table></figure>
+<p>Samba 的用户系统比较特别，简单来说，Samba 的用户确实是系统的用户，但是 Samba 的密码和系统的密码不一样。也就是说，同一个用户在系统和 Samba 中密码需要单独设置，并没有打通。</p>
+<p>Docker 的 Ubuntu Image 用户是 root，我们给 root 设置 Samba 密码：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">smbpasswd -a root</span><br></pre></td></tr></table></figure>
+<p>设置好密码之后，需要创建 Samba 的配置文件，设置共享文件夹和权限：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /etc/samba/smb.conf</span><br></pre></td></tr></table></figure>
+<p>下面是我的配置示例：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[web]&#10;path = /web&#10;available = yes&#10;valid users = root&#10;read only = no&#10;browsable = yes&#10;public = yes&#10;writable = yes</span><br></pre></td></tr></table></figure>
+<p>这里面的重点是 <code>path</code>，指定需要共享的文件夹，这里我共享了 <code>/web</code> 目录，你可以选择一个不同的目录。我的 <code>/web</code> 目录是一个 Volume，用来存放代码，重启 Docker 也不会丢失数据。Volume 的配置方法在后文介绍。</p>
+<p>写好配置之后重启 Samba 服务：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">service smbd restart&#10;service nmbd restart</span><br></pre></td></tr></table></figure>
+<p>这样就完成了 Samba 的配置。</p>
+<p>不过现在你还不能从宿主机连接共享文件夹，因为我们还没有配置端口映射。</p>
+<h3 id="6-__u914D_u7F6E_u7AEF_u53E3_u6620_u5C04"><a href="#6-__u914D_u7F6E_u7AEF_u53E3_u6620_u5C04" class="headerlink" title="6. 配置端口映射"></a>6. 配置端口映射</h3><p>首先明确需要映射的端口。</p>
+<p>Samba 需要用到的端口：137、138、139、445。</p>
+<p>日常开发可能用到的端口：3000、3123（hot-reload 用）、8000、8080。</p>
+<p>接着配置端口映射。</p>
+<blockquote>
+<p>注意：Windows 的 Kitematic 有严重 bug，改动 Settings 下的任何选项都会导致所有配置项丢失，解决方法看下一节</p>
+</blockquote>
+<p>如果你是 Mac 系统，可以直接在 Kitematic 中进行配置。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/c41yrgjnx0dusgv78qouibm7/%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84.jpg" alt="配置端口映射"></p>
+<p>如图所示，直接在 Settings -&gt; Ports 中添加映射即可。</p>
+<p>到这里就已经完成了 Docker Image 的配置，你可以做一些测试，看看共享文件夹和端口映射工作是否正常。</p>
+<p>测试一：</p>
+<ol>
+<li>打开 Ubuntu 命令行，随便 cd 到一个目录（比如 <code>cd /web</code>）</li>
+<li>执行 <code>python -m SimpleHTTPServer</code>，启动一个静态服务器</li>
+<li>在宿主机中访问 <a href="http://192.168.99.100:8000，应该能看到" target="_blank" rel="external">http://192.168.99.100:8000，应该能看到</a> <code>/web</code> 目录下的所有文件</li>
+</ol>
+<p>测试二：</p>
+<ol>
+<li>如果是 Mac 系统，打开 Finder，按下 ⌘+K，输入 <code>smb://192.168.99.100</code>，回车，输入 root 和 Samba 密码，应该能看到共享文件夹（我设置的是 <code>/web</code>）<pre><code>![连接服务器](http://static.zybuluo.com/numbbbbb/xif6i8s3gwwg0rd6si1wb79b/%E8%BF%9E%E6%8E%A5%E6%9C%8D%E5%8A%A1%E5%99%A8.png)
+![选择共享文件夹](http://static.zybuluo.com/numbbbbb/m7nc3vbmxgycxtxrkj67prti/%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6%E5%A4%B9.png)
+</code></pre></li>
+<li>双击共享文件夹，应该能在 Finder 中看到 <code>/web</code> 下的所有文件</li>
+</ol>
+<p>这样就完成了 Docker Image 的所有配置，下面完成最后一件事：导出镜像，供其他人使用。</p>
+<h3 id="7-__u5BFC_u51FA_u955C_u50CF"><a href="#7-__u5BFC_u51FA_u955C_u50CF" class="headerlink" title="7. 导出镜像"></a>7. 导出镜像</h3><p>别忘了前面的提醒：如果不 commit，重启之后所有改动都会丢失！</p>
+<p>所以先 commit。点击 Kitematic 左下角 “DOCKER CLI”，执行：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker ps</span><br></pre></td></tr></table></figure>
+<p>会看到下面这样的输出：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#10140;  ~ docker ps&#10;CONTAINER ID        IMAGE                  COMMAND             CREATED             STATUS              PORTS                                                                                                                                                  NAMES&#10;c5c131f108b1        numbbbbb/ubuntu-test   &#34;/bin/bash&#34;         15 hours ago        Up 50 seconds       0.0.0.0:137-139-&#62;137-139/tcp, 0.0.0.0:445-&#62;445/tcp, 0.0.0.0:3123-&#62;3123/tcp, 0.0.0.0:8000-&#62;8000/tcp, 0.0.0.0:8080-&#62;8080/tcp, 0.0.0.0:32773-&#62;49201/tcp   dev</span><br></pre></td></tr></table></figure>
+<p>复制 Container ID，我这里是 <code>c5c131f108b1</code>，然后执行：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker commit c5c131f108b1 username/imagename</span><br></pre></td></tr></table></figure>
+<p>username 换成你的 Docker Hub 用户名，imagename 换成你的镜像名称。我这里就是 numbbbbb/ubuntu-test。</p>
+<p>commit 之后就可以把当前 Container 导出 Image 了：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker export c5c131f108b1 -o ubuntu</span><br></pre></td></tr></table></figure>
+<p>执行完后，在你的个人目录下（Mac 上是 /Users/你的用户名）可以找到 ubuntu 文件，这就是我们的最终目标：一个完成所有配置的 Image。</p>
+<p>稍微松口气，下面看看新同事入职时如何使用这个 Image。</p>
+<h2 id="u65B0_u4EBA_u4F7F_u7528_u6D41_u7A0B"><a href="#u65B0_u4EBA_u4F7F_u7528_u6D41_u7A0B" class="headerlink" title="新人使用流程"></a>新人使用流程</h2><p>我整理的新人入职配置流程：</p>
+<ol>
+<li>准备好 Docker Toolbox 安装包和 Ubuntu Image</li>
+<li>安装 Docker Toolbox</li>
+<li>打开 Kitematic，注册一个 Docker Hub 账号并登陆</li>
+<li>在 Kitematic 中点击左下角“DOCKER CLI”打开 Docker 命令行</li>
+<li>输入命令<code>docker import</code>，从文件夹中直接把 ubuntu 文件拖拽到命令行中（注意 ubuntu 文件路径中不能有中文，如果有，先把文件移动到另一个纯英文路径的文件夹中）</li>
+<li>输入命令<code>docker images</code>，复制出镜像的 IMAGE ID（类似<code>54184b993d46</code>）</li>
+<li><p>输入命令</p>
+<pre><code>docker run -t -i --privileged -p 137-139:137-139/tcp \
+    -p 445:445/tcp -p 3000:3000/tcp -p 3123:3123/tcp \
+    -p 8000:8000/tcp -p 8080:8080/tcp -d --name dev -v /web IMAGEID \
+    /bin/bash
+</code></pre><p> 把其中的 IMAGEID 替换为上一步复制的内容</p>
+</li>
+<li>回到 Kitematic，应该可以看到左侧多了一个容器，此时环境已经搭建完毕</li>
+</ol>
+<blockquote>
+<p>2016.08.04 Windows 的 Kitematic 有 bug，如果在界面中修改设置会导致 volume 丢失，所以不要在 Kitematic 中修改任何设置，如果要改就从命令行执行</p>
+</blockquote>
+<p>上一节提到过，Windows 的 Kitematic 有 bug，手动添加端口映射会丢失所有配置，所以我们直接用命令添加，只要不从 Kitematic 里修改配置就没问题。</p>
+<p>第 7 步的命令还有一个重要内容，就是 <code>-v /web</code>。这会创建并挂载一个 Volume，挂载目录是 <code>/web</code>，把代码放到这个目录下，就不会因为重启 Docker 丢失数据。</p>
+<h2 id="u6CA1_u6709_u94F6_u5F39"><a href="#u6CA1_u6709_u94F6_u5F39" class="headerlink" title="没有银弹"></a>没有银弹</h2><p>说了很多优点，下面来聊聊用 Docker 做开发环境的缺点。</p>
+<p>首先，Docker 本身还不够成熟。</p>
+<p>Docker 确实很强大，能支持三大操作系统，性能方面也远超传统虚拟机，但是仍然不够成熟。举一个小例子：Kitematic 在 Windows 上丢失配置的 bug 去年年底就有人报过，到现在都没解决。</p>
+<p>其次，Docker 这套体系使用成本并不低。</p>
+<p>试想一下，作为一个开发人员，在写代码之前必须运行 Kitematic、启动 Ubuntu 镜像、连接共享文件夹、进入镜像启动静态服务器。这个流程太重，理想的开发环境应该是透明的，打开电脑就能写代码。或许下一步可以考虑在这方面做一些自动化脚本来辅助开发。</p>
+<h2 id="u5C0F_u7ED3"><a href="#u5C0F_u7ED3" class="headerlink" title="小结"></a>小结</h2><p>用 Docker 做前端开发环境确实可行 — 我们团队已经投入使用 — 但是这套方案还远远谈不上完美，需要继续优化。</p>
+<p>如果你还是不知道怎么选：</p>
+<ul>
+<li>有人有钱有时间，上标准开发机，各大公司都这么搞，肯定没问题</li>
+<li>否则，可以试试 Docker，目前没有发现致命问题。</li>
+</ul>
+<h2 id="One_more_thing"><a href="#One_more_thing" class="headerlink" title="One more thing"></a>One more thing</h2><p>插播一则招聘信息。</p>
+<p>智美运动科技有限公司，坐标深圳，初创但是不差钱。</p>
+<p>没猫没狗没下午茶没饮料没高大上办公室<del>没弹性工作制</del>（老板说有弹性工作制），有什么呢？有靠谱老板，有靠谱同事，有钱。相信我，猫狗零食弹性工作不能帮你融资，也不能帮你买房。</p>
+<p>我们还在招前端，你不需要是大牛，只要脑子灵活有潜力能带起来就行。技术不会可以学，经验不足可以练，主要看潜力。</p>
+<p>如果你相信我的选择，可以来和我聊聊。我的邮箱：ljie@wisdomtmt.com。</p>
+<h2 id="u5173_u4E8E_u6211"><a href="#u5173_u4E8E_u6211" class="headerlink" title="关于我"></a>关于我</h2><p>这一部分是最不重要的，因此放在最后。</p>
+<p>如果你真的读到了这里，想必对这个喋喋不休的家伙有些兴趣。</p>
+<p>我是梁杰，90 后，职业前端，业余 iOS，业余 Python，翻译过多本书。如果你想了解更多信息，可以访问以下链接：</p>
+<ul>
+<li><a href="http://numbbbbb.com" target="_blank" rel="external">我的博客</a>，最近才开始重建，内容不多，不过绝对有趣</li>
+<li><a href="https://github.com/numbbbbb" target="_blank" rel="external">GitHub</a>，或许你点开就会发现“哦原来是你！”</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://static.zybuluo.com/numbbbbb/ctkmhtvpsy66vz4cbdi6l7f8/logo%20%281%29.jpg" alt="Docker"></p>
+<figure class="highlight plai]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[关于产品，你知道的都是错的]]></title>
+    <link href="http://yoursite.com/2016/08/02/20160802_%E5%85%B3%E4%BA%8E%E4%BA%A7%E5%93%81%EF%BC%8C%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E9%83%BD%E6%98%AF%E9%94%99%E7%9A%84/"/>
+    <id>http://yoursite.com/2016/08/02/20160802_关于产品，你知道的都是错的/</id>
+    <published>2016-08-02T11:26:23.484Z</published>
+    <updated>2016-08-02T11:26:23.484Z</updated>
+    <content type="html"><![CDATA[<p>其实还有个副标题：《Badass: Making Users Awesome》读后感。不想让微信截断，就写这儿了。</p>
+<p>昨晚下班回家，有点空闲时间，我就打开 kindle 找书看。找来找去找到了这本《Badass》。本来只是随便看看，没想到这是本神书，一口气看了一半。今天台风不上班，窝在家里读完了另一半，趁热写篇读后感。</p>
+<p>正文分为三个部分，第一部分整理和梳理书的内容，第二部分记录我的感想，第三部分和精益创业放一起简单聊聊。</p>
+<h2 id="Badass"><a href="#Badass" class="headerlink" title="Badass"></a>Badass</h2><p><img src="http://static.zybuluo.com/numbbbbb/yztfxmgh1gbchuevlhywecsf/cover.jpg" alt="图书封面"></p>
+<blockquote>
+<p><strong>Badass</strong>: Ultra-cool motherfucker.</p>
+</blockquote>
+<p>上面是 Urban Dictionary 对 Badass 的英文解释，非常到位。Badass = bad + ass，bad 是“坏的”，ass 是“屁股、愚蠢的人”，这俩字拼在一起就变成了一个非常诡异的词。如果一定要用中文形容，我能想到最合适的词就是“老炮儿”。</p>
+<p>通过“Users”就可以看出，这是一本讲“产品”的书。或者说得俗一点，这是一本讲“如何做好产品”的书。</p>
+<p>如何做好产品？问问自己这个问题。</p>
+<p>最小 44x44 的 iOS 按钮？Material Design？拇指操作区？兼容性？流程图？PRD？抄大厂？</p>
+<p>作为一个“人人都能当”的产品经理，这个本质问题大概是最难回答的。</p>
+<p>我们来看看本书的回答。</p>
+<h3 id="u4E00_u3001_u8DF3_u51FA_u8BEF_u533A"><a href="#u4E00_u3001_u8DF3_u51FA_u8BEF_u533A" class="headerlink" title="一、跳出误区"></a>一、跳出误区</h3><p>如何做好产品？要回答这个问题，首先需要定义到底什么是“好”。</p>
+<p>毫无疑问，好产品就是用户喜欢的产品。产品好不好，不是 PM 说了算，不是老大说了算，不是 CEO 说了算，而是用户说了算。</p>
+<p>我们每个人都是用户，想象一下，什么情况下你最有可能下载一个新应用？</p>
+<blockquote>
+<p>“我昨天下了一个应用，滤镜非常炫酷，比之前那些拍照应用好用多了！”</p>
+<p>“真的？叫啥，我也要下。”</p>
+</blockquote>
+<p>没错，最有效的推广就是“口碑营销”。当然，如果这本书只是讲口碑营销，那我绝对不会推荐它。</p>
+<p>进一步思考，为什么一个用户愿意向朋友推荐应用？是因为这个应用很酷很好用吗？是因为这家公司很棒吗？是因为这个品牌很有名吗？</p>
+<p>都不是。</p>
+<p><strong>用户之所以愿意推荐一个应用，是因为这个应用让用户变得很酷。</strong></p>
+<p>再重复一遍，<strong>用户之所以愿意推荐一个应用，是因为这个应用让用户变得很酷。</strong></p>
+<p>当然，没人会说“我用了这个应用你看我多牛逼”，大家只会说“这个应用真棒！你也来用吧”。</p>
+<p>产品第一定律：成功的关键因素不是产品本身，而是用户。</p>
+<p>这里又出现一个误区，让用户觉得酷的并不是产品本身，而是<strong>用户用产品创造的结果</strong>。拿 Airbnb 来说，用户喜欢的不是应用本身，而是“用 Airbnb 可以轻松订房”，这让用户觉得很酷。</p>
+<p>现在我们知道了产品成功的关键因素：让用户觉得酷。不幸的是，大部分情况下公司目标和用户目标不仅不相同，还是互斥的：</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/4tybm454x7daeomwjouzl6g5/1.png" alt="公司目标和用户目标"></p>
+<blockquote>
+<p>这是一张文氏图（Venn diagram），用在数学集合论中。</p>
+</blockquote>
+<p>我们需要让公司目标和用户目标尽量重叠，这样才能做出用户喜欢的产品，而不是公司喜欢的产品。为此，我们来换个角度，看看一个成功的用户是什么样。</p>
+<p>对大量产品进行分析之后，我们发现，一个成功的用户具备如下特质：</p>
+<ul>
+<li>忠诚</li>
+<li>主动推广产品</li>
+<li>展示自己的作品</li>
+<li>能够容忍产品的问题</li>
+<li>不会被竞争对手吸引</li>
+<li>参与论坛、组建论坛</li>
+<li>喜欢收集产品周边</li>
+<li>希望产品变得更加高端、专业</li>
+</ul>
+<p>如果用一个词来形容，那就是，Badass。注意啊这里点题了啊。</p>
+<p>为了做出好产品，我们必须创造 Badass User。有了 Badass User，就可以通过口碑进行宣传，最终实现成功的产品。</p>
+<p>问题来了，Badass at what? 先要搞清楚，你的产品到底能让用户做什么。</p>
+<p>这是个定位问题。</p>
+<p>所有产品都会属于某个“领域”。Pr 属于视频编辑领域，Sketch 属于设计领域，Xcode 属于编程领域。</p>
+<p>用户的目标并不是成为某个工具的专家，而是<strong>成为某个领域的专家</strong>。因此你不仅要给用户产品，还要帮助他不断成长，在某个领域中变得越来越牛。</p>
+<blockquote>
+<p>不仅要升级产品，还要升级用户。</p>
+</blockquote>
+<p>这里有一个小技巧，试试做下面的填空：</p>
+<p><code>不要只是升级____，还要让用户更擅长____。</code></p>
+<p>不要只是升级相机，还要让用户更擅长摄影。</p>
+<p>不要只是升级编辑器，还要让用户更擅长编程。</p>
+<p>不要只是升级菜刀，还要让用户更擅长做饭。</p>
+<p>现在我们已经知道了目标：让用户变强。问题又来了，我们该做什么？</p>
+<p><del>充钱</del></p>
+<h3 id="u4E8C_u3001_u5982_u4F55_u6210_u4E3A_u4E13_u5BB6"><a href="#u4E8C_u3001_u5982_u4F55_u6210_u4E3A_u4E13_u5BB6" class="headerlink" title="二、如何成为专家"></a>二、如何成为专家</h3><p>我们需要帮助用户在领域内不断成长，最终成为专家。</p>
+<p>什么是专家？</p>
+<p><strong>提供一个领域内的典型问题，专家可以用更好的方法来解决，解决过程更加可靠。</strong></p>
+<p>两个关键点：<strong>更好的方法</strong>，<strong>更可靠</strong>。可靠指的是可重复性。举个例子，从铜钱中间倒油，我试一百次成功一次叫运气，卖油翁一百次成功一百次叫可靠。</p>
+<p>试着定义一下你的产品所在领域的专家。</p>
+<p>如何成为专家？</p>
+<p>两点：<strong>更好的练习方法</strong>，<strong>高质量反馈循环</strong>。</p>
+<p>首先说训练方法。</p>
+<p>同样是训练一万小时，有人成为专家，有人不行，区别在哪？很简单，训练方法有问题。</p>
+<p>不要练习你已经掌握的内容，也不要练习对你来说难度太大的内容。找到刚好处在你舒适区之外的内容，通过练习掌握它，扩大舒适区，不断重复这个过程。</p>
+<p>那作为一个产品，如何给用户设置训练过程，帮他不断成长？</p>
+<p>可以参考这个标准：每节课 45-90 分钟，你需要在三节课以内（最好只用一节课）让用户掌握这个技能，释放成功率达到 95%。</p>
+<p>举几个例子：</p>
+<ul>
+<li>编写一个程序，能够从数据库中获取并展示数据</li>
+<li>使用 Sketch 设计一个简单的登录页面</li>
+<li>使用树莓派和 Python 控制一个小灯</li>
+</ul>
+<p>如果满足不了上述标准，那就拆分，直到每个任务都满足标准。</p>
+<blockquote>
+<p>10000 小时定律基本上是扯淡，太多不确定性，完全不考虑客观情况和训练方法。&lt;— 作者用了一整页把 10000 小时定律批判了一番。</p>
+</blockquote>
+<p>接着说高质量反馈循环。</p>
+<p>这个词听起来似乎是讲核物理的，嗯……这确实是我生造的词，不过我有信心给你讲明白。</p>
+<p>首先说反馈循环。所谓的反馈循环，就是 练习——反馈——提高。举个例子，你学写字的时候，写两个字——写错了被你爸打一顿——掌握了正确的字，这就是个反馈循环。</p>
+<p>稍有常识的人都能看出，这里的重点是“反馈”。如果没有反馈，你自己瞎练 1000000000 小时也练不会。</p>
+<p>接着说高质量。反馈分质量高低，说白了就是老师的水平问题。同样反馈一万次，我的老师是乔布斯，你的老师是雷布斯，这结果显然是不一样的。</p>
+<p>说明白了吧？</p>
+<p>要成为专家，需要采用正确的训练方法，然后通过高质量反馈循环不断提高。</p>
+<p>因此，你需要做的就是在<strong>尽量短的时间内</strong>给你的用户提供<strong>大量高质量的示例</strong>。</p>
+<p>（这部分作者讲了几个小故事，其中有个是分辨小鸡性别，贼有意思，不过太长了我懒得写，感兴趣的看书吧。）</p>
+<p>读到这里，终于出现了本书最核心的图：</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/u69mm63ew3njoc0lls4km6o5/2.png" alt="1"></p>
+<p>你已经知道了如何让用户成为专家，但是有方法还不够，用户还需要<strong>动机</strong>。</p>
+<h3 id="u4E09_u3001_u5982_u4F55_u6FC0_u52B1_u7528_u6237"><a href="#u4E09_u3001_u5982_u4F55_u6FC0_u52B1_u7528_u6237" class="headerlink" title="三、如何激励用户"></a>三、如何激励用户</h3><p>用户在成为专家的路上会遇到很多阻碍，你需要帮助他们克服。</p>
+<p>怎么克服？很多人的想法是：增强目标的吸引力。不幸的是这又是一个误区。</p>
+<p>别忘了我们的目标：帮助用户成为领域专家。成为领域专家是用户的内在目标，这件事的吸引力已经足够大了，因此你不需要再去强调领域专家的重要性。</p>
+<p>你需要做的是：帮助用户减少阻碍。</p>
+<p>想象一下新用户可能面临的问题：</p>
+<ul>
+<li>怎么创建新画布？</li>
+<li>怎么编译？</li>
+<li>为什么找不到模块？</li>
+<li>如果按错键电脑是不是会爆炸？</li>
+<li>这个到底该怎么选？</li>
+</ul>
+<p>面对一个新工具，用户通常都会手足无措，进而感觉自己是个傻子甚至开始怀疑人生。</p>
+<p>你要做的很简单，安慰他，告诉他他不是一个人，每个新手都需要经历这个过程，并且很快就会上手。</p>
+<p>两个重点：<strong>你不是一个人</strong>，<strong>这只是暂时的</strong>。</p>
+<p>对于那些已经入门的用户，你需要做的就是不断优化产品，解决他们遇到的问题。如果解决不了，请<strong>诚实的</strong>告诉他们：我看到了你的反馈，这里确实有问题，不过目前我们还无法解决。别忘了 Badass 用户的特质：能够容忍产品有问题。关键是你的态度。</p>
+<p>帮助用户克服障碍之后，下一个问题就是如何帮助用户完成目标。</p>
+<p>这个问题上一节似乎讲过了，如果你不是鱼那应该还记得这些。没错，上一节讲过成为专家的方法，不过这里我们要讨论的是，在使用正确方法成为专家的过程中，你能做什么来激励用户前进。</p>
+<p>简单来说就是<strong>多个疗程</strong>加上<strong>见效快</strong>。</p>
+<p>首先拆分目标，把一个大目标拆分成多个小任务，上一节已经说过了。</p>
+<p>拆分目标之后，必须让用户不断感受到自己在进步。学完一课就能做之前做不了的东西，这样用户才更有动力，不要把收益都放到结尾，要分摊到每一课。</p>
+<p>你可以设定一个等级表，从新手到专家，每个等级都有对应的描述和提高的方法。这样用户可以很方便地知道自己处在什么等级，也可以知道如何提高。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/xaliesco1026rapfs050qzmg/3.png" alt="2"></p>
+<p>补全了二叉树的右子节点。现在你已经知道了如何让用户成为专家，也知道了如何激励他成为专家。</p>
+<p>到这就结束了？</p>
+<p>当然不是！四大天王有五个不是常识吗！</p>
+<p>One more thing…</p>
+<h3 id="u56DB_u3001Hack__u5927_u8111"><a href="#u56DB_u3001Hack__u5927_u8111" class="headerlink" title="四、Hack 大脑"></a>四、Hack 大脑</h3><p>Baba Shiv 和 Alex Fedorikhin 在 1999 年做了一个经典的实验：</p>
+<p>他们把参加者分成两个组，第一组需要记住两个数字，第二组需要记住七个数字。记完之后，实验人员说“好的我们的实验做完了，非常感谢，这里有一些零食，你要吃什么？”</p>
+<p>有两个选择，水果和巧克力蛋糕。</p>
+<p>记七位数字的那组有 50% 的人选择了巧克力蛋糕。</p>
+<p><del>这个实验告诉我们科学家都很鸡贼</del></p>
+<p>这个实验告诉我们，意志力和认知能力共享同样的大脑资源。</p>
+<p>用人话说，就是如果你的工作压力太大，那吃饭时候就很难抗拒垃圾食品的诱惑，因此你会变得更胖，所以你变胖全是公司的锅，所以你需要跳槽。</p>
+<p>对产品设计的启示：尽量减少对用户的干扰，让用户把有限的大脑资源用在最重要的事上。</p>
+<p>怎么减少干扰？举几个例子：</p>
+<ul>
+<li>尽量别让用户做选择</li>
+<li>流程要符合大自然的规律</li>
+<li>别让用户担心，否则这个担心会变成后台进程持续消耗资源。举个例子，如果你的应用是闹钟，告诉用户“别怕，只要你定了闹钟我就肯定能叫醒你，如果叫不醒我亲自上你家敲门”</li>
+</ul>
+<p>明白了这个原理，你就可以更合理地设计产品界面和交互流程。从大脑角度出发思考问题，是不是听起来很不错？总比什么“click 中间要拉大间距以防用户看成 dick”靠谱很多。要知其所以然，不要只学皮毛。</p>
+<p>除了减少干扰，还有一个优化方法，那就是<strong>提高优先级</strong>。</p>
+<p>大脑有一个过滤系统，如果你的产品或者功能无法说服它，它就会直接把你过滤掉，因此你必须知道大脑关心什么。</p>
+<p>人类已经进化了上万年，科技飞速发展只是最近几百年的事，因此大脑在这方面显得相当落后。我们的大脑关心的是：食物、生存威胁、愤怒、婴儿、美女帅哥。相比电脑死机，它更关心的是外卖什么时候到。</p>
+<p>因此，如果你希望产品得到用户更多关注，必须想办法通过大脑的过滤器。有两个好用的技巧。</p>
+<p>第一个是<strong>多问为什么</strong>。</p>
+<p>“在换硬盘之前必须关机。”</p>
+<p>“为什么？”</p>
+<p>“因为开机时会读写硬盘数据。”</p>
+<p>“然后呢？”</p>
+<p>“不关机拔硬盘可能强制中断读写过程。”</p>
+<p>“然后呢”</p>
+<p>“还没有写入的数据可能丢失。”</p>
+<p>“你为啥不早说呢？”</p>
+<p>这就是产品思维和用户思维的不同之处，你必须从用户角度思考问题。顺便多说一句，这和丰田开发的“五个为什么”有异曲同工之妙。</p>
+<p>第二个技巧是<strong>压缩内容</strong>。</p>
+<p>显然，你的内容越少，通过过滤器的可能性越大，别啰嗦。</p>
+<p>好了，现在你已经掌握了人脑的两个重要机制，可以给你看完全体了：</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/dnvlmlbh2fuzjji7291b3go8/4.png" alt="3"></p>
+<p>你知道了如何让用户成为专家，如何激励他们成为专家，掌握了充分利用用户大脑的方法。</p>
+<p>你可以开发出更好的产品，帮用户成为领域专家，甚至让他们的人生更加美好。</p>
+<p>加油。</p>
+<h2 id="u8BFB_u540E_u611F"><a href="#u8BFB_u540E_u611F" class="headerlink" title="读后感"></a>读后感</h2><p>梳理完了本书内容，说几句感想。</p>
+<p>开头就说了，我认为这是一本神书。</p>
+<p>首先是内容神。很多讲产品的书都太表面，这本书直击产品设计的本质，并且讲得非常通俗易懂，令人信服。大部分产品书都是看的时候很赞同看完啥也没学会，这本书不仅告诉你为什么，还告诉你怎么做，非常棒。</p>
+<p>其次是形式神。这本书里面大量运用插图，排版非常新颖，阅读体验非常棒，感觉就是在看一本小说。我个人认为这已经是传统书籍排版的极限。</p>
+<p>好内容 + 创新的组织方式，给个神作一点都不过分。在读这本书的过程中我多次感到震撼，很多原有观点都被这本书改变，绝大部分书都没有这种效果。</p>
+<p>原书有大量插图和示例，还有大量口语化的内容，这些在我的“精简版”中都看不到，因此强烈推荐大家自己买书看。这本书可以在 O’Reilly 买到<a href="http://shop.oreilly.com/product/0636920036593.do#" target="_blank" rel="external">电子版</a>，输入“MBBGS”可以打五折，绝对值这个钱，别犹豫了。</p>
+<h2 id="u7CBE_u76CA_u521B_u4E1A"><a href="#u7CBE_u76CA_u521B_u4E1A" class="headerlink" title="精益创业"></a>精益创业</h2><p>之前看精益创业也有类似的感受，想法很新，受到很大冲击，因此看完这本书自然就想一起聊聊。</p>
+<p>精益创业重点是流程，对于产品如何设计没有重点讲。这本 Badass 相反，重点是产品，对于整个项目的流程没有介绍。我觉得这两者可以结合起来，精益创业的流程管理 + Badass 的产品思路，应该会有不错的效果。</p>
+<p>这两本书的观点肯定有人不同意，我觉得这个完全不值得争论。</p>
+<p>在我看来，世界本身是个高维的东西，我们人类则处在低维空间，因此我们看到的都只是真实世界的一个投影。从这个角度出发，如果世界中有一个放之四海皆准的方法，投影到不同的低维空间也会导致不同的结果。所以有时候观点不同其实只是因为位置和角度不同，并不代表谁对谁错。</p>
+<p>相比争论对错，我认为更好的方式是取其精华去其糟粕，尝试理解别人维度的世界观，从中吸取有价值的内容，不断提高自己。</p>
+<p>大概就这些，写了三个小时了，停笔。</p>
+<h2 id="u5173_u4E8E_u6211"><a href="#u5173_u4E8E_u6211" class="headerlink" title="关于我"></a>关于我</h2><p>这一部分是最不重要的，因此放在最后。</p>
+<p>如果你真的读到了这里，想必对这个喋喋不休的家伙有些兴趣。</p>
+<p>我是梁杰，90 后，职业前端，业余 iOS，业余 Python，翻译过多本书。如果你想了解更多信息，可以访问以下链接：</p>
+<ul>
+<li><a href="http://numbbbbb.com" target="_blank" rel="external">我的博客</a>，最近才开始重建，内容不多，不过绝对有趣</li>
+<li><a href="https://github.com/numbbbbb" target="_blank" rel="external">GitHub</a>，或许你点开就会发现“哦原来是你！”</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>其实还有个副标题：《Badass: Making Users Awesome》读后感。不想让微信截断，就写这儿了。</p>
+<p>昨晚下班回家，有点空闲时间，我就打开 kindle 找书看。找来找去找到了这本《Badass》。本来只是随便看看，没想到这是本神书，一口气看了一]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[我如何用三个月自学入门日语]]></title>
+    <link href="http://yoursite.com/2016/07/04/20160704_%E6%88%91%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%89%E4%B8%AA%E6%9C%88%E5%85%A5%E9%97%A8%E6%97%A5%E8%AF%AD/"/>
+    <id>http://yoursite.com/2016/07/04/20160704_我如何用三个月入门日语/</id>
+    <published>2016-07-04T13:23:38.228Z</published>
+    <updated>2016-07-04T13:23:38.228Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://static.zybuluo.com/numbbbbb/9qi0rgjisrbf2icpav62ndap/%E5%87%86%E8%80%83%E8%AF%81.png" alt="N2 准考证"></p>
+<p>昨天去考了 N2，这场考试标志着我为期三个月日语学习正式完成。</p>
+<p>无论是否考过 N2，我都已经完成了自己的目标——日语入门。趁热打铁来写篇文章，记录一下我的学习过程，顺便给大家做个参考。</p>
+<a id="more"></a>
+<h2 id="u4E3A_u4EC0_u4E48_u8981_u5B66_u65E5_u8BED_uFF1F"><a href="#u4E3A_u4EC0_u4E48_u8981_u5B66_u65E5_u8BED_uFF1F" class="headerlink" title="为什么要学日语？"></a>为什么要学日语？</h2><p>我的回答是：为了<strong>玩原版游戏</strong>、<strong>看日语书</strong>、<strong>看原版漫画</strong>。</p>
+<p>那为什么不玩汉化游戏？不看翻译过的书和漫画？</p>
+<p>很简单，汉化存在三个问题：<strong>数量少</strong>，<strong>质量差</strong>，<strong>翻译慢</strong>。</p>
+<p>目前日文游戏和漫画的汉化大多都是民间字幕组，其中确实有高质量的翻译组，但翻译的总体质量只是“凑合能看”。此外，受限于我国的特殊国情，很多动画和漫画都会被封杀，比如《暗杀教室》，想找中文版非常麻烦。</p>
+<p>至于书，目前能被翻译出版的日文书少之又少，这对我来说很难接受。日本有许多世界顶尖的设计师和作家，仅仅是因为语言不通无法阅读这些书籍，想想都很不爽。</p>
+<p>因此，对于汉化现状不满的我，踏上了学习日语的道路。（翻译腔）</p>
+<h2 id="u51C6_u5907_u5DE5_u4F5C_u8981_u505A_u597D"><a href="#u51C6_u5907_u5DE5_u4F5C_u8981_u505A_u597D" class="headerlink" title="准备工作要做好"></a>准备工作要做好</h2><p>头脑发热是做不成事的，学习日语之前先来好好调查一番。</p>
+<p>一说到学日语，第一反应就是考试。日语等级考试是由日本国际交流基金会和日本国际教育支援协会举办的国际范围的等级考试，分为 5 个级别（N1、N2、N3、N4、N5，N1 为最高级）。</p>
+<p>日语等级考试的英文名是 JLPT(The Japanese-Language Proficiency Test)，<a href="https://jlpt.etest.edu.cn/index.do" target="_blank" rel="external">教育部报名官网</a>。</p>
+<p>五个等级的测试科目和测试时间：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">等级</th>
+<th style="text-align:center">测试科目（测试时间）</th>
+<th style="text-align:center">测试科目（测试时间）</th>
+<th style="text-align:center">测试科目（测试时间）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">N1</td>
+<td style="text-align:center">语言知识（文字、词汇、语法）、阅读（110分钟）</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">听力（60分钟）</td>
+</tr>
+<tr>
+<td style="text-align:center">N2</td>
+<td style="text-align:center">语言知识（文字、词汇、语法）、阅读（105分钟）</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">听力（50分钟）</td>
+</tr>
+<tr>
+<td style="text-align:center">N3</td>
+<td style="text-align:center">语言知识（文字、词汇）（30分钟）</td>
+<td style="text-align:center">语言知识（语法）、阅读（70分钟）</td>
+<td style="text-align:center">听力（40分钟）</td>
+</tr>
+<tr>
+<td style="text-align:center">N4</td>
+<td style="text-align:center">语言知识（文字、词汇）（30分钟）</td>
+<td style="text-align:center">语言知识（语法）、阅读（60分钟）</td>
+<td style="text-align:center">听力（35分钟）</td>
+</tr>
+<tr>
+<td style="text-align:center">N5</td>
+<td style="text-align:center">语言知识（文字、词汇）（25分钟）</td>
+<td style="text-align:center">语言知识（语法）、阅读（50分钟）</td>
+<td style="text-align:center">听力（30分钟）</td>
+</tr>
+</tbody>
+</table>
+<p>留学一般要求 N1，日企工作一般要求 N2。N4 和 N5 可以直接跳过，直接复习报考 N3，然后 N2，最后 N1，这是常见的考试套路。</p>
+<p>JLPT 每年考两次，分别在 7 月和 12 月，提前三个月截止报名。也就是说，如果你想报 7 月的考试，最晚 4 月初就要报名。报名费每次 450（<del>放肆！</del>），考完三个月出成绩。</p>
+<p>下面是最重要的，考试通过条件：</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/gcyjj2pyf5u5tq3ohr66ln9o/score.png" alt="考试通过条件"></p>
+<p>表格看起来很复杂，简单解释一下。拿 N2 来说，满分 180，三项内容每项 60 分。如果想通过考试，需要满足两个条件：总分不低于 90 分，每项的分不低于 19 分。也就是说，如果你总分 100 但是听力只有 10 分，还是无法通过考试。</p>
+<p>考试了解完了，接下来搜搜知乎的学习经验，下面是我当时认真阅读的几个问题：</p>
+<ul>
+<li><a href="https://www.zhihu.com/question/19793912" target="_blank" rel="external">自学日语，从零基础到 JLPT N2 水平需要多久？</a></li>
+<li><a href="http://www.zhihu.com/question/26939890" target="_blank" rel="external">你有什么相见恨晚的日语学习方法？</a></li>
+</ul>
+<p>第一个问题有很多高票回答，仔细阅读一遍，再阅读一遍，怎么样，晕了吧？</p>
+<p>反正我当时晕了，每个人的方法都不一样，怎么选择呢？</p>
+<p>经过三个月学习的我，直接给出最终方案吧。</p>
+<h2 id="u79C1_u306E_u8A08_u753B"><a href="#u79C1_u306E_u8A08_u753B" class="headerlink" title="私の計画"></a>私の計画</h2><p><img src="http://static.zybuluo.com/numbbbbb/cfnsrebeeseofjbp7s7njt2a/A42ED5FB-FD2C-439A-B703-A0E220FFD5BE.png" alt="我买的日语书"></p>
+<p>显然这个标题是日语，不过我相信你能看懂，所以别怕，中国人学日语有天赋优势。</p>
+<p>知乎答案中提到的学习教材我基本都买了，学了一遍之后，我推荐下面这条学习路线：</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/reuoez4dyq17os6ajsy7lb0f/jp1.png" alt="日语学习路线"></p>
+<blockquote>
+<p>所有购买链接仅供参考，京东没给我钱做推广。</p>
+</blockquote>
+<p>文字版：</p>
+<ol>
+<li><a href="http://item.jd.com/10056085.html" target="_blank" rel="external">五十音卡片</a></li>
+<li><a href="http://item.jd.com/11311672.html" target="_blank" rel="external">大家的日语</a></li>
+<li><a href="http://item.jd.com/1351105786.html" target="_blank" rel="external">新标日初级</a></li>
+<li><a href="http://item.jd.com/10412763350.html" target="_blank" rel="external">新标日中级</a></li>
+<li><a href="http://item.jd.com/11558185.html" target="_blank" rel="external">完全掌握系列</a></li>
+<li><a href="http://item.jd.com/1338872455.html" target="_blank" rel="external">考前对策系列</a></li>
+</ol>
+<p>简单解释下各个步骤：</p>
+<ol>
+<li>第一步是背五十音，这是学日语的必要条件，和你背汉语拼音一个意思。我先看了一个视频教程：<a href="http://list.youku.com/albumlist/show?id=26404184&amp;ascending=1&amp;page=1" target="_blank" rel="external">日语五十音图小梦老师</a>，这个教程不全，不过都看完也差不多够用了。看完视频之后背五十音图，我用了卡片，这样上下班路上也可以背。</li>
+<li>背完五十音开始学《大家的日语》，这个比新标日简单一些，入门很不错，具体学习方法后面说。</li>
+<li>学完《大家的日语》就可以学新标日了，新标日初级两本的内容难度基本和《大家的日语》一样，过一遍就行。新标日在 iPhone 上有个应用，你买了教材之后可以用封面的编码激活应用，初级和中级的内容应用里都有，这样就不需要随身带那两本厚书了，直接用应用学习。（顺便一提，新标日初级两本对应的是 N5 和 N4。）</li>
+<li>过完新标日初级，继续学新标日中级。（中级两本对应 N3 和 N2。）</li>
+<li>学完新标日初级和中级之后，知识基本都过完了，该备考了。《完全掌握》是针对考试科目出的一套辅导书，每本都很厚，我没有都学完，如果你觉得时间不够或者掌握得比较好，可以跳过。</li>
+<li>《考前对策》是一套薄书，应试专用，考前把这套书过一遍也会有收获。</li>
+</ol>
+<p>上面六步走完之后，基本就具备考试能力了，再去淘宝买一套历年真题做做找感觉就行。注意，买 09 年之后的题，因为 2010 年日语考试改革了一次，题变了。</p>
+<p>条条大路通罗马，我列出的是我自己的学习路线，仅供参考，你完全可以选择更适合自己的方法。</p>
+<p>Roadmap 说完了，下面重点说说我是怎么学的。</p>
+<h2 id="u65F6_u95F4_u6324_u4E00_u6324_u603B_u4F1A_u6709_u7684"><a href="#u65F6_u95F4_u6324_u4E00_u6324_u603B_u4F1A_u6709_u7684" class="headerlink" title="时间挤一挤总会有的"></a>时间挤一挤总会有的</h2><p>Roadmap 没毛病，问题是，怎么在三个月内学完？</p>
+<p>这里有必要解释一下，这个“三个月”到底是哪来的。</p>
+<p>说起来完全是个意外。今年清明节我回了趟家，为了火车上不无聊，在手机上缓存了小梦老师的五十音图视频。本来只是想随便看看，没想到看了之后就一发不可收拾，想学会日语，想考试。清明节是四月初，如果要报名十二月的考试，中间的时间太长我无法接受，所以只能报七月份的考试，所以……就只有三个月的复习时间。</p>
+<p>那怎么学呢？</p>
+<p>很简单，<strong>砸时间</strong>。</p>
+<p>第一个月背五十音，学完《大家的日语》两册；第二个月学完《新标日》初级中级；第三个月做《考前对策》和真题。</p>
+<p>具体的时间表：</p>
+<ul>
+<li>五十音，七天</li>
+<li>《大家的日语》两册，十四天</li>
+<li>《新标日初级》两册，十天</li>
+<li>《新标日中级》两册，十六天</li>
+<li>《考前对策》五本，二十天</li>
+<li>真题，七天</li>
+</ul>
+<p>这样算下来一共 7+14+10+16+20+7 = 74 天，还多出来 90 - 74 = 16 天。这里我没有看《完全掌握》，如果要看完全掌握，那就需要压缩《考前对策》的时间。</p>
+<p>什么？你问周末？学习还过什么周末！</p>
+<p>我用的学习方法是从知乎回答中学到的记忆曲线。每一课学完之后，我会复习五遍，间隔时间越来越长。假设这一课在第 1 天学习，我会在第 2、3、5、8、16 天进行复习。为了方便学习，我做了一个 Numbers 表格，只要填写第一行的学习日期就会自动生成复习日期。<a href="http://pan.baidu.com/s/1i5jRshv" target="_blank" rel="external">表格下载</a>，你也可以在 Windows 和 Ubuntu 上自己创建类似的表格。</p>
+<p>下面来算一笔账。</p>
+<p>《大家的日语》第一册有 25 课，要在 7 天内学完，那每天平均要学 3.57 课。考虑到意外情况，每天应该学习 4 课。就我自己的经验，学习一课需要 20 分钟，20*4 = 80 分钟。看起来也不多是吧，但是一旦使用记忆曲线，每天要学的课程量会剧增。记忆曲线会让总课程量变成之前的六倍，也就是说平均下来每天要学习 24 课，其中 20 课是复习。</p>
+<p><img src="http://zhuangbibi.com/wp-content/uploads/2015/03/1-49.jpg" alt=""></p>
+<p>好消息是，复习只需要一半时间，也就是 10 分钟。那我们来算算，一天平均需要投入多少时间：4*20 + 20*10 = 280 分钟，也就是 4 个小时零 20 分钟。</p>
+<p>算到这里大家可能要问了：你真的学了这么久？</p>
+<p>没错，我真的学了这么久，而且由于理想世界和现实世界之间的误差，最初的两周我每天要投入<strong>六个小时</strong>在日语学习上。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/ehgves44micgyblgwh5mrot7/IMG_2312.JPG" alt="你不学习的啊"></p>
+<p><img src="http://static.zybuluo.com/numbbbbb/b5se16191bpdrkijquzwtvfj/IMG_2313.JPG" alt="我在学习呢"></p>
+<p>这样学了两周之后，我入门了。</p>
+<p>后面的事情就比较简单了，由于《大家的日语》和《新标日初级》难度类似，《新标日初级》我没有使用记忆曲线学习，直接每天 5 课。《新标日中级》使用记忆曲线，不过每天只学 2 课，压力就不大了。</p>
+<p>再往后就是应试部分，《考前对策》和真题。不过这里我偷懒了，因为我突然发现，学到这里我已经基本完成目标：能够看日版漫画、玩日版游戏。所以这里我没有太多经验可说，如果你想提高考试成功率，那就继续砸时间看书吧。</p>
+<h2 id="u4EC5_u4EC5_u662F_u5165_u95E8_uFF1F"><a href="#u4EC5_u4EC5_u662F_u5165_u95E8_uFF1F" class="headerlink" title="仅仅是入门？"></a>仅仅是入门？</h2><p>看到这里，热心的同学可能又要问了：难道入门你就满足了？</p>
+<p>当然，不满足。</p>
+<p>不过我已经不需要再通过教材学习了。目前掌握的知识足够支撑我去阅读书籍、看漫画、玩游戏，在这个过程中，我的词汇量和语法水平都会不断提高。换句话说，我只要不断进行日语娱乐项目就可以继续提高！</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/f3h93615jps7ve7tdfrpanrk/IMG_2672.JPG" alt="我买的日文游戏"></p>
+<p><img src="http://static.zybuluo.com/numbbbbb/93c7s1zecyorlhjwewgmh3v1/IMG_2813.JPG" alt="我买的日文漫画"></p>
+<p>上面是我买的日文游戏和日文漫画。</p>
+<p>“万事开头难”，这句话一点都不错。就像堆雪人，最难的是捏出最初的那个小球。你用尽全力，即使手被冻僵也不要放弃，然后你终于捏出了那个雪球，接着只要在雪地上滚动它，雪人就一定能堆成。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/y6asp1lplc95ywgewaq9pg2t/curve.png" alt=""></p>
+<p>这就是我眼中日语的学习曲线。</p>
+<p>这就是我眼中大部分事情的学习曲线。</p>
+<h2 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h2><p><strong>你不背单词吗？</strong></p>
+<p>不背。学英语时候我最头疼的就是背单词，到了日语也不例外。可能是我记性不好吧，背单词很快就会忘掉，效率超低。我的方法是把背单词贯穿到整个学习过程中，在做阅读和听力的时候如果遇到陌生单词就记下来，不断积累。</p>
+<p>这背后的逻辑很简单：如果阅读和听力里都没有遇到某个单词，那它的使用频率可能很低，即使不认识也没关系。</p>
+<p>这个方法的好处是单词记得比较牢，坏处嘛，如果想扩大单词量就必须做很多阅读和听力。</p>
+<p><strong>你哪来那么多时间？</strong></p>
+<p>前面的标题已经说了，时间挤一挤总会有的。举个例子，作为一个不加班的 IT 工作者，早晨上班前有一到两个小时空闲，午饭之后有一个小时空闲，晚上下班有两个小时空闲，这加起来就有四五个小时了，再加上等 PM 出需求、等设计师出图、等测试出结果……时间够了吧？</p>
+<p><strong>怎么坚持下去？</strong></p>
+<p>这个真没啥好办法，就是要逼自己一下。我的习惯是给自己一些奖励，比如一周学完《大家的日语》，周末就去吃一个比较贵的日本料理；全部学完考完 N2 之后，给自己买一个日版 new 3DSLL。有了这些奖励，学起来也会稍微轻松一些。</p>
+<p>但无论如何学习都不是一件轻松的事。</p>
+<p><strong>我觉得你的方法一点都不靠谱</strong></p>
+<p>这篇文章真的是<strong>仅供参考</strong>，不可能适合所有人。如果你觉得我的方法不好，那你一定是找到了更适合你的方法，照着你的方法去做就好。</p>
+<p><strong>三个月太短了，我能延长时间吗？</strong></p>
+<p>当然可以。如果你和我的学习节奏一致，只是时间不同，那直接乘一个系数就行。比如说你想六个月学完，那就把每一项都乘二，两周背完五十音图、四周学完《大家的日语》……完全没问题。</p>
+<p>只不过我个人不建议拉长战线，因为拖得越长，坚持不下去的可能性越大。</p>
+<h2 id="u6587_u7AE0_u8054_u52A8"><a href="#u6587_u7AE0_u8054_u52A8" class="headerlink" title="文章联动"></a>文章联动</h2><p>之前我还写过一篇<a href="http://numbbbbb.com/2016/03/28/20160328_我如何用两周时间刷完%20SICP/" target="_blank" rel="external">我如何用二十天刷完 SICP</a>，感兴趣的同学可以对照着读一下。</p>
+<h2 id="u5173_u4E8E_u6211"><a href="#u5173_u4E8E_u6211" class="headerlink" title="关于我"></a>关于我</h2><p>这一部分是最不重要的，因此放在最后。</p>
+<p>如果你真的读到了这里，想必对这个喋喋不休的家伙有些兴趣。</p>
+<p>我是梁杰，90 后，职业前端，业余 iOS，业余 Python，翻译过多本书。如果你想了解更多信息，可以访问以下链接：</p>
+<ul>
+<li><a href="http://numbbbbb.com" target="_blank" rel="external">我的博客</a>，最近才开始重建，内容不多，不过绝对有趣</li>
+<li><a href="https://github.com/numbbbbb" target="_blank" rel="external">GitHub</a>，或许你点开就会发现“哦原来是你！”</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://static.zybuluo.com/numbbbbb/9qi0rgjisrbf2icpav62ndap/%E5%87%86%E8%80%83%E8%AF%81.png" alt="N2 准考证"></p>
+<p>昨天去考了 N2，这场考试标志着我为期三个月日语学习正式完成。</p>
+<p>无论是否考过 N2，我都已经完成了自己的目标——日语入门。趁热打铁来写篇文章，记录一下我的学习过程，顺便给大家做个参考。</p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[如何购买英文原版书和台版书？]]></title>
+    <link href="http://yoursite.com/2016/05/03/20160503_%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0%E8%8B%B1%E6%96%87%E5%8E%9F%E7%89%88%E4%B9%A6%E5%92%8C%E5%8F%B0%E7%89%88%E4%B9%A6%EF%BC%9F/"/>
+    <id>http://yoursite.com/2016/05/03/20160503_如何购买英文原版书和台版书？/</id>
+    <published>2016-05-02T16:00:00.000Z</published>
+    <updated>2016-10-15T10:11:33.731Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://static.zybuluo.com/numbbbbb/j2ya8wunberq9v96lzv2i587/8.png" alt="我工位上的英文原版书和台版书"></p>
+<p>图为我工位上的英文原版书和台版书。</p>
+<p>我是一个读书狂人，也是一个买书狂人。在买书的过程中学到了一些新知识，也踩了一些坑，在此做一个总结，给其他喜欢书的人作参考。</p>
+<a id="more"></a>
+<h2 id="u7B80_u4F53_u7248_u600E_u4E48_u4E86_uFF01"><a href="#u7B80_u4F53_u7248_u600E_u4E48_u4E86_uFF01" class="headerlink" title="简体版怎么了！"></a>简体版怎么了！</h2><p>在说“怎么做”之前，先来说“为什么”。简体版又便宜又好买，为什么要买英文原版和台版？</p>
+<p>我认为主要有两个原因：</p>
+<ol>
+<li>简体版删减问题</li>
+<li>简体版翻译问题</li>
+</ol>
+<p>删减问题不想多说，东亚的某个国家极其骄傲，容不得别人说一句坏话。</p>
+<p>翻译问题大体上可以分成三个小问题：<strong>翻译时间过长</strong>、<strong>没有出版社引进</strong>、<strong>翻译质量差</strong>。</p>
+<p>我自己也翻译过几本书，因此对整个翻译流程有一定了解。一本书要在国内出版，首先必须由出版社出面引进，去和原书的出版社或者作者签合同。引进之后国内出版社去找合适的译者，然后签合同定时间。译者翻译完毕之后出版社进行审核、校对、排版，最终印刷出版。</p>
+<p>这么一套流程走下来，短则两三月，长则半年甚至一年，对于大部分技术书籍来说这个时间是致命的，等你拿到中文版的时候八成已经快过时了。</p>
+<p>这好歹还是引进的，很多书出版社根本不会引进，比如小众的、太深入的、不好找译者的、出版社觉得赚不了钱的。我们也不能怪出版社，毕竟是商业机构，赔钱的买卖换你你也不干。这几年国内对英文技术书越来越热情，因此大量书籍都可以被引进，但是很多其他语言（比如日语）的技术书就没这么好运了，如果你想看，只能买原版。</p>
+<p>最后说翻译质量。据我所知一般的技术书翻译价格是千字 60 元左右，一本书一般也就十几万字，需要翻译两三个月，你可以算算译者能拿到多少，同样的时间接其他活显然性价比更高。最后留下来翻译的人要不就是不爱钱，要不就是对技术布道有狂热追求，要不就是没有其他更好的活可以做。你觉得这三者比例如何呢？</p>
+<h2 id="u82F1_u6587_u539F_u7248_u548C_u53F0_u7248_u597D_u5904_u90FD_u6709_u5565_uFF1F"><a href="#u82F1_u6587_u539F_u7248_u548C_u53F0_u7248_u597D_u5904_u90FD_u6709_u5565_uFF1F" class="headerlink" title="英文原版和台版好处都有啥？"></a>英文原版和台版好处都有啥？</h2><p>英文原版的好处：</p>
+<ol>
+<li>全球同步阅读，不需要等出版社引进和翻译</li>
+<li>通常都有电子版，方便携带</li>
+<li>可以练英语（我是认真的）</li>
+<li>纸质版非常精美</li>
+</ol>
+<p>台版好处：</p>
+<ol>
+<li>有大量日文译本，覆盖多个领域</li>
+<li>从右往左阅读，竖版，很有“读书”的感觉</li>
+<li>纸质版非常精美</li>
+</ol>
+<h2 id="u574F_u5904_uFF1F"><a href="#u574F_u5904_uFF1F" class="headerlink" title="坏处？"></a>坏处？</h2><p><strong>贵</strong>。</p>
+<p>拿国内的实体书来比，英文原版的电子书（kindle 版）通常是 2~3 倍，英文原版的实体书和 PDF 通常是 6~7 倍，台版实体书通常是 2~3 倍。</p>
+<h2 id="u5982_u4F55_u4E70_u82F1_u6587_u539F_u7248"><a href="#u5982_u4F55_u4E70_u82F1_u6587_u539F_u7248" class="headerlink" title="如何买英文原版"></a>如何买英文原版</h2><p>主要有以下几个渠道：</p>
+<ul>
+<li><a href="http://www.jd.com/" target="_blank" rel="external">京东</a></li>
+<li><a href="https://www.amazon.cn/" target="_blank" rel="external">中国亚马逊</a></li>
+<li><a href="http://www.amazon.com/" target="_blank" rel="external">美国亚马逊</a></li>
+<li><a href="http://www.oreilly.com/" target="_blank" rel="external">O’Reilly</a></li>
+</ul>
+<p>京东能买到一部分，但是价格<strong>极其高</strong>，同样一本书京东是美亚的两倍还多。</p>
+<p>中国亚马逊也有少量英文原版和台版，价格基本是正常的，不过还是比美亚贵一些，算上国际运费的话倒是差不多。缺点就是书不全，很多书买不到。</p>
+<p>美国亚马逊是我最推荐的，书很全，购买也很方便。需要注意，地址都用英文填写（中文我没试过，或许可以，试过的同学可以告诉我），不用担心，只要你写对了就能寄到。另外现在寄中国必须输入身份证号。</p>
+<p>下面用 <em>The Elements of Typographic Style</em> 举例，来对比一下价格。按顺序分别是：美亚、京东、中亚。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/r2r4s5xlwdq9ukwebfqsrq34/1.png" alt="美亚价格"></p>
+<p><img src="http://static.zybuluo.com/numbbbbb/iw64vxysqbw4dqvguw3w7ovo/2.png" alt="京东价格"></p>
+<p><img src="http://static.zybuluo.com/numbbbbb/4dveux7csxizk33bt9b6s9xu/3.png" alt="中亚价格"></p>
+<p>O’Reilly 主要买技术书，通常买电子版就够用。购买时候输入“<strong>MBBGS</strong>”优惠码可以全部打五折，支持 PayPal，成功购买之后可以直接下载电子版（O’Reilly 的书全部是 DRM-free，没有电子版权，你甚至可以转卖），也可以一键同步到 Dropbox。</p>
+<p>总体来说，英文原版的购买还是比较简单的，你只要准备好：</p>
+<ul>
+<li>钱</li>
+<li>信用卡（支持 VISA）</li>
+<li>英文快递地址</li>
+<li>梯子（O’Reilly 似乎用到了 Google Fonts，不翻很慢）</li>
+</ul>
+<p>就可以了。</p>
+<p>至于邮费，有两种，一种比较慢但是便宜，另一种比较快但是贵，我一般选便宜的，反正不着急看……附上一张我最近的订单，供参考。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/45gzas1zp1pq9jvxqvsawlki/6.JPG" alt="订单"></p>
+<h2 id="u5982_u4F55_u4E70_u53F0_u7248"><a href="#u5982_u4F55_u4E70_u53F0_u7248" class="headerlink" title="如何买台版"></a>如何买台版</h2><p>台版目前我知道有网站可以买：</p>
+<ul>
+<li><a href="http://www.books.com.tw/" target="_blank" rel="external">博客來</a>，必须翻墙，不翻打不开</li>
+<li><a href="http://www.bookrep.com.tw/" target="_blank" rel="external">讀書共和國</a>，不用翻墙，体验很好，但是书种类没有博客來多</li>
+</ul>
+<p>在讀書共和國买书很简单，先挑好要买的书，然后给客服发邮件说你在大陆，要买这些书，他会问你具体的邮寄方式，然后帮你生成订单，用信用卡付款就行了。下面主要说下博客來的购买方法。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/ko09ghio6qipialtl52pqmbz/5.png" alt="博客來"></p>
+<p>图为博客來首页。</p>
+<p>这个网站主要有三个坑：</p>
+<ol>
+<li>订购人的联系方式只能填港澳台座机/移动电话，我找了一个台湾朋友帮忙，理论上来说随便填一个也行，但是不推荐这样做，万一出问题需要联系会很麻烦。收件人填你自己信息就行</li>
+<li>收件人的信息全部用繁体中文填，简体中文似乎存不进数据库，我试了几次，全部被截断了，换了繁体就好了</li>
+<li>第一次付款之后，需要验证银行卡，你需要访问<a href="http://www.books.com.tw/question/inquiry/" target="_blank" rel="external">客服中心</a>，填写订单号并上传你的银行卡正面照片。这里的坑是，无论怎么换 VPN 都会提交失败，哪怕我什么都不写只写一个字都会失败！最后没办法，找台湾朋友帮忙上传才搞定。个人推测是后台做了极其严格的限制</li>
+</ol>
+<p>其他流程没啥说的，加购物车、下单、填信息、付款，然后等着书寄过来就行。</p>
+<p>至于海关，这是一个很神奇的存在，我买了这么多次书都没被海关扣过，但是微博上的几个朋友反映说海关会扣书，有时候交钱就行，有时候直接按非法音像制品没收……看起来是一个随机事件，看运气了。</p>
+<h2 id="u6742_u8C08"><a href="#u6742_u8C08" class="headerlink" title="杂谈"></a>杂谈</h2><p>美亚快递很慢（如果你和我一样选择的是比较慢但是比较便宜的那种），半个月一个月是常事，别着急。</p>
+<p>英文原版和台版印刷真的很棒，拿到这么精美的书多花钱也值得。</p>
+<p>多读书没坏处，书应该是性价比最高的东西之一。</p>
+<p>有条件的话多学几门外语，从书的角度来说多学一门外语就可以打开新世界的大门，我最近就在学日语。</p>
+<p>最后，欢迎各种评论！希望通过大家的反馈不断完善内容，更好地帮助其他读者。</p>
+<h2 id="u5173_u4E8E_u6211"><a href="#u5173_u4E8E_u6211" class="headerlink" title="关于我"></a>关于我</h2><p>这一部分是最不重要的，因此放在最后。</p>
+<p>如果你真的读到了这里，想必对这个喋喋不休的家伙有些兴趣。</p>
+<p>我是梁杰，90 后，职业前端，业余 iOS，业余 Python，翻译过多本书。如果你想了解更多信息，可以访问以下链接：</p>
+<ul>
+<li><a href="http://numbbbbb.com" target="_blank" rel="external">我的博客</a>，最近才开始重建，内容不多，不过绝对有趣</li>
+<li><a href="https://github.com/numbbbbb" target="_blank" rel="external">GitHub</a>，或许你点开就会发现“哦原来是你！”</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://static.zybuluo.com/numbbbbb/j2ya8wunberq9v96lzv2i587/8.png" alt="我工位上的英文原版书和台版书"></p>
+<p>图为我工位上的英文原版书和台版书。</p>
+<p>我是一个读书狂人，也是一个买书狂人。在买书的过程中学到了一些新知识，也踩了一些坑，在此做一个总结，给其他喜欢书的人作参考。</p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[我如何用二十天刷完 SICP]]></title>
+    <link href="http://yoursite.com/2016/03/28/20160328_%E6%88%91%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%A4%E5%91%A8%E6%97%B6%E9%97%B4%E5%88%B7%E5%AE%8C%20SICP/"/>
+    <id>http://yoursite.com/2016/03/28/20160328_我如何用两周时间刷完 SICP/</id>
+    <published>2016-03-28T02:37:48.217Z</published>
+    <updated>2016-03-28T02:37:48.217Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://static.zybuluo.com/numbbbbb/9b0rdhiq5hjqp4witkji2m4o/sicptu.jpeg" alt="SICP"></p>
+<h2 id="u80CC_u666F"><a href="#u80CC_u666F" class="headerlink" title="背景"></a>背景</h2><p>SICP 全称 Structure and Interpretation of Computer Programs，翻译过来叫《计算机程序的构造和解释》。我看的是英文版，所以下面都用 SICP 缩写（后面解释为什么要看英文版）。</p>
+<p>最初看 SICP 我是拒绝的，因为这书太厚，而且感觉没啥用。带着这种想法，看了八十多页就放弃了。</p>
+<p>那为什么这次又开始看 SICP 了呢？很简单，无聊了……我发现无聊的时候真的很适合看这种深奥的东西，虐一虐自己的大脑。</p>
+<a id="more"></a>
+<p>好的，那么在一个无聊的周五，我打开了 SICP，就这样学起来了。</p>
+<blockquote>
+<p>我的所有习题解答全部放在 <a href="https://github.com/numbbbbb/sicp" target="_blank" rel="external">GitHub</a> 上，仅供参考，仅供参考，仅供参考。</p>
+</blockquote>
+<p><img src="http://static.zybuluo.com/numbbbbb/gmj8kwfn7dil4ou1zduucc07/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-03-25%20%E4%B8%8B%E5%8D%888.56.42.png" alt="第一道题"></p>
+<p>就这样学啊学……学啊学……</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/infr5lkxhmsuf8kpssqmtiuy/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-03-25%20%E4%B8%8B%E5%8D%888.57.57.png" alt="（我写了的）最后一道题"></p>
+<p>今天下午，终于看完了全书，因此写篇文章，说说我是怎么刷的。对我来说算是个纪念+总结，如果对大家也有帮助那就更好了。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/iwktypwo58iiwgd99w79ttqo/pdf.png" alt="看完全书"></p>
+<h2 id="SICP__u597D_u5904_u90FD_u6709_u5565_uFF1F"><a href="#SICP__u597D_u5904_u90FD_u6709_u5565_uFF1F" class="headerlink" title="SICP 好处都有啥？"></a>SICP 好处都有啥？</h2><blockquote>
+<p>一千个人心中有一千个 SICP</p>
+</blockquote>
+<p>网上能搜到太多太多答案，不过这里我要写的，是我自己亲自看完学完之后的体会。</p>
+<p>两个字总结 SICP：<strong>内功</strong>。</p>
+<p>看过小说的都知道，什么刀法剑法往往都不重要，重要的是内功，是修炼方法。在编程界，SICP 毫无疑问是一本顶级内功。</p>
+<p>这本书教你的并不是“函数命名要有意义”、“不要编写超过一屏的函数”、“如何安装和配置 Xcode”、“如何编写年轻人的第一个 Hello World”，学完这本书后，还是原来的 PM，还是原来的需求，还是原来不换行的大括号，这些都不会变。</p>
+<p>变的是你的思维方式。</p>
+<p>SICP 要教你的不是那些细枝末节的东西，而是把你拉到一个极高的视角，一边分解程序，一边教你如何<strong>正确的构建和编写程序</strong>。具体来说，SCIP 教你<strong>如何熟练运用抽象</strong>以及<strong>程序如何运行</strong>。</p>
+<p>有些同学看到这里可能要说了，抽象不就是封装函数吗？不就是隐藏实现吗？程序不就是解释或者编译运行吗？</p>
+<p>其实这样说也没错，但是要真正理解和掌握这些东西需要大量的训练。<strong>知道</strong>和<strong>掌握</strong>是两个截然不同的概念，在这个时代我们知道的太多，掌握的太少。</p>
+<p>说完了好处，也要聊聊坏处。</p>
+<p>SICP 的最大缺点就是<strong>长得太丑</strong>。</p>
+<p>什么叫长得丑？打开书随便一翻就是各种数学公式、加法器、数理逻辑，还没看就吓跑一批人。</p>
+<p>不过这其实是纸老虎，为什么呢？咱们下一节继续说。</p>
+<h2 id="SICP__u600E_u4E48_u5B66_uFF1F"><a href="#SICP__u600E_u4E48_u5B66_uFF1F" class="headerlink" title="SICP 怎么学？"></a>SICP 怎么学？</h2><blockquote>
+<p>作为长者，我有必要告诉你们一点学习的经验</p>
+</blockquote>
+<h3 id="u9996_u5148_uFF0C_u4E0D_u8981_u614C"><a href="#u9996_u5148_uFF0C_u4E0D_u8981_u614C" class="headerlink" title="首先，不要慌"></a>首先，不要慌</h3><p>很多人会被 SICP 的各种公式吓跑，但是在我学习的过程中发现，这些东西都是纸老虎！</p>
+<p>一个非常简单的道理：<strong>作者的目的是教你一些知识，而不是为了难住你</strong>。这是“SICP 第一定律”，在学习过程中一定要牢记这句话。</p>
+<p>据我自己统计，SICP 里面涉及到的知识有：</p>
+<ul>
+<li>向量</li>
+<li>矩阵</li>
+<li>各种数学公式（求平方根、立方根、导数、不动点、微积分……）</li>
+<li>数字电路</li>
+<li>数理逻辑</li>
+<li>机器语言</li>
+<li>并发</li>
+<li>解释器</li>
+<li>编译器</li>
+</ul>
+<p>在学习的过程中，经常是上一页还在实现微积分，下一页就开始讲电路；上一页还在解数理逻辑，下一页就开始写编译器，内容跨度之大令人发指。</p>
+<p>但是大家不要慌，先默念十遍第一定律，然后往下看。</p>
+<p>这些东西其实都是给你举例子，真正的目的是教你编程思想。只不过呢，SICP 是 MIT 的教材，MIT 里众神云集，给他们写的教材自然也不能太简单。</p>
+<p>普通的教材举例子会说：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#23567;&#26126;&#26377;&#19977;&#20010;&#33529;&#26524;&#65292;&#23567;&#24352;&#26377;&#22235;&#20010;&#33529;&#26524;&#65292;&#20457;&#20154;&#19968;&#20849;&#20960;&#20010;&#33529;&#26524;&#65311;</span><br></pre></td></tr></table></figure>
+<p>SICP 会说：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">x = 3, y = 4, x + y = ?</span><br></pre></td></tr></table></figure>
+<p>说白了，无论是电路还是公式，你就当它们是小明小红，照着要求去实现就行。</p>
+<h2 id="u7136_u540E_uFF0C_u4E0D_u8981_u505C"><a href="#u7136_u540E_uFF0C_u4E0D_u8981_u505C" class="headerlink" title="然后，不要停"></a>然后，不要停</h2><p>先来个错误示范：</p>
+<p>小明想看 SICP，下载电子书，发现一共 883 页。小明想两个月看完，打开计算器做一个简单的除法再取个整，每天看 15 页。小明一想，15 页这不是轻松搞定嘛！哪怕一页看五分钟，也就一个多小时，更何况一页不可能看五分钟。</p>
+<p>于是小明开心的去看了。</p>
+<p>两周后，小明放弃，游戏结束。</p>
+<p><strong>问题出在哪里？</strong></p>
+<p>在学 SICP 的过程中，我收获了一个重要的经验，那就是：<strong>一鼓作气</strong>。</p>
+<p>看起来完美的计划为什么总是失败？不是你计划得不好，不是你除法用得不溜，而是因为战线拖的太长。</p>
+<p>生活中有太多无法预料的事情，公司加班、感冒发烧、朋友聚餐、外包、技术大会、租房、跳槽……你的计划只考虑了理想情况，但凡有点物理知识的同学就知道，真实世界中不存在理想情况，小车的空气阻力不可能为零。</p>
+<p>战线长的第二个问题就是低效。每天 15 页，看似分摊了任务，无形之中增加了很多上下文切换和环境初始化的开销。每天你都需要先回忆之前的内容，然后继续看。如果题目用到了之前的知识（这在 SICP 中很常见），你不得不返回去继续阅读。这反过来又增加了失败的概率。</p>
+<p>因此，不要再浪费时间做无用的计划，从现在开始，一鼓作气，用尽一切时间去学！</p>
+<p>我可以说说我是怎么学的。</p>
+<p>每天早晨到公司吃完早点是九点，我会从九点一直学到下午六点半下班。吃饭和公司需求会占用一段时间，不过通常来说白天在公司我会用七个小时学习（总不可能一年到头加班吧！难道你不用等设计师出图？不用等产品扯皮？）。晚上回家之后我还会在睡觉前学习一个小时，这样算下来我一天会学习至少八个小时。</p>
+<p>这种状态我持续了两周。</p>
+<p>也就是说，这两周时间从早晨睁眼到晚上睡觉，绝大部分时间我都在看书和做题，让 SICP 占用所有缓存。</p>
+<p>为什么能坚持下来？很简单，坚持不下来的时候，再努力一下就好了。中间有几次我也觉得很烦躁，不过睡一觉起来，还是坐在电脑前面继续看书做题。我这人脾气不好，说了要看完，就是要看完，就是和自己较劲。</p>
+<p><strong>总结下来，我的 SICP 学习经验就是：首先理解作者思路，把一切看做纸老虎，然后坚持到底。</strong></p>
+<h2 id="u5982_u4F55_u5F00_u59CB_uFF1F"><a href="#u5982_u4F55_u5F00_u59CB_uFF1F" class="headerlink" title="如何开始？"></a>如何开始？</h2><blockquote>
+<p>开发一个项目，至少有 50% 时间在配置环境</p>
+</blockquote>
+<p>如果你看到了这里，并且决定开始学习 SICP，下面是一个简单的 setup 步骤：</p>
+<ol>
+<li>下载 <a href="https://github.com/numbbbbb/sicp/blob/master/sicp.pdf" target="_blank" rel="external">英文版 SICP</a> （为什么是英文版，看下一节 FAQ），这并不是盗版，是 Lytha Ayth 基于官方公开的 HTML 制作的 PDF 版</li>
+<li>参考 <a href="http://stackoverflow.com/questions/12322434/how-to-install-mit-scheme-on-mac/31601331#31601331" target="_blank" rel="external">这个回答</a> 安装 MIT-Scheme。Scheme 是 Lisp 的一种方言，也是 SICP 使用的语言。MIT-Scheme 是 MIT 实现的 Scheme 解释器，和 MIT 教材 SICP 更配哦</li>
+<li>打开一个你最喜欢的编辑器（我用的 Sublime Text 3），编写一段 Scheme 代码并保存成 <code>test</code>，可以没有后缀名</li>
+<li>打开命令行，输入 <code>scheme &lt; test</code>，即可执行程序</li>
+</ol>
+<p>现在你已经准备好了一切，JUST READ THAT FUCKING BOOK!</p>
+<h2 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h2><blockquote>
+<p>当我沉默著的时候，我觉得充实；我将开口，同时感到空虚</p>
+</blockquote>
+<h3 id="u4E3A_u4EC0_u4E48_u8981_u8BFB_u82F1_u6587_u7248_uFF1F"><a href="#u4E3A_u4EC0_u4E48_u8981_u8BFB_u82F1_u6587_u7248_uFF1F" class="headerlink" title="为什么要读英文版？"></a>为什么要读英文版？</h3><p>如果经常读技术书籍，你会发现一个问题：英文比中文好读得多。</p>
+<p>举几个例子，scope 这个单词，翻译过来叫“作用域”；adder 翻译过来叫“加法器”；higher-order 叫“高阶”。</p>
+<p>当然这些翻译没什么错，但是对读者来说，这种陌生的术语理解起来反而比英语还难。</p>
+<p>所以我现在给自己定了一个规矩，尽量读英文书，体会原文的意思。我建议大家也这样做，你会发现，英文版的 SICP 比中文版好读多了。</p>
+<h3 id="u6709_u4E9B_u9898_u6211_u4E0D_u4F1A_u600E_u4E48_u529E_uFF1F"><a href="#u6709_u4E9B_u9898_u6211_u4E0D_u4F1A_u600E_u4E48_u529E_uFF1F" class="headerlink" title="有些题我不会怎么办？"></a>有些题我不会怎么办？</h3><p>简单，跳过它。</p>
+<p>学习的目的不是做对所有题，而是学到你本来不会的知识。SICP 里面有不少难度很大的题，有些我自己也没有做出来，所以不要太在意题。</p>
+<p>当然，首先你要尽力去做，然后在万不得已的情况下跳过。</p>
+<h3 id="u4F60_u7684_u7B54_u6848_u6B63_u786E_u5417_uFF1F"><a href="#u4F60_u7684_u7B54_u6848_u6B63_u786E_u5417_uFF1F" class="headerlink" title="你的答案正确吗？"></a>你的答案正确吗？</h3><p>仅供参考。</p>
+<p>我做了大概 90% 的题，有些实在太难或者太复杂就没有做。不过 SICP 到后面就开始意识流了，很多程序也都只是为了理解思想，所以真的仅供参考。</p>
+<p>能运行的程序一般都是对的，有些题只是要求补充片段，没法独立运行，我也就没法验证了。</p>
+<h3 id="u6211_u8FD8_u6709_u5176_u4ED6_u95EE_u9898"><a href="#u6211_u8FD8_u6709_u5176_u4ED6_u95EE_u9898" class="headerlink" title="我还有其他问题"></a>我还有其他问题</h3><p>尽管问，知无不言言无不尽。</p>
+<p>你可以直接在文章下面评论，或者去微博找我<a href="http://weibo.com/numbbbbb" target="_blank" rel="external">@梁杰_numbbbbb</a>，也可以给我发邮件：<code>lj925184928@gmail.com</code>。</p>
+<h2 id="u6700_u540E"><a href="#u6700_u540E" class="headerlink" title="最后"></a>最后</h2><p>SICP 真的是一本好书，一本不可多得的内功心法，一定要读，一定要读，一定要读。</p>
+<h2 id="u5173_u4E8E_u6211"><a href="#u5173_u4E8E_u6211" class="headerlink" title="关于我"></a>关于我</h2><p>这一部分是最不重要的，因此放在最后。</p>
+<p>如果你真的读到了这里，想必对这个喋喋不休的家伙有些兴趣。</p>
+<p>我是梁杰，90 后，职业前端，业余 iOS，业余 Python，翻译过多本书。如果你想了解更多信息，可以访问以下链接：</p>
+<ul>
+<li><a href="http://numbbbbb.com" target="_blank" rel="external">我的博客</a>，最近才开始重建，内容不多，不过绝对有趣</li>
+<li><a href="https://github.com/numbbbbb" target="_blank" rel="external">GitHub</a>，或许你点开就会发现“哦原来是你！”</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://static.zybuluo.com/numbbbbb/9b0rdhiq5hjqp4witkji2m4o/sicptu.jpeg" alt="SICP"></p>
+<h2 id="u80CC_u666F"><a href="#u80CC_u666F" class="headerlink" title="背景"></a>背景</h2><p>SICP 全称 Structure and Interpretation of Computer Programs，翻译过来叫《计算机程序的构造和解释》。我看的是英文版，所以下面都用 SICP 缩写（后面解释为什么要看英文版）。</p>
+<p>最初看 SICP 我是拒绝的，因为这书太厚，而且感觉没啥用。带着这种想法，看了八十多页就放弃了。</p>
+<p>那为什么这次又开始看 SICP 了呢？很简单，无聊了……我发现无聊的时候真的很适合看这种深奥的东西，虐一虐自己的大脑。</p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[买下 Steam 所有游戏要花多少钱？]]></title>
+    <link href="http://yoursite.com/2016/02/15/20160215_%E5%A6%82%E4%BD%95%E8%AE%A1%E7%AE%97%20Steam%20%E6%B8%B8%E6%88%8F%E6%80%BB%E4%BB%B7%EF%BC%9F/"/>
+    <id>http://yoursite.com/2016/02/15/20160215_如何计算 Steam 游戏总价？/</id>
+    <published>2016-02-15T10:30:13.740Z</published>
+    <updated>2016-02-15T10:30:13.740Z</updated>
+    <content type="html"><![CDATA[<p>先来看效果展示：<a href="http://steamtuhao.com" target="_blank" rel="external">买下 Steam 所有游戏要花多少钱？</a>。</p>
+<h2 id="u80CC_u666F"><a href="#u80CC_u666F" class="headerlink" title="背景"></a>背景</h2><p>最近 Steam 玩得比较多，早晨突然想到一个有趣的问题：买下 Steam 所有游戏要花多少钱？</p>
+<p>去 Google 了一下，发现国外有个网站做了计算，但是 2014 年底就停止更新了。研究了一下代码和 Steam API，自己做了一个网站来玩。</p>
+<p>虽然没什么技术含量，但是很好的展示了<strong>如何把一个点子变成现实</strong>，所以记录下来。</p>
+<a id="more"></a>
+<h2 id="u6280_u80FD_u548C_u5DE5_u5177"><a href="#u6280_u80FD_u548C_u5DE5_u5177" class="headerlink" title="技能和工具"></a>技能和工具</h2><p>这个网站非常简单，涉及到的技术只要初步掌握即可实现。</p>
+<blockquote>
+<p>以下是我用到的技能和工具，你可以根据自己情况调整</p>
+</blockquote>
+<p>技能：</p>
+<ul>
+<li>Python</li>
+<li>Node.js</li>
+<li>基本的 HTML、CSS 和 JS</li>
+<li>基本的 Linux 技能</li>
+<li>基本的 Nginx 技能</li>
+<li>翻墙能力</li>
+<li>会用 GitHub</li>
+</ul>
+<p>工具：</p>
+<ul>
+<li>一台 VPS</li>
+<li>一个域名</li>
+<li>一个编辑器（我用的 Sublime Text 3）</li>
+</ul>
+<h2 id="u8C03_u67E5"><a href="#u8C03_u67E5" class="headerlink" title="调查"></a>调查</h2><p>首先去 Google 一下“How much to buy all steam games”，搜到这个网站：<a href="http://buyallofsteam.appspot.com/" target="_blank" rel="external">Buy All of Steam</a>，截图如下</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/pp7bbnnj7rdzji0614ogz456/1.png" alt="网站截图"></p>
+<p>哇，九万多美元！真不少。</p>
+<p>再往下看，最后一次更新时间是 2014 年光棍节。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/letp7i9nq115kbfiswhhfplg/2.png" alt="ARE YOU KIDDING ME?"></p>
+<p>是不是作者在光棍节脱单了所以放弃了 Steam？</p>
+<p>继续往下看，网站还给出了计算方法，非常简单：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> steamapiwrapper.SteamGames <span class="keyword">import</span> Games</span><br><span class="line">games = Games()</span><br><span class="line">full_price = <span class="number">0.0</span></span><br><span class="line">discounted_price = <span class="number">0.0</span></span><br><span class="line"><span class="keyword">for</span> game <span class="keyword">in</span> games.get_all(<span class="string">'US'</span>):</span><br><span class="line">	<span class="keyword">if</span> game.price != <span class="number">0</span>:</span><br><span class="line">		discounted_price += game.discounted_price</span><br><span class="line">		full_price += game.full_price</span><br></pre></td></tr></table></figure>
+<p>哇真的好简单！</p>
+<p>然后我去看了一下这个<code>steamapiwrapper</code>库，</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/uv04h5jc39u6qruk7rngrcrr/3.png" alt="steamapiwrapper"></p>
+<p>2 years ago</p>
+<p>2 years ago</p>
+<p>2 years ago</p>
+<p>。</p>
+<p>。</p>
+<p>。</p>
+<p>。</p>
+<p>。</p>
+<p>。</p>
+<p>。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/cqpgoa5p52xl6togf4t0bpnz/4.jpeg" alt="掀桌"></p>
+<p>这就是网站作者自己写的库吧！一定是脱团之后弃坑了吧！！！</p>
+<p>好吧，关掉网页，回到 Google 继续往下看。</p>
+<p>嗯……没了。</p>
+<p>其他的网页都是一些统计性质的文章，Steam 更新频率极高，这类文章基本上是一发表就过时。</p>
+<p>怎么办？</p>
+<p>作为无所不能的程序员，当然是自己写一个啦！既然两年前能实现，两年后一定也能搞定！</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/xfx3t0tlw9v5phljdjipg4jf/5.png" alt="接受挑战"></p>
+<p>看看我们收集到了什么有用的东西：</p>
+<ul>
+<li>一段计算代码</li>
+<li>一个 Steam API 库</li>
+</ul>
+<p>那就从这里开始吧。</p>
+<h2 id="u4FEE_u6539_u4EE3_u7801"><a href="#u4FEE_u6539_u4EE3_u7801" class="headerlink" title="修改代码"></a>修改代码</h2><blockquote>
+<p>以下代码<strong>不包含</strong>任何最佳实践，Just For Fun！</p>
+</blockquote>
+<p>首先来看看这段两年前的代码还能否运行，如果能，那我们只要写个网页展示就可以了。</p>
+<p><code>steamapiwrapper</code>没有上传到 pip，所以我们只能下载代码到本地。</p>
+<p>首先登陆 VPS:</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh root@xxx.xxx.xx.x</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>提示：本文的命令和代码是意识流，重在介绍思想和流程，具体的细节请自行 Google（别百度，百度一下你就被坑）。</p>
+</blockquote>
+<p>然后用<code>virtualenv</code>创建 Python 虚拟环境，不影响本机的 Python 配置：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ mkdir /steamtuhao</span><br><span class="line">$ <span class="built_in">cd</span> /steamtuhao</span><br><span class="line">$ pip install virtualenv</span><br><span class="line">$ virtualenv venv</span><br><span class="line">$ virtualenv -p /usr/bin/python2.<span class="number">7</span> venv</span><br></pre></td></tr></table></figure>
+<p>执行完会在根目录下的<code>steamtuhao</code>目录中创建一个 Python 虚拟环境，并且指定 Python 版本为 2.7（<code>steamapiwrapper</code>基于 Python 2.x 开发）。</p>
+<p>然后开启虚拟环境，下载第三方库：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">source</span> venv/bin/activate</span><br><span class="line">$ git <span class="built_in">clone</span> git@github.com:naiyt/steamapiwrapper.git</span><br><span class="line">$ cp -avr steamapiwrapper/steamapiwrapper ./temp</span><br><span class="line">$ rm -rf steamapiwrapper</span><br><span class="line">$ mv temp steamapiwrapper</span><br></pre></td></tr></table></figure>
+<p>最后三行是不是看懵了？GitHub 克隆下来的库并不能直接导入 Python 中，需要把里面真正的 Python 包复制出来。所以这里的操作其实是：复制出来我们要用的包、删掉整个项目、重命名包。</p>
+<p>最后新建一个文件，把网站中提到的那段代码复制进去：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 需要复制的代码</span></span><br><span class="line"><span class="keyword">from</span> steamapiwrapper.SteamGames <span class="keyword">import</span> Games</span><br><span class="line">games = Games()</span><br><span class="line">full_price = <span class="number">0.0</span></span><br><span class="line">discounted_price = <span class="number">0.0</span></span><br><span class="line"><span class="keyword">for</span> game <span class="keyword">in</span> games.get_all(<span class="string">'US'</span>):</span><br><span class="line">	<span class="keyword">if</span> game.price != <span class="number">0</span>:</span><br><span class="line">		discounted_price += game.discounted_price</span><br><span class="line">		full_price += game.full_price</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ vim calTotalPrices.py</span><br><span class="line"><span class="comment"># 进入 vim </span></span><br><span class="line"><span class="comment"># 粘贴上面的代码并保存</span></span><br></pre></td></tr></table></figure>
+<p>OK，运行一下试试：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ python calTotalPrices.py</span><br></pre></td></tr></table></figure>
+<p>报错了。</p>
+<p>具体的错误信息我忘了保存，大概就是说 JSON 不能解析<code>None</code>。打开出错的<code>SteamGames.py</code>定位过去看下，发现调用了一个<code>_open_url</code>函数，搜索一下这个函数看看…………</p>
+<p><del>没找到。</del></p>
+<p><del>这哥们绝对是恋爱了，否则不可能犯这么弱智的错误。</del></p>
+<blockquote>
+<p>经过@Ralph-Wang 提醒，发现<code>_open_url</code>是继承自<code>SteamBase.py</code>中的<code>SteamAPI</code>类。那应该和下面提到的问题一样，因为 URL 里面编码了参数，导致请求返回 null。</p>
+</blockquote>
+<p>好吧，看上下文，这里应该是请求一个 URL 并解析返回的 JSON 内容。</p>
+<p>那我们直接用<code>requests</code>这个库就行。</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ pip install requests</span><br></pre></td></tr></table></figure>
+<p>然后修改<code>SteamGames.py</code>文件：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 文件头部 import 进来</span></span><br><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"></span><br><span class="line">...</span><br><span class="line"></span><br><span class="line"><span class="comment"># 把两处 _open_url 都改过来</span></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">_get_games_from</span><span class="params">(self, url)</span>:</span></span><br><span class="line">        <span class="string">"""Generator to create the actual game objects"""</span></span><br><span class="line">        page = requests.get(url).json()    <span class="comment"># ←第一处</span></span><br><span class="line"></span><br><span class="line">...</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">get_ids_and_names</span><span class="params">(self)</span>:</span></span><br><span class="line">        <span class="string">"""</span><br><span class="line">        Returns two dicts: one mapping appid-&gt;game name, and one game name-&gt;appid</span><br><span class="line">        TODO: Refactor the code so we don't need to seperate dicts</span><br><span class="line"></span><br><span class="line">        """</span></span><br><span class="line">        url = <span class="string">"http://api.steampowered.com/ISteamApps/GetAppList/v2"</span></span><br><span class="line">        url_info = requests.get(url).json()    <span class="comment"># ←第二处</span></span><br></pre></td></tr></table></figure>
+<p>OK，现在再来跑一下看看：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ python calTotalPrices.py</span><br></pre></td></tr></table></figure>
+<p>又报错了。</p>
+<p>具体的错误信息我没保存（为什么这句话这么眼熟），反正大概意思就是 JSON 不能解析<code>None</code>。什么？刚才不就是这个错误吗？！</p>
+<p>仔细看了一下，错误位置和上次一样，到底是怎么回事？</p>
+<p>回答这个问题之前先来了解下请求 URL 时到底发生了什么：</p>
+<ul>
+<li>访问 URL</li>
+<li>服务器返回 JSON 数据</li>
+<li>拿到返回的数据并解析</li>
+</ul>
+<p>我们刚才解决的是第一步，访问 URL。现在又出错了，那就说明返回的 JSON 数据有问题。</p>
+<p>可以在代码里加一个<code>print page</code>看下，果然是<code>None</code>，也就是说根本就没拿到数据。</p>
+<p>怎么回事呢？我们再<code>print url</code>一下，我看到的是这个：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">http://store.steampowered.com/api/appdetails/?cc=US&#38;appids=5%2C262150%2C7%2C8%2C10%2C20%2C393240%2C30%2C40%2C262190%2C50%2C393270%2C60%2C262210%2C70%2C393290%2C80%2C262230%2C90%2C92%2C262240%2C100%2C393320%2C393330%2C262260&#38;l=english&#38;v=1</span><br></pre></td></tr></table></figure>
+<p>这<code>appids</code>肯定有问题啊！</p>
+<p><code>print all_ids</code>，从里面拿出来一个 id，手动拼接到上面的 URL 中：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">http://store.steampowered.com/api/appdetails/?appids=218620&#38;cc=US&#38;l=english&#38;v=1</span><br></pre></td></tr></table></figure>
+<p><img src="http://static.zybuluo.com/numbbbbb/itesja11wq5cd5d36waojc90/6.png" alt="访问结果"></p>
+<p>拿到了数据，看来就是 URL 拼接时候出问题了。</p>
+<p>看下拼接函数：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">_create_url</span><span class="params">(self, appids, cc)</span>:</span></span><br><span class="line">    <span class="string">"""Given a list of appids, creates an API url to retrieve them"""</span></span><br><span class="line">    appids = <span class="string">','</span>.join([str(x) <span class="keyword">for</span> x <span class="keyword">in</span> appids])</span><br><span class="line">    data = &#123;<span class="string">'appids'</span>: appids, <span class="string">'cc'</span>: cc, <span class="string">'l'</span>: <span class="string">'english'</span>, <span class="string">'v'</span>: <span class="string">'1'</span>&#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="string">"http://store.steampowered.com/api/appdetails/?&#123;&#125;"</span>.format(urllib.urlencode(data))</span><br></pre></td></tr></table></figure>
+<p>为什么要<code>urlencode</code>呢？删掉，直接手动拼接：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">_create_url</span><span class="params">(self, appids, cc)</span>:</span></span><br><span class="line">    <span class="string">"""Given a list of appids, creates an API url to retrieve them"""</span></span><br><span class="line">    appids = <span class="string">','</span>.join([str(x) <span class="keyword">for</span> x <span class="keyword">in</span> appids])</span><br><span class="line">    data = (appids, cc, <span class="string">'english'</span>)</span><br><span class="line">    <span class="keyword">return</span> <span class="string">"http://store.steampowered.com/api/appdetails/?appids=%s&amp;cc=%s&amp;l=%s&amp;v=1"</span> % data</span><br></pre></td></tr></table></figure>
+<p>再执行一下，还是报错。</p>
+<p>好吧，就是这样的，现在你知道两年前的项目是什么概念了。</p>
+<p>刚才我们在浏览器里不是拿到数据了吗？怎么又出问题了？</p>
+<p>仔细看下拼接的 URL，发现有个区别：拼接的 URL 里有多个<code>appid</code>，我们刚才只试了一个。</p>
+<p>修改测试 URL：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">http://store.steampowered.com/api/appdetails/?appids=218620,441600&#38;cc=US&#38;l=english&#38;v=1</span><br></pre></td></tr></table></figure>
+<p><img src="http://static.zybuluo.com/numbbbbb/mkir67whv2z73jn6svioiznw/7.png" alt="测试"></p>
+<p>果然，返回 null。</p>
+<p>到底是怎么回事？</p>
+<p>再次阅读<code>steamapiwrapper</code>的文档，发现作者提到了一篇文章，说他用文章里的方法重构了 API，我们去看看<a href="https://steamdb.info/blog/store-prices-api/" target="_blank" rel="external">那篇文章</a>。</p>
+<p>打开一看，说的就是我们这个 API 啊！往下翻，看到好多两年前的评论，再往下翻，最底部的一条评论是五个月前的，看看说了什么：</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/5tjif2qijoxk4apy9sobxnda/8.png" alt="评论"></p>
+<p>热泪盈眶！兄弟你是个好人啊！！不仅发现了这个问题，还给出了解决方法！</p>
+<p>把<code>&amp;filters=price_overview</code>加到 URL 结尾看看：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">http://store.steampowered.com/api/appdetails/?appids=218620,441600&#38;cc=US&#38;l=english&#38;v=1&#38;filters=price_overview</span><br></pre></td></tr></table></figure>
+<p><img src="http://static.zybuluo.com/numbbbbb/0sfgqfbr4xv1wfcdz20e1wsy/9.png" alt="测试"></p>
+<p>热泪盈眶 again！数据出来了，而且正是我们想要的价格数据！</p>
+<p>这里做个笔记，返回的数据中<code>currency</code>表示货币种类，<code>initial</code>表示原价，<code>final</code>表示折扣价。哎这游戏怎么这么贵？1999 美元？打开 Steam 搜了一下，是 19.99 美元，明白了，这个数字要除以 100 才是实际价格。</p>
+<blockquote>
+<p>科普：为什么 Steam 要乘以 100？</p>
+<p>在很多语言中 0.1 + 0.1 都不等于 0.2，这是因为计算机本身的设计缺陷，无法准确保存浮点数（也就是小数），因此对浮点数做运算会有误差。最简单的解决办法就是把浮点数变成整数进行运算，最终需要展示时再除回小数。</p>
+<p>如果你想了解更多浮点数内容，可以阅读<a href="https://www.zhihu.com/question/20679634" target="_blank" rel="external">逼乎上的答案</a>。</p>
+</blockquote>
+<p>下面继续修改代码：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">_create_url</span><span class="params">(self, appids, cc)</span>:</span></span><br><span class="line">    <span class="string">"""Given a list of appids, creates an API url to retrieve them"""</span></span><br><span class="line">    appids = <span class="string">','</span>.join([str(x) <span class="keyword">for</span> x <span class="keyword">in</span> appids])</span><br><span class="line">    data = (appids, cc, <span class="string">'english'</span>)</span><br><span class="line">    <span class="keyword">return</span> <span class="string">"http://store.steampowered.com/api/appdetails/?appids=%s&amp;cc=%s&amp;l=%s&amp;v=1&amp;filters=price_overview"</span> % data</span><br></pre></td></tr></table></figure>
+<p>再次运行，又报错了，错误提示不一样了！可喜可贺。</p>
+<p>具体的错误提示我忘了（……），反正大概是说<code>Game</code>类初始化时候有问题。</p>
+<p>看一下出错位置的代码：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> appid <span class="keyword">in</span> page:</span><br><span class="line">	game = Game(page[appid], appid)</span><br><span class="line">	<span class="keyword">if</span> game.success:</span><br><span class="line">	    <span class="keyword">yield</span> game</span><br></pre></td></tr></table></figure>
+<p>这里的<code>page</code>是一个解析后的 JSON 内容，也就是说它是一个字典。用<code>for</code>循环去遍历的时候，拿到的<code>appid</code>是字典的键，传入<code>Game</code>类生成实例的时候出错了。跳过去看了一下<code>Game</code>类的实现代码，好麻烦，懒得改了，反正已经拿到价格数据，直接返回得了。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">_get_games_from</span><span class="params">(self, url)</span>:</span></span><br><span class="line">    <span class="string">"""Generator to create the actual game objects"""</span></span><br><span class="line">    page = requests.get(url).json()</span><br><span class="line">    <span class="keyword">for</span> game <span class="keyword">in</span> page:</span><br><span class="line">        <span class="keyword">if</span> page[game][<span class="string">'success'</span>] <span class="keyword">and</span> page[game][<span class="string">'data'</span>]:</span><br><span class="line">            <span class="keyword">yield</span> page[game][<span class="string">'data'</span>][<span class="string">'price_overview'</span>]</span><br></pre></td></tr></table></figure>
+<p>再重复一遍，page 是字典，所以要用方括号去获取内容。</p>
+<p>测试的时候发现有时候请求成功但是<code>data</code>是空，所以<code>if</code>中加了一个判断条件。</p>
+<p>由于返回的内容改变，我们还需要修改<code>calTotalPrices.py</code>里面的代码：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> steamapiwrapper.SteamGames <span class="keyword">import</span> Games</span><br><span class="line">games = Games()</span><br><span class="line">full_price = <span class="number">0.0</span></span><br><span class="line">discounted_price = <span class="number">0.0</span></span><br><span class="line"><span class="keyword">for</span> game <span class="keyword">in</span> games.get_all(<span class="string">'US'</span>):</span><br><span class="line">	<span class="keyword">if</span> game[<span class="string">'initial'</span>] != <span class="number">0</span>:</span><br><span class="line">		discounted_price += game[<span class="string">'final'</span>]</span><br><span class="line">		full_price += game[<span class="string">'initial'</span>]</span><br><span class="line">		<span class="keyword">print</span> full_price, discounted_price</span><br></pre></td></tr></table></figure>
+<p>再次运行程序，这次没有报错，并且一直在输出价格，大功告成！</p>
+<p>这一节写了好长，终于能结束了。</p>
+<h2 id="u9A8C_u8BC1"><a href="#u9A8C_u8BC1" class="headerlink" title="验证"></a>验证</h2><p>代码跑通了，下面就是要检查数据是否正确。</p>
+<p>执行：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ python calTotalPrices.py</span><br></pre></td></tr></table></figure>
+<p>一开始没问题，过了一会又报错了。</p>
+<p><img src="http://static.zybuluo.com/numbbbbb/letp7i9nq115kbfiswhhfplg/2.png" alt="ARE YOU KIDDING ME?"></p>
+<p>不是没问题了吗？</p>
+<p>这时候，经验丰富的同学应该已经想到了一种可能性：API 调用频率限制。</p>
+<p>没错，Steam 不是慈善家，API 资源不可能给你无限使用。经过一番研究，发现确实是触发了 API 的限制。一旦访问频率过快，Steam 会直接返回 null。</p>
+<p>那么 Steam 的限制到底是多少？</p>
+<p>Google 一番之后，发现 Steam 官方没有任何说明。聪明的网友们自己总结出几条规则：</p>
+<ul>
+<li>10 秒内最多调用 10 次</li>
+<li>5 分钟内最多调用 200 次</li>
+<li>x 分钟内……</li>
+</ul>
+<p>好了好了我明白了，总之一秒调用一次肯定没问题是吧？简单，加个<code>sleep(1)</code>：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> time</span><br><span class="line"></span><br><span class="line">...</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> url <span class="keyword">in</span> urls:</span><br><span class="line">    <span class="keyword">for</span> game <span class="keyword">in</span> self._get_games_from(url):</span><br><span class="line">        <span class="keyword">yield</span> game</span><br><span class="line">    time.sleep(<span class="number">1</span>)</span><br></pre></td></tr></table></figure>
+<p>加完之后，经验丰富的同学应该又想到了另一个问题：要抓多久？</p>
+<p><code>print len(all_ids)</code>，大概有 23000 个 id，代码中<code>self.num = 25</code>，每次请求查询 25 个，需要查询 23000/25 = 1000 次。每次请求睡眠一秒，那就是 1000 多秒，大概 17 分钟。再加上请求本身需要的时间，可能要几十分钟吧。</p>
+<p>看起来也可以接受，不过还能优化吗？</p>
+<p>仔细看代码中的注释：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">__init__</span><span class="params">(self,num=None)</span>:</span></span><br><span class="line">    <span class="string">"""</span><br><span class="line">    args:</span><br><span class="line">    num -- number of games to query per call. The default 150 should work in most cases.</span><br><span class="line"></span><br><span class="line">    """</span></span><br><span class="line">    self.num = <span class="number">25</span> <span class="keyword">if</span> num <span class="keyword">is</span> <span class="keyword">None</span> <span class="keyword">else</span> num</span><br></pre></td></tr></table></figure>
+<p>原来默认值是 150 啊，那我们就改成<code>self.num = 150</code>，一下快了 6 倍，好开心。</p>
+<p>下面就来正式运行一下，看看能否拿到数据：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ nohup python calTotalPrices.py &gt; result &amp;</span><br></pre></td></tr></table></figure>
+<p>咦，怎么出来一个<code>nohup</code>？这是一个新命令，简单来说就是后台执行。这条命令把输出写到<code>result</code>文件中，结尾的<code>&amp;</code>会让进程在后台持续运行，哪怕 ssh 断掉进程也不会中止。</p>
+<p>然后等就可以了，什么时候程序执行完了，什么时候拿到结果。</p>
+<p>等几分钟就跑完了，看看总价：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">15031825 14903412</span><br></pre></td></tr></table></figure>
+<p>哇，真不少啊！十五万美元！</p>
+<p>现在已经解决了我的问题，算出了总价。不过我还想做得更多，能不能让其他人也看到这个数据呢？</p>
+<p>当然能，做个网站就可以了。</p>
+<h2 id="u5C55_u793A"><a href="#u5C55_u793A" class="headerlink" title="展示"></a>展示</h2><p>现在已经拿到数据了，接下来要做的是展示数据。</p>
+<p>我们从用户的角度来思考，他们如何查看数据？</p>
+<ul>
+<li>访问一个 URL，因此需要<strong>注册一个域名</strong></li>
+<li>请求会发送到后端服务器，因此需要<strong>准备一个 VPS</strong></li>
+<li>VPS 需要处理请求，因此需要<strong>配置 Nginx</strong></li>
+<li>Nginx 拿到请求之后要反向代理给具体的处理者，因此需要<strong>编写一个 Node.js 程序</strong></li>
+<li>Node.js 程序需要返回一个页面，因此需要<strong>编写一个 HTML 页面</strong></li>
+</ul>
+<p>OK，就是这些，涉及到很多东西，但是都不难。具体实施的时候顺序稍有不同，我们一步一步说。</p>
+<h3 id="u6CE8_u518C_u4E00_u4E2A_u57DF_u540D"><a href="#u6CE8_u518C_u4E00_u4E2A_u57DF_u540D" class="headerlink" title="注册一个域名"></a>注册一个域名</h3><p>具体教程自己 Google，一般注册域名国内去万网，国外去<a href="https://www.godaddy.com/" target="_blank" rel="external">GoDaddy</a>，<a href="https://www.name.com/" target="_blank" rel="external">Name</a>。</p>
+<p>买好域名之后，把域名解析到自己的 VPS IP 地址就可以了。</p>
+<h3 id="u51C6_u5907_u4E00_u4E2A_VPS"><a href="#u51C6_u5907_u4E00_u4E2A_VPS" class="headerlink" title="准备一个 VPS"></a>准备一个 VPS</h3><p>VPS 是另一个话题，你问我资词哪个？我主要用 Linode 和阿里云。不过要注意，大陆的主机要求域名备案，不备案的域名不能解析到大陆主机。所以如果你域名没备案，去买香港或者新加坡的主机，阿里云有，UCloud 也有，很多家都有。还可以买日本和欧美主机，不过速度比较慢。</p>
+<h3 id="u7F16_u5199_u4E00_u4E2A_HTML__u9875_u9762"><a href="#u7F16_u5199_u4E00_u4E2A_HTML__u9875_u9762" class="headerlink" title="编写一个 HTML 页面"></a>编写一个 HTML 页面</h3><p>由于只需要展示数字，所以直接编写一个带占位符的简单页面就可以：</p>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line"><span class="doctype">&lt;!DOCTYPE html&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="title">html</span> <span class="attribute">lang</span>=<span class="value">"zh-CN"</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="title">head</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="title">meta</span> <span class="attribute">charset</span>=<span class="value">"UTF-8"</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="title">title</span>&gt;</span>买下 Steam 所有游戏要花多少钱？<span class="tag">&lt;/<span class="title">title</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="title">meta</span> <span class="attribute">name</span>=<span class="value">"viewport"</span> <span class="attribute">content</span>=<span class="value">"width=device-width, initial-scale=1,user-scalable=no"</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="title">style</span> <span class="attribute">type</span>=<span class="value">"text/css"</span>&gt;</span><span class="css"></span><br><span class="line">    ... 省略，可以直接查看我的网站源码</span><br><span class="line">    </span><span class="tag">&lt;/<span class="title">style</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="title">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="title">body</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="title">div</span> <span class="attribute">class</span>=<span class="value">"main"</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="title">h2</span>&gt;</span>买下Steam所有游戏需要<span class="tag">&lt;/<span class="title">h2</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="title">h1</span>&gt;</span>$&#123;dollar&#125; 或 ￥&#123;cny&#125;<span class="tag">&lt;/<span class="title">h1</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="title">h4</span>&gt;</span>共有<span class="tag">&lt;/<span class="title">h4</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="title">h1</span>&gt;</span>&#123;us_number&#125;(美区),&#123;cn_number&#125;(中区)个游戏和 DLC！<span class="tag">&lt;/<span class="title">h1</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="title">p</span> <span class="attribute">class</span>=<span class="value">"date"</span>&gt;</span>更新日期：&#123;date&#125;<span class="tag">&lt;/<span class="title">p</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="title">p</span>&gt;</span><span class="tag">&lt;<span class="title">a</span> <span class="attribute">href</span>=<span class="value">"http://numbbbbb.com/2016/02/15/20160215_%E5%A6%82%E4%BD%95%E8%AE%A1%E7%AE%97%20Steam%20%E6%B8%B8%E6%88%8F%E6%80%BB%E4%BB%B7%EF%BC%9F/"</span>&gt;</span>原理详解<span class="tag">&lt;/<span class="title">a</span>&gt;</span><span class="tag">&lt;/<span class="title">p</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;/<span class="title">div</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="title">div</span> <span class="attribute">class</span>=<span class="value">"footer"</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="title">span</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="title">a</span> <span class="attribute">href</span>=<span class="value">"http://numbbbbb.com"</span>&gt;</span>作者@梁杰_numbbbbb<span class="tag">&lt;/<span class="title">a</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="title">span</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;/<span class="title">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="title">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="title">html</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<p>注意到里面有几个奇怪的东西，那些是占位符，Node.js 中会读取 Python 执行出来的结果并替换掉，用户看到的网页显示的是实际数字。</p>
+<blockquote>
+<p>你可以根据自己的喜好调整页面样式。</p>
+</blockquote>
+<h3 id="u7F16_u5199_u4E00_u4E2A_Node-js__u7A0B_u5E8F"><a href="#u7F16_u5199_u4E00_u4E2A_Node-js__u7A0B_u5E8F" class="headerlink" title="编写一个 Node.js 程序"></a>编写一个 Node.js 程序</h3><p>首先配置好 Node.js 环境以及 npm，不会的自行 Google。</p>
+<p>这里用到了<code>hapi</code>，一个 Node.js 服务端框架，专门用来处理网络请求。还用到了<code>pm2</code>，你可以把它理解成一个监控程序，它会帮你监控进程是否正常运行，并在必要的时候重启进程，这样你的服务就不会轻易狗带。我喜欢 ES6，所以需要安装<code>babel-cli</code></p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ sudo npm install pm2 babel-cli -g</span><br><span class="line">$ sudo npm install hapi</span><br></pre></td></tr></table></figure>
+<p>由于<code>babel-cli</code>和<code>pm2</code>都需要执行命令行命令，所以全局安装。</p>
+<p>下面创建 Node.js 程序：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ touch index.js</span><br><span class="line">$ vim index.js</span><br></pre></td></tr></table></figure>
+<p>拷贝进去下面的代码：</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br></pre></td><td class="code"><pre><span class="line">#!/usr/bin/env babel-node</span><br><span class="line">import Hapi from 'hapi'</span><br><span class="line">import fs from 'fs'</span><br><span class="line"></span><br><span class="line">let server = new Hapi.Server()</span><br><span class="line">server.connection(&#123;</span><br><span class="line">  port: 3003,</span><br><span class="line">  routes: &#123;</span><br><span class="line">    cors: &#123;</span><br><span class="line">      origin: ['*']</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;)</span><br><span class="line"></span><br><span class="line">function numberWithCommas(x) &#123;</span><br><span class="line">    var parts = x.toString().split(".");</span><br><span class="line">    parts[0] = parts[0].replace(/\B(?=(\d&#123;3&#125;)+(?!\d))/g, ",");</span><br><span class="line">    return parts.join(".");</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">server.route(&#123;</span><br><span class="line">  method: 'GET',</span><br><span class="line">  path: '/',</span><br><span class="line">  handler: (request, reply) =&gt; &#123;</span><br><span class="line">    fs.readFile("finalResult", (err, data) =&gt; &#123;</span><br><span class="line">      if (err) throw err</span><br><span class="line">      let rawData = data.toString().split('\n')</span><br><span class="line">      fs.stat("finalResult", (err, data) =&gt; &#123;</span><br><span class="line">        let mtime = data.mtime</span><br><span class="line">        fs.readFile("index.html", (err, data) =&gt; &#123;</span><br><span class="line">          var result = data.toString()</span><br><span class="line">          result = result.replace("&#123;dollar&#125;", numberWithCommas(parseInt(rawData[1]) / 100))</span><br><span class="line">          result = result.replace("&#123;cny&#125;", numberWithCommas(parseInt(rawData[4]) / 100))</span><br><span class="line">          result = result.replace("&#123;us_number&#125;", numberWithCommas(rawData[2]))</span><br><span class="line">          result = result.replace("&#123;cn_number&#125;", numberWithCommas(rawData[5]))</span><br><span class="line">          result = result.replace("&#123;date&#125;", mtime.toISOString())</span><br><span class="line">          reply(result).code(200)</span><br><span class="line">        &#125;)</span><br><span class="line">      &#125;)</span><br><span class="line">    &#125;)</span><br><span class="line">  &#125;</span><br><span class="line">&#125;)</span><br><span class="line"></span><br><span class="line">server.start((err) =&gt; &#123;</span><br><span class="line">  console.log(err)</span><br><span class="line">  console.log('Server running at:', server.info.uri)</span><br><span class="line">&#125;)</span><br></pre></td></tr></table></figure>
+<p>再次重复，本文的代码<strong>不包含</strong>任何最佳实践，Just For Fun！</p>
+<p>这段代码很简单，启动一个服务器监听 3003 端口，如果有请求过来，就直接读取上面的 HTML 文件，用最新的数据替换掉 HTML 中的占位符，然后返回。</p>
+<h3 id="u914D_u7F6E_Nginx"><a href="#u914D_u7F6E_Nginx" class="headerlink" title="配置 Nginx"></a>配置 Nginx</h3><p>在 VPS 上安装和配置 Nginx。别问我怎么安装，问 Google。</p>
+<p>打开配置文件：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ vim /etc/nginx/nginx.conf</span><br></pre></td></tr></table></figure>
+<p>添加一段内容：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">server &#123;&#10;  listen 80;&#10;  server_name steamtuhao.com www.steamtuhao;    # &#8592;&#20889;&#20320;&#30340;&#22495;&#21517;&#10;&#10;  location / &#123;&#10;    proxy_pass http://127.0.0.1:3003;    # &#8592;&#20889;&#20320;&#30340;&#31471;&#21475;&#10;    proxy_http_version 1.1;&#10;    proxy_set_header Upgrade $http_upgrade;      &#10;    proxy_set_header Connection &#39;upgrade&#39;;&#10;    proxy_set_header Host $host;&#10;    proxy_cache_bypass $http_upgrade;&#10;  &#125;&#10;&#125;</span><br></pre></td></tr></table></figure>
+<p>注意两个地方，一个是域名，一个是端口。</p>
+<p>当然，我们还没说到域名，先往下翻，看域名那一节，搞定域名再来这里配置。</p>
+<p>写完之后重启 Nginx：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ service nginx restart</span><br></pre></td></tr></table></figure>
+<p>看到输出<code>[OK]</code>就表示重启成功，配置没问题。如果不写域名这里会出错。</p>
+<h3 id="Burst_Link_uFF01"><a href="#Burst_Link_uFF01" class="headerlink" title="Burst Link！"></a>Burst Link！</h3><p>别问我标题什么意思，反正看 Link 也能猜到，就是把各个部分连接起来。</p>
+<p>现在已经有了：</p>
+<ul>
+<li>域名</li>
+<li>VPS</li>
+<li>Nginx</li>
+<li>HTML 页面</li>
+<li>Node.js 程序</li>
+</ul>
+<p>并且域名已经解析到 VPS、Nginx 已经配置好，只差最后一步，用<code>pm2</code>运行你的 Node.js 程序。</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ pm2 start index.js --interpreter babel-node</span><br></pre></td></tr></table></figure>
+<p>由于我使用了 ES6，所以要把解释器设置成<code>babel-node</code>。</p>
+<p>执行完这一步就可以了，现在用户可以访问你的 URL，请求会被发送到 VPS，VPS 上的 Nginx 接收到请求之后会转发给 Node.js 程序，这个程序会读取数字、替换占位符并返回最终的 HTML。</p>
+<p>好了，展示部分已经搞定。下面还有最后一个任务：自动更新数据。</p>
+<h2 id="Final_Round_21"><a href="#Final_Round_21" class="headerlink" title="Final Round!"></a>Final Round!</h2><p>首先来修改我们的计算脚本，让它把<strong>美元总价</strong>、<strong>人民币总价</strong>、<strong>游戏和 DLC 总数</strong>以及<strong>修改日期</strong>写入<code>finalResult</code>文件，一个一行。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> steamapiwrapper.SteamGames <span class="keyword">import</span> Games</span><br><span class="line">games = Games()</span><br><span class="line">us_full_price = <span class="number">0</span></span><br><span class="line">us_discounted_price = <span class="number">0</span></span><br><span class="line">us_gameTotal = <span class="number">0</span></span><br><span class="line"><span class="keyword">for</span> game <span class="keyword">in</span> games.get_all(<span class="string">'US'</span>):</span><br><span class="line">	<span class="keyword">if</span> game[<span class="string">'initial'</span>] != <span class="number">0</span>:</span><br><span class="line">		us_gameTotal += <span class="number">1</span></span><br><span class="line">		us_discounted_price += game[<span class="string">'final'</span>]</span><br><span class="line">		us_full_price += game[<span class="string">'initial'</span>]</span><br><span class="line"></span><br><span class="line">cn_full_price = <span class="number">0</span></span><br><span class="line">cn_discounted_price = <span class="number">0</span></span><br><span class="line">cn_gameTotal = <span class="number">0</span></span><br><span class="line"><span class="keyword">for</span> game <span class="keyword">in</span> games.get_all(<span class="string">'CN'</span>):</span><br><span class="line">	<span class="keyword">if</span> game[<span class="string">'initial'</span>] != <span class="number">0</span>:</span><br><span class="line">		cn_gameTotal += <span class="number">1</span></span><br><span class="line">		cn_discounted_price += game[<span class="string">'final'</span>]</span><br><span class="line">		cn_full_price += game[<span class="string">'initial'</span>]</span><br><span class="line"></span><br><span class="line"><span class="keyword">print</span> <span class="string">"\n"</span>.join([str(us_full_price), str(us_discounted_price), str(us_gameTotal), str(cn_full_price), str(cn_discounted_price), str(cn_gameTotal)])</span><br></pre></td></tr></table></figure>
+<p>我承认上面的代码很蠢，或许下一个版本我会重构，现在嘛，Just For Fun!</p>
+<p>分别计算美元和人民币的价格，然后输出。注意输出顺序要和前面的 Node.js 程序对应。</p>
+<p>最后写一个 Linux 的 crontab 命令，每天半夜 12 点自动执行一遍这个程序：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ crontab <span class="operator">-e</span></span><br><span class="line"><span class="comment"># 执行之后会打开一个文件，在文件倒数第二行写入以下内容</span></span><br><span class="line"><span class="number">0</span> <span class="number">23</span> * * * <span class="built_in">cd</span> /steamtuhao &amp;&amp; python calTotalPrices.py &gt; result &amp;&amp; mv finalResult finalResult.bak &amp;&amp; mv result finalResult</span><br></pre></td></tr></table></figure>
+<p>这里有个坑，注意，是写到<strong>倒数第二行</strong>，这个文件结尾必须有一个空行！如果写到最后一行无法执行。</p>
+<p>是不是很奇怪？我个人认为这是 Linux 的一个脑残之处。执行<code>man crontab</code>，手册中有一行：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cron requires that each entry in a crontab end in a newline character. &#10;If the last entry in a crontab is missing the newline,&#10;cron  will  consider the crontab (at least partially) broken and refuse to install it.</span><br></pre></td></tr></table></figure>
+<p>这句话的意思是说：最后一行必须是空行，否则最后一个任务无法执行。</p>
+<p>没有任何解释，反正就是无法执行。难以想象，一个 21 世纪的 Linux 系统居然连空行问题都处理不了！</p>
+<p>无论如何，一定要记住，<strong>crontab 文件结尾必须有空行</strong>。</p>
+<p>好了，现在你已经完成了所有步骤，把域名发给你的朋友吧！</p>
+<h2 id="u603B_u7ED3"><a href="#u603B_u7ED3" class="headerlink" title="总结"></a>总结</h2><p>早晨开始写代码，中午开始写博客，这一切都在一天之内搞定。再次重申，文章中的代码并不好，因为代码本来就不是重点，重点是这个过程带给了我很多乐趣！</p>
+<p>我一直觉得编程和写作、绘画一样，是一种创造的过程。我喜欢编程，我可以用它实现我的各种奇思妙想，我很享受这个过程。</p>
+<p>希望你也能享受编程。</p>
+<h2 id="u5173_u4E8E_u6211"><a href="#u5173_u4E8E_u6211" class="headerlink" title="关于我"></a>关于我</h2><p>这一部分是最不重要的，因此放在最后。</p>
+<p>如果你真的读到了这里，想必对这个喋喋不休的家伙有些兴趣。</p>
+<p>我是梁杰，90 后，职业前端，业余 iOS，业余 Python，翻译过多本书。如果你想了解更多信息，可以访问以下链接：</p>
+<ul>
+<li><a href="http://numbbbbb.com" target="_blank" rel="external">我的博客</a>，最近才开始重建，内容不多，不过绝对有趣</li>
+<li><a href="https://github.com/numbbbbb" target="_blank" rel="external">GitHub</a>，或许你点开就会发现“哦原来是你！”</li>
+</ul>
+<h2 id="u5F00_u6E90_uFF1F"><a href="#u5F00_u6E90_uFF1F" class="headerlink" title="开源？"></a>开源？</h2><p>当然会开源啦！</p>
+<p>不过这个项目的代码太丑，开源出去只会误导新手，所以暂时不开。如果我还有精力和兴趣，会重构甚至重写这个项目，不过现在嘛……我要去休息了。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>先来看效果展示：<a href="http://steamtuhao.com">买下 Steam 所有游戏要花多少钱？</a>。</p>
+<h2 id="u80CC_u666F"><a href="#u80CC_u666F" class="headerlink" title="背景"></a>背景</h2><p>最近 Steam 玩得比较多，早晨突然想到一个有趣的问题：买下 Steam 所有游戏要花多少钱？</p>
+<p>去 Google 了一下，发现国外有个网站做了计算，但是 2014 年底就停止更新了。研究了一下代码和 Steam API，自己做了一个网站来玩。</p>
+<p>虽然没什么技术含量，但是很好的展示了<strong>如何把一个点子变成现实</strong>，所以记录下来。</p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2016/01/14/hello-world/"/>
+    <id>http://yoursite.com/2016/01/14/hello-world/</id>
+    <published>2016-01-14T10:22:05.221Z</published>
+    <updated>2016-01-14T10:22:05.221Z</updated>
+    <content type="html"><![CDATA[<p>等了一个多月，域名备案终于搞定，新个人网站启用。</p>
+<h1 id="u4E3A_u4EC0_u4E48_u8981_u5F00_u4E2A_u4EBA_u7F51_u7AD9_uFF1F"><a href="#u4E3A_u4EC0_u4E48_u8981_u5F00_u4E2A_u4EBA_u7F51_u7AD9_uFF1F" class="headerlink" title="为什么要开个人网站？"></a>为什么要开个人网站？</h1><p>之前有一个 WordPress 搭建的网站，只写了几篇文章，自从开始 <a href="https://github.com/numbbbbb/the-swift-programming-language-in-chinese" target="_blank" rel="external">Swift 文档翻译</a>之后就没有再更新过。</p>
+<p>最近读了一本书《Technical Blogging》，读完之后萌生了新想法：重新建立个人网站。</p>
+<a id="more"></a>
+<p>总结起来，建立个人网站的目的是：</p>
+<ul>
+<li>练习写作</li>
+<li>记录思想</li>
+<li>提高声望</li>
+</ul>
+<h1 id="u51C6_u5907_u600E_u4E48_u505A_uFF1F"><a href="#u51C6_u5907_u600E_u4E48_u505A_uFF1F" class="headerlink" title="准备怎么做？"></a>准备怎么做？</h1><p><a href="https://pragprog.com/book/actb/technical-blogging" target="_blank" rel="external">《Technical Blogging》</a>是一本非常棒的书，从起名到定位到运营到赚钱，详细讲解了技术博客的方方面面。我在阅读的过程中做了大量笔记，我自己也会按照书中内容进行实践。具体的笔记内容会整理之后发布上来。</p>
+<p><a href="http://www.amazon.com/Book-Writing-Ultimate-Guide-Well/dp/0989236706/" target="_blank" rel="external">《The Book on Writing》</a>是一本教你写作的书，介绍了非常多有用的小技巧。我正在阅读这本书，并在实践中掌握这些技巧。</p>
+<h1 id="u8FD9_u4E2A_u535A_u5BA2_u7528_u5230_u7684_u6280_u672F"><a href="#u8FD9_u4E2A_u535A_u5BA2_u7528_u5230_u7684_u6280_u672F" class="headerlink" title="这个博客用到的技术"></a>这个博客用到的技术</h1><ol>
+<li><a href="http://www.aliyun.com" target="_blank" rel="external">阿里云 VPS，Ubuntu 系统</a>：个人感觉并没有大家说的那么烂，国内的个人网站，够用</li>
+<li><a href="http://wanwang.aliyun.com" target="_blank" rel="external">万网域名</a></li>
+<li><a href="https://hexo.io" target="_blank" rel="external">Hexo</a>：静态网站生成器</li>
+<li><a href="https://github.com/pinggod/hexo-theme-apollo" target="_blank" rel="external">apollo 模板</a>：Hexo 的模板，风格来自 Vue.js 的文档，我很喜欢</li>
+<li><a href="http://nginx.org/en/" target="_blank" rel="external">Nginx</a>：反向代理服务器</li>
+<li><a href="http://macdown.uranusjr.com/" target="_blank" rel="external">MacDown</a>：Markdown 编辑器</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>等了一个多月，域名备案终于搞定，新个人网站启用。</p>
+<h1 id="u4E3A_u4EC0_u4E48_u8981_u5F00_u4E2A_u4EBA_u7F51_u7AD9_uFF1F"><a href="#u4E3A_u4EC0_u4E48_u8981_u5F00_u4E2A_u4EBA_u7F51_u7AD9_uFF1F" class="headerlink" title="为什么要开个人网站？"></a>为什么要开个人网站？</h1><p>之前有一个 WordPress 搭建的网站，只写了几篇文章，自从开始 <a href="https://github.com/numbbbbb/the-swift-programming-language-in-chinese">Swift 文档翻译</a>之后就没有再更新过。</p>
+<p>最近读了一本书《Technical Blogging》，读完之后萌生了新想法：重新建立个人网站。</p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+</feed>
