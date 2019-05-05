@@ -737,10 +737,16 @@
     <title><![CDATA[用 Docker 快速配置前端开发环境]]></title>
     <link href="http://yoursite.com/2016/09/26/20160926_%E7%94%A8%20Docker%20%E5%BF%AB%E9%80%9F%E9%85%8D%E7%BD%AE%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
     <id>http://yoursite.com/2016/09/26/20160926_用 Docker 快速配置前端开发环境/</id>
-    <published>2016-09-26T13:40:46.011Z</published>
-    <updated>2016-09-26T13:40:46.011Z</updated>
+    <published>2016-09-26T00:00:00.000Z</published>
+    <updated>2019-05-05T12:25:57.201Z</updated>
     <content type="html"><![CDATA[<p><img src="http://static.zybuluo.com/numbbbbb/ctkmhtvpsy66vz4cbdi6l7f8/logo%20%281%29.jpg" alt="Docker"></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/*&#10;&#25105;&#19981;&#26159; Docker &#19987;&#23478;&#10;&#25991;&#31456;&#26377;&#38169;&#35823;&#20043;&#22788;&#27426;&#36814;&#25351;&#20986;&#65292;&#27426;&#36814;&#21508;&#31181;&#20132;&#27969;&#35752;&#35770;&#10;*/</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>这篇文章写于三年前，有些内容已经过时，大家在阅读时重点参考思路即可，具体的实现方法和技术最好再搜索一下相关资料。</p>
+<p>Samba 部分建议用评论中提到的 Volume 功能替换，更加方便。</p>
+<p>文章结尾的招聘信息已经失效。</p>
+<p>——2019.5.5</p>
+</blockquote>
 <p>今天是你入职第一天。</p>
 <p>你起了个大早，洗漱干净带着材料去入职。</p>
 <p>签了合同，领了机器，坐到工位，泡一杯袋装红茶，按下开机键，输入密码，</p>

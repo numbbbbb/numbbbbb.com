@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2016/09/26/20160926_%E7%94%A8%20Docker%20%E5%BF%AB%E9%80%9F%E9%85%8D%E7%BD%AE%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</loc>
+    <lastmod>2019-05-05T12:25:57.201Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/01/01/20171231/</loc>
     <lastmod>2017-12-31T22:03:00.502Z</lastmod>
   </url>
@@ -14,11 +19,6 @@
   <url>
     <loc>http://yoursite.com/2016/10/15/20161015_%E5%A6%82%E4%BD%95%E4%BB%8E%E7%BE%8E%E4%BA%9A%E8%B4%AD%E4%B9%B0%20Kindle%20%E7%94%B5%E5%AD%90%E4%B9%A6/</loc>
     <lastmod>2016-10-15T10:04:08.119Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2016/09/26/20160926_%E7%94%A8%20Docker%20%E5%BF%AB%E9%80%9F%E9%85%8D%E7%BD%AE%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</loc>
-    <lastmod>2016-09-26T13:40:46.011Z</lastmod>
   </url>
   
   <url>
